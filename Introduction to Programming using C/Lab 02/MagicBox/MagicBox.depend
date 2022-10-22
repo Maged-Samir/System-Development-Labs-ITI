@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666022799 source:c:\users\maged\desktop\task\magicbox\main.c
+	<stdio.h>
+	<windows.h>
+

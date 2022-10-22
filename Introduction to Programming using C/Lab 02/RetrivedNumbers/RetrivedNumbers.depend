@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666020075 source:c:\users\maged\desktop\task\retrivednumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
