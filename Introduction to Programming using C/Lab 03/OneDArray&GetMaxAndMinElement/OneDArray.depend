@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666096152 source:c:\users\maged\desktop\task\onedarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
