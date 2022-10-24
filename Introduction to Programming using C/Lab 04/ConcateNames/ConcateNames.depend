@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666179583 source:c:\users\maged\desktop\task\concatenames\main.c
+	<stdio.h>
+	<stdlib.h>
+

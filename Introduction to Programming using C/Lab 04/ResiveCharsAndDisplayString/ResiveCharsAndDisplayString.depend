@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666179299 source:c:\users\maged\desktop\task\resivecharsanddisplaystring\main.c
+	<stdio.h>
+	<stdlib.h>
+
