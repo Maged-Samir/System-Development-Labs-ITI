@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666391577 source:c:\users\maged\desktop\task\integrateemployeewithmenu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+

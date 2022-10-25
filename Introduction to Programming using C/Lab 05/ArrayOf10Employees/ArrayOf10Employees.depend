@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666392475 source:c:\users\maged\desktop\task\arrayof10employees\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+

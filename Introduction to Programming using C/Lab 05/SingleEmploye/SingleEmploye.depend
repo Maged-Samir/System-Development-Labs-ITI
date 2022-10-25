@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666390668 source:c:\users\maged\desktop\task\singleemploye\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
