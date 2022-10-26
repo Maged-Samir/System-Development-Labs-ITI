@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666615616 source:c:\users\maged\desktop\task\lineeditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666610463 source:c:\users\maged\desktop\task\swapvalues\main.c
+	<stdio.h>
+	<stdlib.h>
+

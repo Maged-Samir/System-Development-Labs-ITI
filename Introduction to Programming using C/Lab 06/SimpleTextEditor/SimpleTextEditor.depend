@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666612659 source:c:\users\maged\desktop\task\simpletexteditor\main.c
+	<stdio.h>
+	<conio.h>
+	<process.h>
+
