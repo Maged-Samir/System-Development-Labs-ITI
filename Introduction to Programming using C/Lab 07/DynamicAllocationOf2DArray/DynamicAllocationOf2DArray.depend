@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666818184 source:c:\users\maged\desktop\task\dynamicallocationof2darray\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666613812 source:c:\users\maged\desktop\task\integratelineeditorinmenu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
