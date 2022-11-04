@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667252876 source:c:\users\maged\desktop\task\complexwithoperatoroverloading\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<cstring>
+
