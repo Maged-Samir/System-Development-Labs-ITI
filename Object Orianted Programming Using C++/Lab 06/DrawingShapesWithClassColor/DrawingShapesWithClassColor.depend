@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667390782 source:c:\users\maged\desktop\task\drawingshapeswithclasscolor\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<conio.h>
+
