@@ -1,0 +1,19 @@
+-in general ipconfig is a command line which allow us to know some importatnt information about our machine like
+ - Physical Address (MAC)          												        
+ - IP address 													 
+ - Subnet mask													       
+ - Default gateway														
+ - DNS server
+
+
+
+ - to cheak private IP address (logical address) of your device
+  -ipconfig
+  -ipconfig /all
+  -ipconfig /release
+  -ipconfig /renew
+
+ - to check your mac address (physical address)
+   -ipconfig /all
+   -getmac
+   -getmac /v 
