@@ -17,3 +17,20 @@
    -ipconfig /all
    -getmac
    -getmac /v 
+
+
+ -  to assign IP address to device , we have 3 ways 
+    1.manually  -->Control Panel\Network and Internet\Network Connections ->change adapter setting
+    2.automatic -->by DHCP
+    3.apipa     -->enabled if we have not DHCP
+
+ - Ping is a command line allow us to check connectivity with other devices and also used in DOS attack 
+  - Ping IP
+  - Ping URL
+  - Ping IP -l
+  - Ping IP -n
+  - Ping IP -t
+
+ - to know session and ports on our device
+  - netstat -n
+  - netstat -a
