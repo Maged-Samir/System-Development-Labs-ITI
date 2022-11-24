@@ -8,4 +8,4 @@ Information Technology Institute
 * [Object Orianted Programming Using C++](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/Object%20Orianted%20Programming%20Using%20C%2B%2B)
 + [Database I](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/Database)
 - [Network](https://github.com/Maged-Samir/System-Development-Labs-ITI/blob/main/Network/Lab.txt)
-* [Data Structures & Algorithms](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/Data%20Structures%20%26%20Algorithms/Lab%2001)
+* [Data Structures & Algorithms](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/Data%20Structures%20%26%20Algorithms)
