@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style=" font-size: 30px;  color: rgb(32, 7, 63); text-align: center;">
+        <div style="font-size: 40px; color: red; margin: 0 auto;">
+             wellcome <span id="data1"> Name</span>
+        </div>
+        
+        The Address is equal to <span id="data2"> Address</span><br>
+        The Email is equal to <span id="data3"> Email</span><br>
+        The Mobile is equal to <span id="data4"> Mobile</span><br>
+       
+
+        </div>
+
+  <script>
+  const getQueryParams = (params, url) => {
+  let href = url;
+  // this is an expression to get query strings
+  let regexp = new RegExp( '[?&]' + params + '=([^&#]*)', 'i' );
+  let qString = regexp.exec(href);
+  return qString ? qString[1] : null;
+};
+console.log(getQueryParams('data','http://example.com?example=something&data=32'));
+//console.log(window.location.href);
+//console.log(getQueryParams('email',window.location.href));
+
+getQueryParams('email',window.location.href) ;
+
+
+document.getElementById("data1").innerHTML=getQueryParams('name',window.location.href);
+document.getElementById("data2").innerHTML=getQueryParams('address',window.location.href);
+document.getElementById("data3").innerHTML=getQueryParams('email',window.location.href);
+document.getElementById("data4").innerHTML=getQueryParams('mobile',window.location.href);
+        </script>
+</body>
+</html>

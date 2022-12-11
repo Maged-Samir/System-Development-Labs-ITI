@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+   
+    <div style=" font-size: 30px;  color: rgb(32, 7, 63); text-align: center;">
+        <div style="font-size: 40px; color: red; margin: 0 auto;">
+             wellcome <span id="data"> Name</span>
+        </div>
+        
+        The Address is equal to <span id="data1"> Address</span><br>
+        The Email is equal to <span id="data2"> Email</span><br>
+        The Mobile is equal to <span id="data3"> Mobile</span><br>
+        The Mobile is equal to <span id="dodo"> dodo</span><br>
+
+        </div>
+
+        <script>
+    //displaying the value from local storage to another page by their respective Ids
+    document.getElementById("data").innerHTML=localStorage.getItem("txtValue");
+    document.getElementById("data1").innerHTML=localStorage.getItem("txtValue1");
+    document.getElementById("data2").innerHTML=localStorage.getItem("txtValue2");
+    document.getElementById("data3").innerHTML=localStorage.getItem("txtValue3");    
+        </script>
+</body>
+</html>
