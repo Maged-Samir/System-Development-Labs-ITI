@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="movepic.js"></script>
+    <title>Moving pics</title>
+    
+    <style>
+        div {
+            height: 300px;
+            width: 300px;
+            border: solid;
+            border-color: red;
+            }
+        
+        #l_img{
+            margin-left: 0px;
+            margin-top:120px;
+            position:absolute;
+        }
+        #r_img{
+            margin-left: 255px;
+            margin-top:120px;
+            position:absolute;
+        }
+        #b_img{
+            margin-left: 140px;
+            margin-top:260px;
+            position:absolute;
+        }
+    </style>
+</head>
+<body onload="init()">
+    <div>
+        <img src="icon2.gif" id="r_img">
+        <img src="icon1.gif" id="l_img">
+        <img src="TOP.JPG" id="b_img" width="40px">
+
+    </div>
+    <br>
+    <input type="button" value="go" id="state" onclick="state_fun()">
+    <input type="button" value="reset" id="reset" onclick="reset_pos()">
+    <br>
+    <br>
+    <label id = "label3" style="color: blue;"> </label>
+    <label id = "label1" style="color: blue;"> </label>
+    <label id = "label5" style="color: blue;"></label>
+    <br> 
+    <label id = "label4" style="color: blue;"> </label>
+    <label id = "label2" style="color: blue;"> </label>
+    <label id = "label6" style="color: blue;"></label>
+    <br> 
+    <label id = "label7" style="color: blue;"> </label>
+    <label id = "label8" style="color: blue;"> </label>
+    <label id = "label9" style="color: blue;"></label>
+
+
+</body>
+</html>

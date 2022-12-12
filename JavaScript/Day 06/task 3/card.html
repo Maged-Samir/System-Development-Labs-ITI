@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card generator</title>
+</head>
+<body style="background-color:rgba(248,246,221,255) ; text-align: center;">
+    <p style="background: linear-gradient(0deg, rgba(254,246,217,255), rgba(252,234,203,255));"> <br> </p>
+    <h1 style="text-align:center ; color:rgb(37, 150, 190);">Generate Get Well Soon Card</h1>
+    <p style="background: linear-gradient(0deg, rgba(252,234,203,255), rgba(254,246,217,255));"> <br> </p>
+
+
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+          <td><img src="gws.jpg" id ="gws.jpg" width="150" height="150"><br><input type="radio" id ="1" name="img_selection" onclick="selectedImg('gws.jpg')"/></td>
+          <td><img src="gws2.jpg" id ="gws2.jpg" width="150" height="150"><br><input type="radio" id ="2" name="img_selection" onclick="selectedImg('gws2.jpg')"/></td>
+          <td><img src="gws3.jpg" id ="gws3.jpg" width="150" height="150"><br><input type="radio" id ="3" name="img_selection" onclick="selectedImg('gws3.jpg')"/></td>
+        </tr>
+        <tr>
+            <td><img src="gwsf.jpg" id ="gwsf.jpg"width="150" height="150"><br><input type="radio" id ="4" name="img_selection" onclick="selectedImg('gwsf.jpg')"/></td>
+            <td><img src="gwsf2.jpg" id ="gwsf2.jpg"width="150" height="150"><br><input type="radio" id ="5" name="img_selection" onclick="selectedImg('gwsf2.jpg')"/></td>
+            <td><img src="gwsf3.jpg" id ="gwsf3.jpg"width="150" height="150"><br><input type="radio" id ="6" name="img_selection" onclick="selectedImg('gwsf3.jpg')"/></td>
+        </tr>
+      </table> 
+      
+      <h2 style="color:rgb(37, 150, 190); font-family:Arial, Helvetica, sans-serif;">
+        Personal Message
+    </h2>
+    
+    <textarea rows = "5" cols = "60" id="message"> </textarea><br>
+    
+    <button id="generate" onclick="generate_card()">generate</button> <br>
+    
+    <script src="script.js"></script>
+    <script src="cookie.js"></script>
+</body>
+</html>
