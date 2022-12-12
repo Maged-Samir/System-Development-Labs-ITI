@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <div style=" font-size: 30px;  color: rgb(32, 7, 63); text-align: center;">
+            <div>
+                <label for="userNameFiled">Enter your name:</label>
+                <input type="text" placeholder="UserName" id="userNameFiled" />
+                <br>
+                <br>
+            </div>
+            <div>
+                <label for="userAgeFiled">Enter your Age: &nbsp;</label>
+                <input type="text" placeholder="UserAge" id="userAgeFiled"/>
+                <br>
+                <br>
+            </div>
+            <div>
+                <input type="radio" name="gender" id="male" value = "1">
+                <label for="male">
+                <img src="./images/male.jpg" /> 
+                </label>
+                <input type="radio" id="female" name ="gender" value="0">
+                <label for="female">
+                <img src="./images/female.jpg"/>   
+                </label>
+            </div>
+            <br>
+            <div>
+                <label for="id">Choose Your Favorite color </label>
+                <select id="color">
+                    <option> red </option>
+                    <option> Green </option>
+                    <option> blue </option>
+                </select>
+            </div>
+            <br>
+            <br>
+            
+            <input onclick="onClickOnSubmit()" type="button" value="Submit"/>
+
+            <script src="CookieLib.js"></script>
+            <script src="BussinessLogic.js"></script>
+        </div>
+</body>
+</html>
