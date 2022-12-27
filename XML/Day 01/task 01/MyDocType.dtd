@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT family (grandfather*)>
+<!ELEMENT grandfather (#PCDATA | father | uncle | aunt)*>
+<!ELEMENT father (mother,daughter*,son)>
+<!ELEMENT uncle (#PCDATA)>
+<!ELEMENT aunt (#PCDATA)>
+<!ELEMENT son (#PCDATA)>
+<!ELEMENT mother (name)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT child (#PCDATA)>
+<!ATTLIST father job CDATA #REQUIRED name CDATA #REQUIRED >
+<!ATTLIST son age CDATA #REQUIRED sport CDATA #REQUIRED >
+<!ATTLIST aunt sons CDATA #REQUIRED>
+<!ELEMENT daughter (#PCDATA | name |child)*>
+<!ATTLIST daughter job CDATA #REQUIRED age CDATA #REQUIRED >
