@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xs:element name="name" type="xs:string"/>
+<xs:element name="street" type="xs:string"/>
+<xs:element name="city" type="xs:string"/>
+<xs:element name="state" type="xs:string"/>
+<xs:element name="zip" type="xs:string"/>
+<xs:element name="productName" type="xs:string"/>
+<xs:element name="quantity" type="xs:string"/>
+<xs:element name="USPrice" type="xs:string"/>
+<xs:element name="comment" type="xs:string"/>
+<xs:element name="shipDate" type="xs:string"/>
+
+
+<xs:element name="shipTo">
+
+<xs:complexType >
+<xs:sequence>
+<xs:element name="name">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="street">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="city">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="state">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="zip">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+</xs:sequence>
+<xs:attribute name="country" type="xs:string"/>
+</xs:complexType>
+</xs:element>		
+
+<xs:element name="billTo">
+
+<xs:complexType >
+<xs:sequence>
+<xs:element name="name">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="street">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="city">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="state">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="zip">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+</xs:sequence>
+<xs:attribute name="country" type="xs:string"/>
+</xs:complexType>
+</xs:element>		
+
+
+<xs:element name="item">
+
+<xs:complexType >
+<xs:sequence>
+<xs:element name="productName">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="quantity">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="USPrice">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="comment">
+<xs:complexType>
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+</xs:element>
+
+
+
+</xs:sequence>
+<xs:attribute name="partNum" type="xs:string"/>
+</xs:complexType>
+</xs:element>		
+
+	<xs:element name="items">
+<xs:complexType>
+<xs:sequence>
+ <xs:element ref="item" maxOccurs="2"/>
+</xs:sequence>
+<xs:attribute name="name" type="xs:string"/>
+</xs:complexType>
+</xs:element>
+
+
+
+<xs:element name="purchaseOrder">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="shipTo"/>
+<xs:element ref="billTo"/>
+<xs:element ref="comment"/>
+<xs:element ref="items"/>
+</xs:sequence>
+<xs:attribute name="orderDate" type="xs:string"/>
+</xs:complexType>
+</xs:element>
+
+
+
+</xs:schema>
