@@ -69,3 +69,71 @@ var display =this.show=function(){
     }
 
 var per1 = new person(5,'Mona');
+
+
+//Default Constractour && Ctor Overloading
+var person = function (id=0,name='MOSA'){
+
+    this.personID=id
+    this.personName=name
+}
+var per2=new person();
+var per3=new person(2);
+var per4=new person(3,'Samir');
+
+
+
+//Day 03 JS Advanced Lecture
+
+//Before we start we need to know that variables inside function are 
+//free var :if not declared inside function 
+//Bound Var :if declared inside function 
+
+//we can use this notes as private access modifier 
+
+var employee=function (id=0,name='maged',yearBorn)
+{
+    this.empID=id
+    this.empName=name
+
+    var empYearBorn =yearBorn; // Private Member
+
+    this.show=function(){
+        return this.empID + '--' + this.empName + 'born in ' + empYearBorn; 
+    }
+}
+// var empTwo=new employee(98,'Ahmed Ibrahiem',1989);
+// console.log(empTwo.empYearBorn); //Undifiend
+
+// from here we get ideas of getter & setter 
+
+var employee=function (id=0,name='maged',yearBorn)
+{
+    this.empID=id
+    this.empName=name
+
+    var empYearBorn =yearBorn; // Private Member
+
+    this.show=function(){
+        return this.empID + '--' + this.empName + 'born in ' + empYearBorn; 
+    }
+
+    //Getter
+    this.getYearBorn=function(){
+        return yearBorn;
+    }
+    //Setter
+    this.setYearBorn=function(val){
+        yearBorn=val;
+    }
+
+}
+
+// Static Members && Static Methods
+
+employee.location="Cairo";
+
+employee.getInfo=function(){
+    return 'this employee is located in ' + this.location;
+}
+
