@@ -37,3 +37,35 @@ var employee = function (id,name){
 var emp1= employee("1","Ahmed");
 
 emp1.address="Cairo";
+
+//Ctor Pattern
+
+/**
+ *     Class Person                         ////////////////
+ *      {                                   ////////////////
+ *          var person =function(id,name)
+ *          {
+ *              this.personID=id 
+ *              this.personName=name
+ *          }
+ *      }                                   ////////////////
+ */
+
+var person = function (id,name){
+
+    this.personID=id
+    this.personName=name
+
+    // this.show=function(){
+    //     return this.personID + '---' +this.personName
+    // }
+    this.show=display;
+
+}
+
+//Shared Function Pattern
+var display =this.show=function(){
+        return this.personID + '---' +this.personName
+    }
+
+var per1 = new person(5,'Mona');
