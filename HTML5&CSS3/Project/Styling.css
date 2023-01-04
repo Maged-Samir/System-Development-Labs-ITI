@@ -47,8 +47,11 @@ body{
     overflow-y: scroll;
 }
 
+
+
 .container .video-list .vid video{
     width: 100px;
+    /* height: 50px; */
     border-radius: 5px;
 }
 
