@@ -8,7 +8,7 @@
 }
 
 body{
-    background:#eee;
+    background:#4A98F7;
 
 }
 
@@ -23,7 +23,7 @@ body{
 }
 
 .container .main-video{
-    background-color: #fff;
+    background-color: #4A98F7;;
     border-radius: 5px;
     padding: 10px;
 }
@@ -34,14 +34,14 @@ body{
 }
 
 .container .main-video .title{
-    color: #333;
+    color: #fff;
     font-size: 23px;
     padding-top: 15px;
     padding-bottom: 15px;
 }
 
 .container .video-list{
-    background-color: #fff;
+    background-color: #4A98F7;;
     border-radius: 5px;
     height: 520px;
     overflow-y: scroll;
@@ -51,7 +51,7 @@ body{
 
 .container .video-list .vid video{
     width: 100px;
-    /* height: 50px; */
+    height: 50px;
     border-radius: 5px;
 }
 
@@ -99,3 +99,7 @@ body{
     font-size: 17px;
    }
 
+   video[poster]{
+    height:100%;
+    width:100%;
+    }
