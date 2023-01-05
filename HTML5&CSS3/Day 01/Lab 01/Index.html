@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <video id="vid" width="500" height="350" >
+        <source src="FROZEN.mp4" type="video/mp4">
+      </video>
+      <div class="controls" >
+        <progress  min="0" max="500" value="0" style="width: 500px;">0% played</progress>
+      </div>
+      <div> 
+        <input type="button" onclick="PlayVideo()" value="Play"/>
+        <input type="button" onclick="pauseVideo()" value="Stop"/>
+        <input type="button" onclick="StartDuration()" value=" << "/>
+        <input type="button" onclick="IncreaseFiveSecond()" value=" &lt; "/>
+        <input type="button" onclick="DecreaseFiveSecond()" value=" &gt; "/>
+        <input type="button" onclick="EndDuration()" value=" >> "/>
+      </div>
+      <div>
+        <label for="volume">Volume</label>
+        <input id="volumex" type="range" value="1" min="0" max="5" step="1" onchange="VideoVolume()"/>
+        <input type="button" onclick="MuteVideo()" value="Mute"/>
+      </div>
+      <div>
+        <label for="speed">Speed</label>
+        <input id="speed" type="range" value="1" min="1" max="4" step="0.25" onchange="VideoSpeed()"/>
+      </div>
+
+    <script src="scripting.js"></script>
+</body>
+</html>
