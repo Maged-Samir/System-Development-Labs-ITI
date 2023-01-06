@@ -1,0 +1,8 @@
+.fade-in-image {
+    opacity: 100%;
+    transition: opacity 1s;
+  }
+  
+  .fade-in-image:hover {
+    opacity: 50%;
+  }

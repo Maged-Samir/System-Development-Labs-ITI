@@ -1,0 +1,31 @@
+#main{
+  margin: auto;
+  width: 50%;
+  /* border: 3px solid green; */
+  padding: 10px;
+  text-align: center;
+}
+input + span {
+    position: relative;
+  }
+  
+  input + span::before {
+    position: absolute;
+    right: -20px;
+    top: 5px;
+  }
+  
+  input:invalid {
+    border: 2px solid red;
+  }
+  
+  
+  input:invalid ~ span::before {
+    content: " this filed is Required";
+    color: red;
+  }
+  
+  input:valid + span::before {
+    content: "";
+    color: green;
+  }

@@ -1,0 +1,42 @@
+body {
+    background-color: #f1f1f1;
+    text-align:center;
+  }
+  
+  #main {
+    position: relative;
+    height:350px;
+    width: 250px;
+    background-color: #fff;
+    margin-top: 150px;
+    border-radius: 8%;
+    border: 3px solid red;
+  }
+  
+  #spade{
+    font-size: 60px;
+    margin: auto;
+  }
+  
+  .center{
+    position: relative;
+    top: 135px;
+    left: -15px;
+  }
+  
+  
+  
+  #ace-left {
+    position: relative;;
+    font-size: 30px;
+    top: -10px;
+    left: -55px;
+  }
+  
+  #ace-right {
+    position: absolute;
+    font-size: 30px;
+    top: 295px;
+    left: 200px;
+  }
+  
