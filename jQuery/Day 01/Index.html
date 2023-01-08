@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="styling.css" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script src="Scripting.js"></script>
+</head>
+<body>
+    <div>
+        <div id="div1">
+            <input id="inAbout" type="button" value="About">
+            <input id="inGalary" type="button" value="Gallary">
+            <input id="inServices" type="button" value="Services">
+            <input id="inComplain" type="button" value="Complain">
+
+        </div>
+        <div id="divAbout">
+              <h2>Hello in Our Page !</h2>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, distinctio?</p>
+        </div>
+        <div id="divGalary">
+
+            <img src="SlideShow/1.jpg" width="200px" height="150px">
+
+            <br><br>
+       
+            <input type="button" id="btnPrev" value="Pre" onclick="PreImg()">
+       
+            <input type="button" id="btnNext" value="Next" onclick="NextImg()">
+       
+           
+        </div>
+        <div id="testMenu">
+            <input id="inAbout" type="button" value="About">
+            <br>
+            <input id="inAbout" type="button" value="About">
+            <br>
+            <input id="inAbout" type="button" value="About">
+        </div>
+
+        <div id="divComplain">
+            <div>
+                <label>Name</label>
+                <input type="text" id="iname" placeholder="test"/>
+            </div>
+            <div>
+                <label>Phone</label>
+                <input type="text" id="iphone"/>
+            </div>
+            <div>
+               <input id="btnChange" type="submit" value="Submit">
+            </div>
+        </div>
+        <div id="divResult">
+                <label id="lbOne"></label>
+                <br>
+                <label id="lbTwo"></label>
+                <div>
+                    <input id="btnChange2" type="submit" value="Back to Data">
+                 </div>
+        </div>
+    </div>
+</body>
+</html>
