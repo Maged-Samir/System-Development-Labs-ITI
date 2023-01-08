@@ -10,3 +10,5 @@ Information Technology Institute
 - [Network](https://github.com/Maged-Samir/System-Development-Labs-ITI/blob/main/Network/Lab.txt)
 * [Data Structures & Algorithms](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/Data%20Structures%20%26%20Algorithms)
 + [JavaScript](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/JavaScript)
++ [XML](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/XML)
++ [jQuery](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/jQuery)
