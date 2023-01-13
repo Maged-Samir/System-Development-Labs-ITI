@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box; 
+  }
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
+  }
+  #main {
+    display: flex;
+    flex: 1;
+  }
+  #main > article {
+    flex: 1;
+    background: rgb(11, 224, 100);
+  }
+  #main > nav, 
+  #main > aside {
+    flex: 0 0 20vw;
+    background: orange;
+  }
+  #main > nav {
+    order: -1;
+  }
+  header, footer {
+    background: rgb(43, 45, 206);
+    height: 50px;
+    
+  }
+  header, footer, article, nav, aside {
+    padding: 1em;
+  
+  }
+
+  
+  @media (max-width:800px){
+    .change-media{
+        flex-direction: column;
+    }
+  }
