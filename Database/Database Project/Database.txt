@@ -1,0 +1,16 @@
+
+-ERD & Schema - Documentation
+-Tables(with stored procedures) - getting data
+-3 PROC for Exam 
+-6 Reports with 6 proc 
+ -----------------------------
+Exam 
+Student
+Instractour 
+Department
+Questions
+Type 
+Answers
+Course
+Topics
+-----------------------------
