@@ -1,0 +1,15 @@
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\bin\Debug\net7.0\ReverseString.exe
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\bin\Debug\net7.0\ReverseString.deps.json
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\bin\Debug\net7.0\ReverseString.runtimeconfig.json
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\bin\Debug\net7.0\ReverseString.dll
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\bin\Debug\net7.0\ReverseString.pdb
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\obj\Debug\net7.0\ReverseString.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\obj\Debug\net7.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\obj\Debug\net7.0\ReverseString.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\obj\Debug\net7.0\ReverseString.AssemblyInfo.cs
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\obj\Debug\net7.0\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\obj\Debug\net7.0\ReverseString.dll
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\obj\Debug\net7.0\refint\ReverseString.dll
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\obj\Debug\net7.0\ReverseString.pdb
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\obj\Debug\net7.0\ReverseString.genruntimeconfig.cache
+C:\Users\Maged\Desktop\Task Day 02\ReverseString\obj\Debug\net7.0\ref\ReverseString.dll

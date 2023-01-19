@@ -1,0 +1,15 @@
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\bin\Debug\net7.0\CountOnes.exe
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\bin\Debug\net7.0\CountOnes.deps.json
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\bin\Debug\net7.0\CountOnes.runtimeconfig.json
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\bin\Debug\net7.0\CountOnes.dll
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\bin\Debug\net7.0\CountOnes.pdb
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\obj\Debug\net7.0\CountOnes.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\obj\Debug\net7.0\CountOnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\obj\Debug\net7.0\CountOnes.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\obj\Debug\net7.0\CountOnes.AssemblyInfo.cs
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\obj\Debug\net7.0\CountOnes.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\obj\Debug\net7.0\CountOnes.dll
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\obj\Debug\net7.0\refint\CountOnes.dll
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\obj\Debug\net7.0\CountOnes.pdb
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\obj\Debug\net7.0\CountOnes.genruntimeconfig.cache
+C:\Users\Maged\Desktop\Task Day 02\CountOnes\obj\Debug\net7.0\ref\CountOnes.dll
