@@ -1,0 +1,15 @@
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\bin\Debug\net7.0\Task Day 04.exe
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\bin\Debug\net7.0\Task Day 04.deps.json
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\bin\Debug\net7.0\Task Day 04.runtimeconfig.json
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\bin\Debug\net7.0\Task Day 04.dll
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\bin\Debug\net7.0\Task Day 04.pdb
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\obj\Debug\net7.0\Task Day 04.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\obj\Debug\net7.0\Task Day 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\obj\Debug\net7.0\Task Day 04.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\obj\Debug\net7.0\Task Day 04.AssemblyInfo.cs
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\obj\Debug\net7.0\Task Day 04.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\obj\Debug\net7.0\Task Day 04.dll
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\obj\Debug\net7.0\refint\Task Day 04.dll
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\obj\Debug\net7.0\Task Day 04.pdb
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\obj\Debug\net7.0\Task Day 04.genruntimeconfig.cache
+C:\Users\Maged\Desktop\Task Day 04\Task Day 04\obj\Debug\net7.0\ref\Task Day 04.dll
