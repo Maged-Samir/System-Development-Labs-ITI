@@ -1,0 +1,15 @@
+C:\Users\Maged\Desktop\Demo\Demo\bin\Debug\net7.0\Demo.exe
+C:\Users\Maged\Desktop\Demo\Demo\bin\Debug\net7.0\Demo.deps.json
+C:\Users\Maged\Desktop\Demo\Demo\bin\Debug\net7.0\Demo.runtimeconfig.json
+C:\Users\Maged\Desktop\Demo\Demo\bin\Debug\net7.0\Demo.dll
+C:\Users\Maged\Desktop\Demo\Demo\bin\Debug\net7.0\Demo.pdb
+C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\Demo.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\Demo.AssemblyInfo.cs
+C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\Demo.dll
+C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\refint\Demo.dll
+C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\Demo.pdb
+C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\Demo.genruntimeconfig.cache
+C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\ref\Demo.dll
