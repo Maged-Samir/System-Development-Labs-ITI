@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maged\\Desktop\\Task Day 03\\Task Day 03\\Task Day 03.csproj": {}
+    "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\C#\\Task Day 03\\Task Day 03\\Task Day 03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maged\\Desktop\\Task Day 03\\Task Day 03\\Task Day 03.csproj": {
+    "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\C#\\Task Day 03\\Task Day 03\\Task Day 03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maged\\Desktop\\Task Day 03\\Task Day 03\\Task Day 03.csproj",
+        "projectUniqueName": "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\C#\\Task Day 03\\Task Day 03\\Task Day 03.csproj",
         "projectName": "Task Day 03",
-        "projectPath": "C:\\Users\\Maged\\Desktop\\Task Day 03\\Task Day 03\\Task Day 03.csproj",
+        "projectPath": "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\C#\\Task Day 03\\Task Day 03\\Task Day 03.csproj",
         "packagesPath": "C:\\Users\\Maged\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maged\\Desktop\\Task Day 03\\Task Day 03\\obj\\",
+        "outputPath": "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\C#\\Task Day 03\\Task Day 03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
