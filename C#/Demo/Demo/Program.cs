@@ -9,6 +9,7 @@
             //Console.WriteLine(s1.ToString());
 
             //Array Of Subject 
+            /*
             Console.WriteLine("Plz Enter Number Of Subjects");
             int NumberOfSubjects=int.Parse(Console.ReadLine());
 
@@ -34,14 +35,40 @@
                 Console.WriteLine("==================================");
 
             }
-
+            */
 
             //foreach (Subject item in arrOfSubjects)
             //{
             //    Console.WriteLine(item.ToString());
             //}
 
-            Track t1 = new Track(1,".Net", arrOfSubjects);
+            //Track t1 = new Track(1,".Net", arrOfSubjects);
+
+            //t1[101] = "OOP";
+
+            //Console.WriteLine(t1.ToString());
+
+            //Console.WriteLine(t1[101]);
+
+
+            //Student s = new UnderGratuatedStudent(1, "Ahmed Samy", State.UnderGratuated);
+            //Console.WriteLine(s.ToString());
+
+
+            List<Student> ListStud1 = new List<Student>()
+            {
+                new UnderGratuatedStudent(1,"Maged Samir",State.UnderGratuated),
+                new UnderGratuatedStudent(2,"Ahmed Samy",State.UnderGratuated),
+                new UnderGratuatedStudent(3,"Mohamed Mahmoud",State.UnderGratuated),
+            };
+
+            List<Subject> ListSubject1 = new List<Subject>()
+            {
+                new Subject(1,"C#",2,200,ListStud1.ToArray()),
+                new Subject(1,"SQL",2,200,ListStud1.ToArray()),
+            };
+
+            Track t1 = new Track(1, ".NET Development", ListSubject1.ToArray());
             Console.WriteLine(t1.ToString());
 
         }

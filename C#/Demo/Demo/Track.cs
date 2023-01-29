@@ -23,12 +23,41 @@ namespace Demo
 
         public override string ToString()
         {
-            string txt = $" {Id} - {Name} \n";
+            string txt = $"Track Information:- {Id} - {Name} \n";
             for(int i=0;i<arrOfSubjects.Length;i++) 
             {
                 txt += arrOfSubjects[i].ToString() +"\n";
             }
             return txt ;
         }
+
+
+        // ["101"]=C#
+        //public string this[int id]
+        //{
+        //    set
+        //    {
+        //        for(int i=0;i< arrOfSubjects.Length;i++) 
+        //        {
+        //            if (arrOfSubjects[i].Id == id)
+        //                arrOfSubjects[i].Name = value;
+        //        }
+        //    }
+        //}
+
+
+        public string this[int id]
+        {
+            get
+            {
+                for(int i=0;i<arrOfSubjects.Length;i++)
+                {
+                    if (arrOfSubjects[i].Id==id)
+                        return $"Search Result Of Indexer :- {arrOfSubjects[i].Id}-{arrOfSubjects[i].Name}";
+                }
+                return $"Search Result Of Indexer :- Not Found";
+            }
+        }
+
     }
 }

@@ -13,3 +13,18 @@ C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\refint\Demo.dll
 C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\Demo.pdb
 C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\Demo.genruntimeconfig.cache
 C:\Users\Maged\Desktop\Demo\Demo\obj\Debug\net7.0\ref\Demo.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\bin\Debug\net7.0\Demo.exe
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\bin\Debug\net7.0\Demo.deps.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\bin\Debug\net7.0\Demo.runtimeconfig.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\bin\Debug\net7.0\Demo.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\bin\Debug\net7.0\Demo.pdb
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\obj\Debug\net7.0\Demo.csproj.AssemblyReference.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\obj\Debug\net7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\obj\Debug\net7.0\Demo.AssemblyInfoInputs.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\obj\Debug\net7.0\Demo.AssemblyInfo.cs
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\obj\Debug\net7.0\Demo.csproj.CoreCompileInputs.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\obj\Debug\net7.0\Demo.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\obj\Debug\net7.0\refint\Demo.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\obj\Debug\net7.0\Demo.pdb
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\obj\Debug\net7.0\Demo.genruntimeconfig.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\Demo\obj\Debug\net7.0\ref\Demo.dll

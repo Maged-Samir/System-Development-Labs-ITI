@@ -13,6 +13,8 @@ namespace Demo
         public string Name { get; set; }
         public int Duration { get; set; }
 
+        public Student[] ListOfStudents { get; set; }
+
         int grade; //Member Variable
         public int Grade  //Properity (Setter & Getter)
         {
@@ -48,11 +50,21 @@ namespace Demo
             this.grade = Grade;
         }
 
-        public override string ToString()
+        public Subject(int Id, string Name, int Duration, int Grade, Student[] ListOfStudents) : this(Id, Name, Duration,Grade)
         {
-            return $" {Id}-{Name} \t {Duration} h - {Grade} mark";
+            this.ListOfStudents = ListOfStudents;
         }
 
+        public override string ToString()
+        {
+            string txt= $" {Id}-{Name} \t {Duration} h - {Grade} mark \n";
+            for (int i = 0; i < ListOfStudents.Length; i++)
+            {
+                txt += ListOfStudents[i].ToString() + "\n";
+            }
+            return txt;
+        }
 
+        
     }
 }
