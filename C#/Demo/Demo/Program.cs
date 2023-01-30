@@ -68,8 +68,15 @@
                 new Subject(1,"SQL",2,200,ListStud1.ToArray()),
             };
 
+
             Track t1 = new Track(1, ".NET Development", ListSubject1.ToArray());
-            Console.WriteLine(t1.ToString());
+            //Console.WriteLine(t1.ToString());
+
+            Dictionary<Track,List<Subject>>TrackSubjects= new Dictionary<Track,List<Subject>>();
+            TrackSubjects.Add(t1, ListSubject1);
+
+            foreach (KeyValuePair<Track, List<Subject>> kvp in TrackSubjects)
+                Console.WriteLine("Key: {0}", kvp.Key);
 
         }
     }
