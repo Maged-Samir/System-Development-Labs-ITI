@@ -1,0 +1,30 @@
+C:\Users\Maged\Desktop\Day 05\Duration\bin\Debug\net7.0\Duration.exe
+C:\Users\Maged\Desktop\Day 05\Duration\bin\Debug\net7.0\Duration.deps.json
+C:\Users\Maged\Desktop\Day 05\Duration\bin\Debug\net7.0\Duration.runtimeconfig.json
+C:\Users\Maged\Desktop\Day 05\Duration\bin\Debug\net7.0\Duration.dll
+C:\Users\Maged\Desktop\Day 05\Duration\bin\Debug\net7.0\Duration.pdb
+C:\Users\Maged\Desktop\Day 05\Duration\obj\Debug\net7.0\Duration.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\Day 05\Duration\obj\Debug\net7.0\Duration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\Day 05\Duration\obj\Debug\net7.0\Duration.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\Day 05\Duration\obj\Debug\net7.0\Duration.AssemblyInfo.cs
+C:\Users\Maged\Desktop\Day 05\Duration\obj\Debug\net7.0\Duration.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\Day 05\Duration\obj\Debug\net7.0\Duration.dll
+C:\Users\Maged\Desktop\Day 05\Duration\obj\Debug\net7.0\refint\Duration.dll
+C:\Users\Maged\Desktop\Day 05\Duration\obj\Debug\net7.0\Duration.pdb
+C:\Users\Maged\Desktop\Day 05\Duration\obj\Debug\net7.0\Duration.genruntimeconfig.cache
+C:\Users\Maged\Desktop\Day 05\Duration\obj\Debug\net7.0\ref\Duration.dll
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\bin\Debug\net7.0\Duration.exe
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\bin\Debug\net7.0\Duration.deps.json
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\bin\Debug\net7.0\Duration.runtimeconfig.json
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\bin\Debug\net7.0\Duration.dll
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\bin\Debug\net7.0\Duration.pdb
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\obj\Debug\net7.0\Duration.csproj.AssemblyReference.cache
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\obj\Debug\net7.0\Duration.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\obj\Debug\net7.0\Duration.AssemblyInfoInputs.cache
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\obj\Debug\net7.0\Duration.AssemblyInfo.cs
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\obj\Debug\net7.0\Duration.csproj.CoreCompileInputs.cache
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\obj\Debug\net7.0\Duration.dll
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\obj\Debug\net7.0\refint\Duration.dll
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\obj\Debug\net7.0\Duration.pdb
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\obj\Debug\net7.0\Duration.genruntimeconfig.cache
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Duration\obj\Debug\net7.0\ref\Duration.dll

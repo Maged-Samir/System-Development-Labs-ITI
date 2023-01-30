@@ -1,0 +1,30 @@
+C:\Users\Maged\Desktop\Day 05\Day 05\bin\Debug\net7.0\Point3D.exe
+C:\Users\Maged\Desktop\Day 05\Day 05\bin\Debug\net7.0\Point3D.deps.json
+C:\Users\Maged\Desktop\Day 05\Day 05\bin\Debug\net7.0\Point3D.runtimeconfig.json
+C:\Users\Maged\Desktop\Day 05\Day 05\bin\Debug\net7.0\Point3D.dll
+C:\Users\Maged\Desktop\Day 05\Day 05\bin\Debug\net7.0\Point3D.pdb
+C:\Users\Maged\Desktop\Day 05\Day 05\obj\Debug\net7.0\Point3D.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\Day 05\Day 05\obj\Debug\net7.0\Point3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\Day 05\Day 05\obj\Debug\net7.0\Point3D.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\Day 05\Day 05\obj\Debug\net7.0\Point3D.AssemblyInfo.cs
+C:\Users\Maged\Desktop\Day 05\Day 05\obj\Debug\net7.0\Point3D.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\Day 05\Day 05\obj\Debug\net7.0\Point3D.dll
+C:\Users\Maged\Desktop\Day 05\Day 05\obj\Debug\net7.0\refint\Point3D.dll
+C:\Users\Maged\Desktop\Day 05\Day 05\obj\Debug\net7.0\Point3D.pdb
+C:\Users\Maged\Desktop\Day 05\Day 05\obj\Debug\net7.0\Point3D.genruntimeconfig.cache
+C:\Users\Maged\Desktop\Day 05\Day 05\obj\Debug\net7.0\ref\Point3D.dll
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\bin\Debug\net7.0\Point3D.exe
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\bin\Debug\net7.0\Point3D.deps.json
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\bin\Debug\net7.0\Point3D.runtimeconfig.json
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\bin\Debug\net7.0\Point3D.dll
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\bin\Debug\net7.0\Point3D.pdb
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\obj\Debug\net7.0\Point3D.csproj.AssemblyReference.cache
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\obj\Debug\net7.0\Point3D.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\obj\Debug\net7.0\Point3D.AssemblyInfoInputs.cache
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\obj\Debug\net7.0\Point3D.AssemblyInfo.cs
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\obj\Debug\net7.0\Point3D.csproj.CoreCompileInputs.cache
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\obj\Debug\net7.0\Point3D.dll
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\obj\Debug\net7.0\refint\Point3D.dll
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\obj\Debug\net7.0\Point3D.pdb
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\obj\Debug\net7.0\Point3D.genruntimeconfig.cache
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Day 05\obj\Debug\net7.0\ref\Point3D.dll

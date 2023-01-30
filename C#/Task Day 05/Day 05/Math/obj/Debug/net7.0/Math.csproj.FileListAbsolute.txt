@@ -1,0 +1,30 @@
+C:\Users\Maged\Desktop\Day 05\Math\bin\Debug\net7.0\Math.exe
+C:\Users\Maged\Desktop\Day 05\Math\bin\Debug\net7.0\Math.deps.json
+C:\Users\Maged\Desktop\Day 05\Math\bin\Debug\net7.0\Math.runtimeconfig.json
+C:\Users\Maged\Desktop\Day 05\Math\bin\Debug\net7.0\Math.dll
+C:\Users\Maged\Desktop\Day 05\Math\bin\Debug\net7.0\Math.pdb
+C:\Users\Maged\Desktop\Day 05\Math\obj\Debug\net7.0\Math.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\Day 05\Math\obj\Debug\net7.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\Day 05\Math\obj\Debug\net7.0\Math.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\Day 05\Math\obj\Debug\net7.0\Math.AssemblyInfo.cs
+C:\Users\Maged\Desktop\Day 05\Math\obj\Debug\net7.0\Math.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\Day 05\Math\obj\Debug\net7.0\Math.dll
+C:\Users\Maged\Desktop\Day 05\Math\obj\Debug\net7.0\refint\Math.dll
+C:\Users\Maged\Desktop\Day 05\Math\obj\Debug\net7.0\Math.pdb
+C:\Users\Maged\Desktop\Day 05\Math\obj\Debug\net7.0\Math.genruntimeconfig.cache
+C:\Users\Maged\Desktop\Day 05\Math\obj\Debug\net7.0\ref\Math.dll
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\bin\Debug\net7.0\Math.exe
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\bin\Debug\net7.0\Math.deps.json
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\bin\Debug\net7.0\Math.runtimeconfig.json
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\bin\Debug\net7.0\Math.dll
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\bin\Debug\net7.0\Math.pdb
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\obj\Debug\net7.0\Math.csproj.AssemblyReference.cache
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\obj\Debug\net7.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\obj\Debug\net7.0\Math.AssemblyInfoInputs.cache
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\obj\Debug\net7.0\Math.AssemblyInfo.cs
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\obj\Debug\net7.0\Math.csproj.CoreCompileInputs.cache
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\obj\Debug\net7.0\Math.dll
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\obj\Debug\net7.0\refint\Math.dll
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\obj\Debug\net7.0\Math.pdb
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\obj\Debug\net7.0\Math.genruntimeconfig.cache
+G:\ITI-9 Months\18-C#\Day 05\Day 05\Math\obj\Debug\net7.0\ref\Math.dll
