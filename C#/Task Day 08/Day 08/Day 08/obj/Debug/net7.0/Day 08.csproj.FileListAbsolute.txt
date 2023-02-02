@@ -1,0 +1,30 @@
+C:\Users\Maged\Desktop\Day 08\Day 08\obj\Debug\net7.0\Day 08.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\Day 08\Day 08\obj\Debug\net7.0\Day 08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\Day 08\Day 08\obj\Debug\net7.0\Day 08.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\Day 08\Day 08\obj\Debug\net7.0\Day 08.AssemblyInfo.cs
+C:\Users\Maged\Desktop\Day 08\Day 08\obj\Debug\net7.0\Day 08.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\Day 08\Day 08\bin\Debug\net7.0\Day 08.exe
+C:\Users\Maged\Desktop\Day 08\Day 08\bin\Debug\net7.0\Day 08.deps.json
+C:\Users\Maged\Desktop\Day 08\Day 08\bin\Debug\net7.0\Day 08.runtimeconfig.json
+C:\Users\Maged\Desktop\Day 08\Day 08\bin\Debug\net7.0\Day 08.dll
+C:\Users\Maged\Desktop\Day 08\Day 08\bin\Debug\net7.0\Day 08.pdb
+C:\Users\Maged\Desktop\Day 08\Day 08\obj\Debug\net7.0\Day 08.dll
+C:\Users\Maged\Desktop\Day 08\Day 08\obj\Debug\net7.0\refint\Day 08.dll
+C:\Users\Maged\Desktop\Day 08\Day 08\obj\Debug\net7.0\Day 08.pdb
+C:\Users\Maged\Desktop\Day 08\Day 08\obj\Debug\net7.0\Day 08.genruntimeconfig.cache
+C:\Users\Maged\Desktop\Day 08\Day 08\obj\Debug\net7.0\ref\Day 08.dll
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\bin\Debug\net7.0\Day 08.exe
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\bin\Debug\net7.0\Day 08.deps.json
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\bin\Debug\net7.0\Day 08.runtimeconfig.json
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\bin\Debug\net7.0\Day 08.dll
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\bin\Debug\net7.0\Day 08.pdb
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\obj\Debug\net7.0\Day 08.csproj.AssemblyReference.cache
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\obj\Debug\net7.0\Day 08.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\obj\Debug\net7.0\Day 08.AssemblyInfoInputs.cache
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\obj\Debug\net7.0\Day 08.AssemblyInfo.cs
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\obj\Debug\net7.0\Day 08.csproj.CoreCompileInputs.cache
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\obj\Debug\net7.0\Day 08.dll
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\obj\Debug\net7.0\refint\Day 08.dll
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\obj\Debug\net7.0\Day 08.pdb
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\obj\Debug\net7.0\Day 08.genruntimeconfig.cache
+G:\ITI-9 Months\18-C#\Day 08\Day 08\Day 08\obj\Debug\net7.0\ref\Day 08.dll
