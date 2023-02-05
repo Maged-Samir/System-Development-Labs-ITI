@@ -1,0 +1,83 @@
+﻿<Window x:Class="Day_01.TextEditor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day_01"
+        mc:Ignorable="d"
+        Title="TextEditor" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Border 
+            CornerRadius="5"
+            BorderThickness="5"
+            Padding="5"
+            >
+
+            <!--<RichTextBox Name="textbox1" >
+                <FlowDocument>
+                    <Paragraph>
+                        <Run></Run>
+                    </Paragraph>
+                </FlowDocument>
+            </RichTextBox>-->
+
+            <TextBox
+            Name="textbox1"
+            TextWrapping="Wrap"
+            AcceptsReturn="True"
+            VerticalScrollBarVisibility="Visible">
+                Default Starting text .
+            </TextBox>
+
+        </Border>
+        <UniformGrid  Height="70" Width="200" Margin="5" Grid.Row="7" Grid.Column="1" HorizontalAlignment="Center">
+
+            <Button Content="Set text " Click="Set_text"  Width="50">
+            </Button>
+            <Button Content="SelectAll" Click="Select_All_Text"  Width="50">
+            </Button>
+            <Button Content="Clear " Click="Clear_Text"   Width="50">
+            </Button>
+            <Button Content="Prepend "  Click="Prepend_Text" Width="50">
+            </Button>
+            <Button Content="Insert " Click="Insert_Text"  Width="50">
+            </Button>
+            <Button Content="Append " Click="Append_Text"   Width="50">
+            </Button>
+            <Button Content="Cut  " Click="Cut_Text"  Width="50">
+            </Button>
+            <Button Content="Past " Click="Past_Text"  Width="50">
+            </Button>
+            <Button Content="Undo " Click="Undo_Text"  Width="50">
+            </Button>
+            
+           
+        </UniformGrid>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="5">
+            <GroupBox Width="100" Header="Modification">
+                <StackPanel>
+                    <RadioButton Checked="Change_Accecability" >ReadOnly</RadioButton>
+                    <RadioButton Checked="Change_Accecability" >Edatible</RadioButton>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Width="100" Header="Alignment">
+                <StackPanel>
+                    <RadioButton Checked="Change_Alignment" >Right</RadioButton>
+                    <RadioButton Checked="Change_Alignment" >Center</RadioButton>
+                    <RadioButton Checked="Change_Alignment" >Left</RadioButton>
+                </StackPanel>
+            </GroupBox>
+            
+        </StackPanel>
+
+
+
+
+    </Grid>
+</Window>
