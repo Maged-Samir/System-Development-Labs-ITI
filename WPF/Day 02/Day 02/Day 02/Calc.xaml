@@ -1,0 +1,74 @@
+﻿<Window x:Class="Day_02.Calc"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day_02"
+        mc:Ignorable="d"
+        Title="Calc" Height="450" Width="800">
+
+    <Window.Resources>
+        <Style x:Key="calcButton" TargetType="Button">
+            <Setter Property="Margin" Value="2"></Setter>
+            <Setter Property="Background" Value="LightCyan"></Setter>
+            <Setter Property="FontSize" Value="16"></Setter>
+            <Setter Property="FontWeight" Value="Bold"></Setter>
+        </Style>
+        <Style TargetType="Button" BasedOn="{StaticResource calcButton}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="elc" BorderBrush="Azure" BorderThickness="2"  Background="BlanchedAlmond">
+                            <ContentControl Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" TargetName="elc" Value="#eb9d9e"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBlock Name="txtResult"  
+                   Text="0"  
+                   FontSize="48"  
+                   VerticalAlignment="Top"  
+                   HorizontalAlignment="Left"  
+                   Grid.ColumnSpan="4"></TextBlock>
+       
+        <Button Grid.Row="2" Grid.Column="0" Click="Button_Click">7</Button>
+        <Button Grid.Row="2" Grid.Column="1" Click="Button_Click">8</Button>
+        <Button Grid.Row="2" Grid.Column="2" Click="Button_Click">9</Button>
+        <Button Grid.Row="2" Grid.Column="3" Click="Button_Click_5">*</Button>
+        <Button Grid.Row="3" Grid.Column="0" Click="Button_Click">4</Button>
+        <Button Grid.Row="3" Grid.Column="1" Click="Button_Click">5</Button>
+        <Button Grid.Row="3" Grid.Column="2" Click="Button_Click">6</Button>
+        <Button Grid.Row="3" Grid.Column="3" Click="Button_Click_4">-</Button>
+        <Button Grid.Row="4" Grid.Column="0" Click="Button_Click">1</Button>
+        <Button Grid.Row="4" Grid.Column="1" Click="Button_Click">2</Button>
+        <Button Grid.Row="4" Grid.Column="2" Click="Button_Click">3</Button>
+        <Button Grid.Row="4" Grid.Column="3" Click="Button_Click_2">+</Button>
+        <Button Grid.Row="5" Grid.Column="0" Click="Button_Click">0</Button>
+        <Button Grid.Row="5" Grid.Column="1" Click="Button_Click_1">Clear</Button>
+        <Button Grid.Row="5" Grid.Column="2" Click="Button_Click_3">=</Button>
+        <Button Grid.Row="5" Grid.Column="3" Click="Button_Click_6">/</Button>
+    </Grid>
+</Window>

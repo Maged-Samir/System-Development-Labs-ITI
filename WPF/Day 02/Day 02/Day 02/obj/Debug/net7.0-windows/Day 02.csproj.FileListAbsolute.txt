@@ -1,0 +1,50 @@
+C:\Users\Maged\Desktop\Day 02\Day 02\bin\Debug\net7.0-windows\Day 02.exe
+C:\Users\Maged\Desktop\Day 02\Day 02\bin\Debug\net7.0-windows\Day 02.deps.json
+C:\Users\Maged\Desktop\Day 02\Day 02\bin\Debug\net7.0-windows\Day 02.runtimeconfig.json
+C:\Users\Maged\Desktop\Day 02\Day 02\bin\Debug\net7.0-windows\Day 02.dll
+C:\Users\Maged\Desktop\Day 02\Day 02\bin\Debug\net7.0-windows\Day 02.pdb
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02_MarkupCompile.cache
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02_MarkupCompile.lref
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.g.resources
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.AssemblyInfo.cs
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.dll
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\refint\Day 02.dll
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.pdb
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.genruntimeconfig.cache
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\ref\Day 02.dll
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\ChangeColor.g.cs
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\ChangeColor.baml
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\Calc.g.cs
+C:\Users\Maged\Desktop\Day 02\Day 02\obj\Debug\net7.0-windows\Calc.baml
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\bin\Debug\net7.0-windows\Day 02.exe
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\bin\Debug\net7.0-windows\Day 02.deps.json
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\bin\Debug\net7.0-windows\Day 02.runtimeconfig.json
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\bin\Debug\net7.0-windows\Day 02.dll
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\bin\Debug\net7.0-windows\Day 02.pdb
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.csproj.AssemblyReference.cache
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\Calc.g.cs
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\ChangeColor.g.cs
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\MainWindow.g.cs
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\App.g.cs
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02_MarkupCompile.cache
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02_MarkupCompile.lref
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\Calc.baml
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\ChangeColor.baml
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\MainWindow.baml
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.g.resources
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.AssemblyInfoInputs.cache
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.AssemblyInfo.cs
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.csproj.CoreCompileInputs.cache
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.dll
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\refint\Day 02.dll
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.pdb
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\Day 02.genruntimeconfig.cache
+G:\ITI-9 Months\20-WPF\Day 02\Day 02\Day 02\obj\Debug\net7.0-windows\ref\Day 02.dll
