@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Day_03</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Imgs\1.avif" />
+    <None Remove="Imgs\2.avif" />
+    <None Remove="Imgs\3.avif" />
+    <None Remove="Imgs\4.avif" />
+    <None Remove="Imgs\5.avif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Imgs\1.avif" />
+    <Resource Include="Imgs\2.avif" />
+    <Resource Include="Imgs\3.avif" />
+    <Resource Include="Imgs\4.avif" />
+    <Resource Include="Imgs\5.avif" />
+  </ItemGroup>
+
+</Project>

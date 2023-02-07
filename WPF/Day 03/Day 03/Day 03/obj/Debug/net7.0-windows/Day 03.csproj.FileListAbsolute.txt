@@ -1,0 +1,22 @@
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\Day 03.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\Day 03_MarkupCompile.cache
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\Day 03_MarkupCompile.lref
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\Day 03.dll
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\refint\Day 03.dll
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\Day 03.pdb
+C:\Users\Maged\Desktop\Day 03\Day 03\bin\Debug\net7.0-windows\Day 03.exe
+C:\Users\Maged\Desktop\Day 03\Day 03\bin\Debug\net7.0-windows\Day 03.deps.json
+C:\Users\Maged\Desktop\Day 03\Day 03\bin\Debug\net7.0-windows\Day 03.runtimeconfig.json
+C:\Users\Maged\Desktop\Day 03\Day 03\bin\Debug\net7.0-windows\Day 03.dll
+C:\Users\Maged\Desktop\Day 03\Day 03\bin\Debug\net7.0-windows\Day 03.pdb
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\Day 03.g.resources
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\Day 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\Day 03.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\Day 03.AssemblyInfo.cs
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\Day 03.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\Day 03.genruntimeconfig.cache
+C:\Users\Maged\Desktop\Day 03\Day 03\obj\Debug\net7.0-windows\ref\Day 03.dll

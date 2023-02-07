@@ -1,0 +1,42 @@
+﻿<Window x:Class="Day_03.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:std="clr-namespace:Day_03"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <std:Student 
+            x:Key="Std1"
+            Id="1"
+            Name="Mohamed"
+            Age="20"
+            TotalGrade="100"
+            Image="c:\users\maged\desktop\day 03\day 03\imgs\1.avif">
+            
+            
+        </std:Student>
+    </Window.Resources>
+    <Grid>
+        <!--<StackPanel DataContext="{StaticResource ResourceKey=Std1}">
+            <Image Source="{Binding Image}" Width="200" Height="100"></Image>
+            <Label Content="{Binding Id}"></Label>
+            <Label Content="{Binding Name}"></Label>
+            <Label Content="{Binding Age}"></Label>
+            <Label Content="{Binding TotalGrade}"></Label>
+        </StackPanel>-->
+        <DockPanel LastChildFill="False">
+            <ListBox Name="lst" DockPanel.Dock="Left">
+               
+            </ListBox>
+            <StackPanel DataContext="{Binding ElementName=lst,Path=SelectedItem }">
+                <Image Source="{Binding Image}" Width="350" Height="200"></Image>
+                <Label Content="{Binding Id}" ></Label>
+                <Label Content="{Binding Name}"></Label>
+                <Label Content="{Binding Age}"></Label>
+                <Label Content="{Binding TotalGrade}"></Label>
+            </StackPanel>
+        </DockPanel>
+    </Grid>
+</Window>
