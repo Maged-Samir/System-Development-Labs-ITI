@@ -1,0 +1,87 @@
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Day12_ADO.NET.exe
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Day12_ADO.NET.deps.json
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Day12_ADO.NET.runtimeconfig.json
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Day12_ADO.NET.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Day12_ADO.NET.pdb
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.DataGridViewForm.resources
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.csproj.GenerateResource.cache
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.AssemblyInfo.cs
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.csproj.CopyComplete
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\refint\Day12_ADO.NET.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.pdb
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.genruntimeconfig.cache
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\ref\Day12_ADO.NET.dll
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.DetailedViewForm.resources
+C:\Users\Maged\Desktop\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.DataGridViewForm2.resources
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Day12_ADO.NET.exe
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Day12_ADO.NET.deps.json
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Day12_ADO.NET.runtimeconfig.json
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Day12_ADO.NET.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Day12_ADO.NET.pdb
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Azure.Core.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Azure.Identity.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\System.Memory.Data.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.csproj.AssemblyReference.cache
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.DataGridViewForm.resources
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.DataGridViewForm2.resources
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.DetailedViewForm.resources
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.csproj.GenerateResource.cache
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.AssemblyInfoInputs.cache
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.AssemblyInfo.cs
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.csproj.CoreCompileInputs.cache
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.csproj.CopyComplete
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\refint\Day12_ADO.NET.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.pdb
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.genruntimeconfig.cache
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\ref\Day12_ADO.NET.dll
+G:\ITI-9 Months\18-C#\Day 12 ADO\Day12_ADO.NET\Day12_ADO.NET\obj\Debug\net7.0-windows\Day12_ADO.NET.Task01V2.Form1.resources
