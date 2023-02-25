@@ -12,3 +12,6 @@ Information Technology Institute
 + [JavaScript](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/JavaScript)
 - [XML](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/XML)
 + [jQuery](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/jQuery)
+* [Responsive Web Design](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/Responsive%20Web%20Design)
++ [C#](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/C%23)
+- [WPF](https://github.com/Maged-Samir/System-Development-Labs-ITI/tree/main/WPF)
