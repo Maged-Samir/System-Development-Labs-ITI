@@ -1,0 +1,98 @@
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\NorthWind WinApp.exe
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\NorthWind WinApp.deps.json
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\NorthWind WinApp.runtimeconfig.json
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\NorthWind WinApp.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\NorthWind WinApp.pdb
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\BLL.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\DAL.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\BLL.pdb
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\DAL.pdb
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\DAL.dll.config
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.AssemblyInfo.cs
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.csproj.CopyComplete
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\refint\NorthWind WinApp.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.pdb
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.genruntimeconfig.cache
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\ref\NorthWind WinApp.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind_WinApp.frmPrdsGridView.resources
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\NorthWind WinApp.dll.config
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind_WinApp.frmManageProducts.resources
+C:\Users\pc\Desktop\SD43\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind_WinApp.frmDetailedViewPrds.resources
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\NorthWind WinApp.exe
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\NorthWind WinApp.dll.config
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\NorthWind WinApp.deps.json
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\NorthWind WinApp.runtimeconfig.json
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\NorthWind WinApp.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\NorthWind WinApp.pdb
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\BLL.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\DAL.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\BLL.pdb
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\DAL.pdb
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\bin\Debug\net7.0-windows\DAL.dll.config
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind_WinApp.frmDetailedViewPrds.resources
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind_WinApp.frmManageProducts.resources
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind_WinApp.frmPrdsGridView.resources
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.csproj.GenerateResource.cache
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.AssemblyInfo.cs
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.csproj.CopyComplete
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\refint\NorthWind WinApp.dll
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.pdb
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\NorthWind WinApp.genruntimeconfig.cache
+C:\Users\Maged\Desktop\D13 Tiers\NorthWind WinApp\obj\Debug\net7.0-windows\ref\NorthWind WinApp.dll
