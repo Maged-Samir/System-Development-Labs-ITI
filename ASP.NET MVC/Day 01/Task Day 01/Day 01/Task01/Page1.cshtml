@@ -1,0 +1,42 @@
+﻿@*@{ Layout = "~/Task03/_Layout1.cshtml";}*@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form method="get">
+        <label for="name">Name:</label>
+        <input id="name" name="Name" value="" />
+        <br />
+        <label for="date">Birthdate:</label>
+        <input type="date" id="date" name="date" value="" />
+        <br />
+        <label for="message">Message:</label>
+        <input type="checkbox" id="message" name="message" value="True" />
+        <br />
+        <button type="submit">GO</button>
+    </form>
+    <div>
+        @if (! Request.QueryString["name"].IsEmpty() && !Request.QueryString["date"].IsEmpty())
+        {
+            <div>
+                <h3> Hello @Request.QueryString["name"]</h3>
+                <h3> Your Birtdate @Request.QueryString["date"]</h3>
+                @*<h3>@Request.QueryString["message"]</h3>*@
+                @if (Request.QueryString["message"].IsEmpty())
+                {
+                    <h3> False</h3>
+                }
+                else
+                {
+                    <h3>@Request.QueryString["message"]</h3>
+                }
+            </div>
+           
+        }
+
+    </div>
+</body>
+</html>

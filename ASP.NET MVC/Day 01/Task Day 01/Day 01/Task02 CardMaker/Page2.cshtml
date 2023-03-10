@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <div style="display:flex" class='parent'>
+        @*Child One*@
+        <div style="border: 1px solid red;background-color:antiquewhite;" class='child'>
+            <form>
+                <div>
+                    <label for="imgList">Choose Your Background:</label>
+                    <select name="imgList">
+                        <option value="4.jpg">Img-1</option>
+                        <option value="5.jpg">Img-2</option>
+                        <option value="6.jpg">Img-3</option>
+                        <option value="11.jpg">Img-4</option>
+                    </select>
+
+                    @{
+                        var imgPath = "/images/" + Request["imgList"];
+                    }
+
+                </div>
+
+                <hr />
+
+                <div>
+                    <label for="massage">Choose a greeting type :</label> <br />
+                    <input type="radio" value="Happy Birthday :)" id="massage" name="massage" />Birthday<br />
+                    <input type="radio" value="Happy Valantine Day :)" id="massage" name="massage" />Valantine<br />
+                    <input type="radio" value="Congratulation :)" id="massage" name="massage" />Congrats<br />
+                </div>
+
+                <hr />
+
+                <div>
+                    <label for="AddPic">Add Picture:</label>
+                    <input type="checkbox" id="AddPic" name="AddPic" value="True" />
+                </div>
+
+                <hr />
+
+                <div>
+                    <label for="FreeText">Enter Your Text:</label>
+                    <textarea id="FreeText" name="FreeText" value=""></textarea>
+                </div>
+
+                <hr />
+
+                <div>
+                    <button type="submit">Preview</button>
+                </div>
+            </form>
+
+        </div>
+
+        @*Child Two*@
+    <div style="border: 1px solid red; width: 400px; height: 500px; background-image: url(@imgPath); text-align: center;" class='child'>
+
+
+
+        @if (!Request.QueryString["massage"].IsEmpty())
+        {
+            <h3>  @Request.QueryString["massage"]</h3>
+        }
+
+
+        @if (Request.QueryString["AddPic"].IsEmpty())
+        {
+            <h3> </h3>
+        }
+        else
+        {
+            @*<h3>@Request.QueryString["AddPic"]</h3>*@
+            <img src="~/images/img2.jpg" alt="Sample Photo" />
+        }
+
+        @if (!Request.QueryString["FreeText"].IsEmpty())
+        {
+            <h3>  @Request.QueryString["FreeText"]</h3>
+        }
+
+        
+
+
+    </div>
+
+    </div>
+   
+    @*Logic*@
+
+
+</body>
+</html>
