@@ -1,0 +1,40 @@
+﻿@using FirstMVCApp_43.Models;
+@{
+    ViewBag.Title = "Edit";
+
+    Car editedCar = ViewBag.selectedCar;
+}
+
+<h2>Edit</h2>
+
+<form action="/Car/Edit" method="post">
+
+    <div class="form-group">
+        <label> Num </label>
+        <input class="form-control" type="text" name="id" value="@editedCar.Id" />
+    </div>
+    <div class="form-group">
+        <label> Model </label>
+        <input class="form-control" type="text" name="Model" value="@editedCar.Model" />
+    </div>
+    <div class="form-group">
+        <label> Color </label>
+        <input class="form-control" type="text" name="Color" value="@editedCar.Color" />
+    </div>
+    <div class="form-group">
+        <label> Manfacture </label>
+        <input class="form-control" type="text" name="Manfacture" value="@editedCar.Manfacture" />
+    </div>
+    <div class="form-group">
+        <label for="Img">Choose Your Photo:</label>
+        <select class="form-control" name="Img">
+            <option value="1.jpg">Img-1</option>
+            <option value="2.jpg">Img-2</option>
+            <option value="3.jpg">Img-3</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save" />
+    </div>
+
+</form>

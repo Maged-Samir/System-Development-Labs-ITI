@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<form class="rounded-5" action="/Image/submitForm" method="post" style="padding: 20px; height: 500px;">
+    <h2>Please Fill out this form</h2>
+   
+    <table class="table table-bordered table-hover">
+        <tr>
+            <td>ID: </td>
+            <td><input type="text" name="id" value="1" style="width:90%" /></td>
+        </tr>
+
+        <tr>
+            <td>Name: </td>
+            <td><input type="text" name="name" value="Maged" style="width:90%" /></td>
+        </tr>
+
+        <tr>
+            <td>Image: </td>
+            <td>
+                <select name="img">
+                    <option value="1.jpg">1</option>
+                    <option value="2.jpg">2</option>
+                    <option value="3.jpg">3</option>
+                    <option value="4.jpg">4</option>
+                    <option value="5.jpg">5</option>
+                    <option value="6.jpg">6</option>
+                    <option value="7.jpg">7</option>
+                </select>
+            </td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Submit" /></td>
+        </tr>
+
+       
+    </table>
+</form>

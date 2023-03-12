@@ -1,0 +1,41 @@
+﻿
+@using FirstMVCApp_43.Models;
+@{
+    ViewBag.Title = "Add New Car";
+
+    
+}
+
+<h2>Add</h2>
+
+<form  action="/Car/New" method="post">
+
+    <div class="form-group">
+        <label> Num </label>
+        <input class="form-control" type="text" name="id" value="" />
+    </div>
+    <div class="form-group">
+        <label> Model </label>
+        <input class="form-control" type="text" name="Model" value="" />
+    </div>
+    <div class="form-group">
+        <label> Color </label>
+        <input class="form-control" type="text" name="Color" value="" />
+    </div>
+    <div class="form-group">
+        <label> Manfacture </label>
+        <input class="form-control" type="text" name="Manfacture" value="" />
+    </div>
+    <div class="form-group">
+        <label for="Img">Choose Your Photo:</label>
+        <select class="form-control" name="Img">
+            <option value="1.jpg">Img-1</option>
+            <option value="2.jpg">Img-2</option>
+            <option value="3.jpg">Img-3</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save" />
+    </div>
+       
+</form>
