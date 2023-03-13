@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="pubsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="publisher">
+    <Key>
+      <PropertyRef Name="pub_id" />
+    </Key>
+    <Property Name="pub_id" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="pub_name" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="city" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="state" Type="String" MaxLength="2" FixedLength="true" Unicode="false" />
+    <Property Name="country" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="titles" Relationship="Self.FK__titles__pub_id__1A14E395" FromRole="publishers" ToRole="titles" />
+  </EntityType>
+  <EntityType Name="title">
+    <Key>
+      <PropertyRef Name="title_id" />
+    </Key>
+    <Property Name="title_id" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="title1" Type="String" MaxLength="80" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="type" Type="String" MaxLength="12" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="pub_id" Type="String" MaxLength="4" FixedLength="true" Unicode="false" />
+    <Property Name="price" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="advance" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="royalty" Type="Int32" />
+    <Property Name="ytd_sales" Type="Int32" />
+    <Property Name="notes" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="pubdate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="publisher" Relationship="Self.FK__titles__pub_id__1A14E395" FromRole="titles" ToRole="publishers" />
+  </EntityType>
+  <Association Name="FK__titles__pub_id__1A14E395">
+    <End Role="publishers" Type="Self.publisher" Multiplicity="0..1" />
+    <End Role="titles" Type="Self.title" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="publishers">
+        <PropertyRef Name="pub_id" />
+      </Principal>
+      <Dependent Role="titles">
+        <PropertyRef Name="pub_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="pubsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="publishers" EntityType="Self.publisher" />
+    <EntitySet Name="titles" EntityType="Self.title" />
+    <AssociationSet Name="FK__titles__pub_id__1A14E395" Association="Self.FK__titles__pub_id__1A14E395">
+      <End Role="publishers" EntitySet="publishers" />
+      <End Role="titles" EntitySet="titles" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

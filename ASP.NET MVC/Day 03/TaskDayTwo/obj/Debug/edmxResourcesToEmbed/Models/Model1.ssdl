@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="pubsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="publishers">
+    <Key>
+      <PropertyRef Name="pub_id" />
+    </Key>
+    <Property Name="pub_id" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="pub_name" Type="varchar" MaxLength="40" />
+    <Property Name="city" Type="varchar" MaxLength="20" />
+    <Property Name="state" Type="char" MaxLength="2" />
+    <Property Name="country" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="titles">
+    <Key>
+      <PropertyRef Name="title_id" />
+    </Key>
+    <Property Name="title_id" Type="varchar" MaxLength="6" Nullable="false" />
+    <Property Name="title" Type="varchar" MaxLength="80" Nullable="false" />
+    <Property Name="type" Type="char" MaxLength="12" Nullable="false" />
+    <Property Name="pub_id" Type="char" MaxLength="4" />
+    <Property Name="price" Type="money" />
+    <Property Name="advance" Type="money" />
+    <Property Name="royalty" Type="int" />
+    <Property Name="ytd_sales" Type="int" />
+    <Property Name="notes" Type="varchar" MaxLength="200" />
+    <Property Name="pubdate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__titles__pub_id__1A14E395">
+    <End Role="publishers" Type="Self.publishers" Multiplicity="0..1" />
+    <End Role="titles" Type="Self.titles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="publishers">
+        <PropertyRef Name="pub_id" />
+      </Principal>
+      <Dependent Role="titles">
+        <PropertyRef Name="pub_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="pubsModelStoreContainer">
+    <EntitySet Name="publishers" EntityType="Self.publishers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="titles" EntityType="Self.titles" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__titles__pub_id__1A14E395" Association="Self.FK__titles__pub_id__1A14E395">
+      <End Role="publishers" EntitySet="publishers" />
+      <End Role="titles" EntitySet="titles" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

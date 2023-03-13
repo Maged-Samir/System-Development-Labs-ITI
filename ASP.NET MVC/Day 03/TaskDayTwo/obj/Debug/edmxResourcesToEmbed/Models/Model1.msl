@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="pubsModelStoreContainer" CdmEntityContainer="pubsEntities">
+    <EntitySetMapping Name="publishers">
+      <EntityTypeMapping TypeName="pubsModel.publisher">
+        <MappingFragment StoreEntitySet="publishers">
+          <ScalarProperty Name="pub_id" ColumnName="pub_id" />
+          <ScalarProperty Name="pub_name" ColumnName="pub_name" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="state" ColumnName="state" />
+          <ScalarProperty Name="country" ColumnName="country" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="titles">
+      <EntityTypeMapping TypeName="pubsModel.title">
+        <MappingFragment StoreEntitySet="titles">
+          <ScalarProperty Name="title_id" ColumnName="title_id" />
+          <ScalarProperty Name="title1" ColumnName="title" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="pub_id" ColumnName="pub_id" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="advance" ColumnName="advance" />
+          <ScalarProperty Name="royalty" ColumnName="royalty" />
+          <ScalarProperty Name="ytd_sales" ColumnName="ytd_sales" />
+          <ScalarProperty Name="notes" ColumnName="notes" />
+          <ScalarProperty Name="pubdate" ColumnName="pubdate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,88 @@
+﻿@helper MyCustomFilter()
+{
+    <p>
+        Title: <input type="text" name="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+}
+
+@model IEnumerable<TaskDayTwo.Models.title>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+
+<form asp-controller="Title" asp-action="Index">
+
+
+    @*<p>
+        Title: <input type="text" name="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>*@
+
+    @MyCustomFilter()
+
+</form>
+
+
+
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.title1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.type)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.notes)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.pubdate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.publisher.pub_name)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.title1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.type)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.notes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.pubdate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.publisher.pub_name)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.title_id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.title_id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.title_id }) |
+
+
+            </td>
+        </tr>
+    }
+
+</table>
