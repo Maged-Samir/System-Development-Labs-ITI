@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TaskDaySeven
+build_property.RootNamespace = TaskDaySeven
+build_property.ProjectDir = G:\ITI-9 Months\25-ASP.NET MVC\Day 07\TaskDaySeven\TaskDaySeven\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\ITI-9 Months\25-ASP.NET MVC\Day 07\TaskDaySeven\TaskDaySeven
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 07/TaskDaySeven/TaskDaySeven/Views/Car/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 07/TaskDaySeven/TaskDaySeven/Views/Car/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEdldEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 07/TaskDaySeven/TaskDaySeven/Views/Car/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEdldEJ5SWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 07/TaskDaySeven/TaskDaySeven/Views/Car/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXE5ldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 07/TaskDaySeven/TaskDaySeven/Views/Car/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 07/TaskDaySeven/TaskDaySeven/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

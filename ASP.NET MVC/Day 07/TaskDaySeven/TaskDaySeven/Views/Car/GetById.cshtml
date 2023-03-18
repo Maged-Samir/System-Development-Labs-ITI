@@ -1,0 +1,30 @@
+﻿@using TaskDaySeven.Models;
+@{
+    ViewBag.Title = "getById";
+
+    Car curCar = ViewBag.selectedCar;
+}
+
+<h2>getById</h2>
+
+@*<h4>  ID : @curCar.Id  </h4>
+<h4>  Model : @curCar.Model  </h4>
+<h4>  Color : @curCar.Color  </h4>
+<h4>  Manfacture : @curCar.Manfacture  </h4>
+<img src="/images/@curCar.Img" style="width:180px" />*@
+
+<div class="card text-center">
+    <div class="card-header">
+        Num : @curCar.Id
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">Color : @curCar.Color</h5>
+        <p class="card-text">Manfacture : @curCar.Manfacture</p>
+        <a href="/Car/getAll" class="btn btn-primary">Back To List</a>
+    </div>
+    <div class="card-footer text-muted">
+       
+    </div>
+</div>
+
+
