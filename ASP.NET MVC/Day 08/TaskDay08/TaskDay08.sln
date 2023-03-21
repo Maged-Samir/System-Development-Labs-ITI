@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstDB", "CodeFirstDB\CodeFirstDB.csproj", "{9DD24D9F-5F56-44B7-B6B6-EDE12F6A0EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindExistingDB", "NorthwindExistingDB\NorthwindExistingDB.csproj", "{20ED2AF5-1D59-41C9-BCBC-B4A3952F46E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD24D9F-5F56-44B7-B6B6-EDE12F6A0EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD24D9F-5F56-44B7-B6B6-EDE12F6A0EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD24D9F-5F56-44B7-B6B6-EDE12F6A0EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD24D9F-5F56-44B7-B6B6-EDE12F6A0EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20ED2AF5-1D59-41C9-BCBC-B4A3952F46E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20ED2AF5-1D59-41C9-BCBC-B4A3952F46E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20ED2AF5-1D59-41C9-BCBC-B4A3952F46E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20ED2AF5-1D59-41C9-BCBC-B4A3952F46E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F537E0E-3381-4CC0-9839-A51A9AD989C4}
+	EndGlobalSection
+EndGlobal

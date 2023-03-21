@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NorthwindExistingDB
+build_property.RootNamespace = NorthwindExistingDB
+build_property.ProjectDir = G:\ITI-9 Months\25-ASP.NET MVC\Day 08\TaskDay08\NorthwindExistingDB\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\ITI-9 Months\25-ASP.NET MVC\Day 08\TaskDay08\NorthwindExistingDB
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 08/TaskDay08/NorthwindExistingDB/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 08/TaskDay08/NorthwindExistingDB/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 08/TaskDay08/NorthwindExistingDB/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 08/TaskDay08/NorthwindExistingDB/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 08/TaskDay08/NorthwindExistingDB/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 08/TaskDay08/NorthwindExistingDB/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 08/TaskDay08/NorthwindExistingDB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 08/TaskDay08/NorthwindExistingDB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/25-ASP.NET MVC/Day 08/TaskDay08/NorthwindExistingDB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v90vcf7yo9
