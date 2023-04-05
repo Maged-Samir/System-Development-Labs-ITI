@@ -1,0 +1,45 @@
+<!-- <p>users works!</p> -->
+
+<div class="container">
+    <div class="row">
+      <div class="col-md-6 offset-md-3">
+        <h2 class="text-center text-dark mt-5">Please Enter Your Data</h2>
+        <div class="card my-5">
+
+          <form [formGroup]="myRegistrationValidation" (ngSubmit)="Submitting()" class="card-body cardbody-color p-lg-5"> 
+
+            <div class="text-center">
+              <img src="../../../assets/imgs/Sprint.png" class="img-fluid profile-image-pic img-thumbnail rounded-circle my-3"
+                width="200px" alt="profile">
+            </div>
+
+            <div class="mb-3">
+              <input formControlName="name" type="text" class="form-control" id="name" 
+                placeholder="Enter Your Name">
+            </div>
+
+
+            <div *ngIf="!NameValid" class="alert alert-danger text-center">
+                    Name is Required and must be more than 3 letters
+            </div>
+
+            <div class="mb-3">
+              <input formControlName="age" type="text" class="form-control" id="age" placeholder="Enter Your Age">
+            </div>
+
+            <div *ngIf="!AgeValid" class="alert alert-danger ">
+                Age must be between 18 and 30
+            </div>
+ 
+
+            <div class="text-center">
+                
+                <button type="submit" class="btn btn-dark px-5 py-20">Submit</button>
+            </div>
+            
+          </form>
+        </div>
+
+      </div>
+    </div>
+  </div>

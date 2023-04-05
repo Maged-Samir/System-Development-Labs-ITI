@@ -1,0 +1,36 @@
+.section-4 .container h1 
+{
+    font-size: 6vmin;
+    padding-top: 10vmin;
+}
+
+.section-4 .team 
+{
+    padding: 5vmin 4vmin;
+}
+
+
+.section-4 .card 
+{
+    width: 22em;
+    margin-top: 0vmin;
+}
+
+.section-4 .card .card-text 
+{
+    padding: 0em;
+}
+
+
+.section-4 .card-body > a 
+{
+    font-size: 1em;
+}
+
+.section-4 .carousel-item 
+{
+    padding-left: 0rem;
+    color: black;
+}
+
+

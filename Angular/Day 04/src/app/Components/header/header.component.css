@@ -1,0 +1,34 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+nav
+{
+background-color: black;
+color: white;
+
+font-size: 18px;
+padding: 10px;
+
+/* text-align: center; */
+
+position: fixed;
+width: 100%;
+top:0;
+}
+
+ nav ul ,nav li ,nav a
+{
+    display: inline-block;
+    margin-left: 20px;
+    
+} 
+
+
+nav li,a :hover
+{
+    cursor: pointer;
+    
+}
