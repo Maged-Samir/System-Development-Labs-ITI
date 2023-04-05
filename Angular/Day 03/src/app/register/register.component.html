@@ -1,0 +1,19 @@
+
+<div>
+    <h2>Registration</h2>
+    <input [(ngModel)]="name" type="text" placeholder="Enter your name">
+    <input [(ngModel)]="age" type="text" placeholder="Enter your age">
+    <!-- <input type="button" value="ADD" (click)="SendData()"> -->
+
+    <div *ngIf="age>20;then trueBlock else falseBlock">
+    </div>
+
+    <ng-template #trueBlock>
+        <div style="color: black;" height="30px">NotValied</div>
+    </ng-template>
+
+
+    <ng-template #falseBlock>
+        <input type="button" value="ADD" (click)="SendData()">
+    </ng-template>
+</div>

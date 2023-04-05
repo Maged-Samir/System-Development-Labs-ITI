@@ -1,0 +1,32 @@
+div
+{
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 20p2px;
+    background-color: #FF6363;
+    height: 300px;
+}
+
+h2{
+    text-align: center;
+    margin: 10px;
+}
+
+input[type=text] 
+{
+    width: 100%;
+    padding: 12px;
+    margin: 15px auto;
+    box-sizing: border-box;
+}
+
+input[type=button] {
+    background-color: #FFAB76;
+    border: none;
+    color: rgb(85, 75, 75);
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 20px auto;
+    cursor: pointer;
+    width: 100%;
+}

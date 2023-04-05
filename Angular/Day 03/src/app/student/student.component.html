@@ -1,0 +1,17 @@
+<div>
+    <h2>Students Record</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let s of datafromparent">
+            <td>{{s.name}}</td>
+            <td>{{s.age}}</td>
+        </tr> 
+    </tbody>
+</table>
+</div>
