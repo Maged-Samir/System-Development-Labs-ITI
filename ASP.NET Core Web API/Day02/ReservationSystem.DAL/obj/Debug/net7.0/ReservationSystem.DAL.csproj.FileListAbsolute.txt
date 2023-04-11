@@ -1,0 +1,28 @@
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\bin\Debug\net7.0\ReservationSystem.DAL.deps.json
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\bin\Debug\net7.0\ReservationSystem.DAL.dll
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\bin\Debug\net7.0\ReservationSystem.DAL.pdb
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.AssemblyInfo.cs
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.dll
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\obj\Debug\net7.0\refint\ReservationSystem.DAL.dll
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.pdb
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ref\ReservationSystem.DAL.dll
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\bin\Debug\net7.0\ReservationSystem.DAL.runtimeconfig.json
+C:\Users\Maged\Desktop\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.genruntimeconfig.cache
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\bin\Debug\net7.0\ReservationSystem.DAL.deps.json
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\bin\Debug\net7.0\ReservationSystem.DAL.runtimeconfig.json
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\bin\Debug\net7.0\ReservationSystem.DAL.dll
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\bin\Debug\net7.0\ReservationSystem.DAL.pdb
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.csproj.AssemblyReference.cache
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.AssemblyInfoInputs.cache
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.AssemblyInfo.cs
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.csproj.CoreCompileInputs.cache
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.dll
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\obj\Debug\net7.0\refint\ReservationSystem.DAL.dll
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.pdb
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ReservationSystem.DAL.genruntimeconfig.cache
+G:\ITI-9 Months\27-ASP.NET Web API\Day 02\Day02\ReservationSystem.DAL\obj\Debug\net7.0\ref\ReservationSystem.DAL.dll

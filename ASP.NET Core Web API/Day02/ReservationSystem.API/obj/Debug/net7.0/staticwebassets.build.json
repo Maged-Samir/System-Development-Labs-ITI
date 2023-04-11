@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cZzGFhE/Vm/pEAecW5RCe9vBHqGknpw8t86/A6CPumE=",
+  "Source": "ReservationSystem.API",
+  "BasePath": "_content/ReservationSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
