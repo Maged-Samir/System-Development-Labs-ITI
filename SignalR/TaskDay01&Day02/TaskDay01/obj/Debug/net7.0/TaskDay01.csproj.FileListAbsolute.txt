@@ -1,0 +1,556 @@
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\appsettings.json
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\TaskDay01.staticwebassets.runtime.json
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\TaskDay01.exe
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\TaskDay01.deps.json
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\TaskDay01.runtimeconfig.json
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\TaskDay01.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\TaskDay01.pdb
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.AssemblyInfo.cs
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.RazorAssemblyInfo.cache
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.RazorAssemblyInfo.cs
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets\msbuild.TaskDay01.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets\msbuild.build.TaskDay01.props
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TaskDay01.props
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TaskDay01.props
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\scopedcss\bundle\TaskDay01.styles.css
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\scopedcss\projectbundle\TaskDay01.bundle.scp.css
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\refint\TaskDay01.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.pdb
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.genruntimeconfig.cache
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\ref\TaskDay01.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.csproj.CopyComplete
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Maged\Desktop\TaskDay01\TaskDay01\bin\Debug\net7.0\libman.json
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\appsettings.Development.json
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\appsettings.json
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\libman.json
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\TaskDay01.staticwebassets.runtime.json
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\TaskDay01.exe
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\TaskDay01.deps.json
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\TaskDay01.runtimeconfig.json
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\TaskDay01.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\TaskDay01.pdb
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Azure.Core.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Azure.Identity.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Humanizer.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Build.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.Common.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.Configuration.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.Frameworks.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.LibraryModel.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.Packaging.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.ProjectModel.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.Protocol.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\NuGet.Versioning.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.CodeDom.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Composition.Convention.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Composition.Hosting.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Composition.Runtime.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Composition.TypedParts.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Memory.Data.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.csproj.AssemblyReference.cache
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.AssemblyInfoInputs.cache
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.AssemblyInfo.cs
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.csproj.CoreCompileInputs.cache
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.MvcApplicationPartsAssemblyInfo.cache
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.RazorAssemblyInfo.cache
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.RazorAssemblyInfo.cs
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets\msbuild.TaskDay01.Microsoft.AspNetCore.StaticWebAssets.props
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets\msbuild.build.TaskDay01.props
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TaskDay01.props
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TaskDay01.props
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets.pack.json
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets.build.json
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\staticwebassets.development.json
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\scopedcss\bundle\TaskDay01.styles.css
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\scopedcss\projectbundle\TaskDay01.bundle.scp.css
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.csproj.CopyComplete
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\refint\TaskDay01.dll
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.pdb
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\TaskDay01.genruntimeconfig.cache
+G:\ITI-9 Months\33-SignalR\Day 01\TaskDay01\TaskDay01\obj\Debug\net7.0\ref\TaskDay01.dll

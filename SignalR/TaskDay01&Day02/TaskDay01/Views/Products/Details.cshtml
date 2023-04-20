@@ -1,0 +1,136 @@
+﻿
+@model TaskDay01.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <h4>Product</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Quantity)
+            </dt>
+            <dd class="col-sm-9" id="quantity-display">
+                @Html.DisplayFor(model => model.Quantity)
+                @*<p>Quantity: <span id="quantity-display">@Model.Quantity</span></p>*@
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+        </dl>
+    </div>
+    <div class="col-md-4">
+        <img src="/Images/@Model.Image" />
+    </div>
+</div>
+
+<div>   
+    <button type="button" onclick="decreaseProductQuantity(@Model.Id)">Buy</button>
+</div>
+ 
+<input id="id" type="number" hidden disabled value="@Model.Id" class="form-control">
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@*Start*@
+<div>
+    <div class="row mt-3">
+        <div class="col-12">
+            <label for="text" class="form-label">Comment:</label>
+            <input type="text" id="name" class="form-control" placeholder="Your name">
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col-12">
+            <textarea id="text" class="form-control" placeholder="Your comment"></textarea>
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col-12">
+            <button type="button" class="btn btn-primary" onclick="SendComment()">Send</button>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-12">
+            <label for="comments" class="form-label">Comments:</label>
+            <ul id="comments" class="list-group">
+                @foreach (var comment in Model!.Comments)
+                {
+                    var c = $"{comment.Name}: {comment.Text}";
+                    <li class="list-group-item">@c</li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>
+</div>
+@*End*@
+
+@section Scripts{
+
+<script src="~/lib/microsoft-signalr/signalr.min.js"></script>
+
+<script>
+        var connection = new signalR.HubConnectionBuilder()
+            .withUrl("/productHub")
+            .build();
+
+        connection.start().then(function () {
+            console.log("SignalR connected.");
+        }).catch(function (err) {
+            return console.error(err.toString());
+        });
+
+        function decreaseProductQuantity(productId) {
+            connection.invoke("DecreaseProductQuantity", productId).catch(function (err) {
+                return console.error(err.toString());
+            });
+        }
+
+        connection.on("ProductQuantityUpdated", function (productId, newQuantity) {
+            console.log("Product quantity updated for product ID " + productId + ": " + newQuantity);
+            if (productId == @Model.Id) {
+                // Update the quantity display
+                var quantityDisplay = document.querySelector("#quantity-display");
+                quantityDisplay.textContent = newQuantity;
+            }
+        });
+
+
+        //Create Comments
+        function SendComment() {
+            var name = document.getElementById("name");
+            var text = document.getElementById("text");
+            connection.invoke("CreateComment", name.value, text.value, @Model.Id);
+        }
+
+
+  
+        connection.on("NotifyNewComment", function (n, t, pid) {
+                document.getElementById("comments").innerHTML +=
+                    '<li class="list-group-item">' + n + ": " + t + '</li>';
+        });
+
+</script>
+
+    }
