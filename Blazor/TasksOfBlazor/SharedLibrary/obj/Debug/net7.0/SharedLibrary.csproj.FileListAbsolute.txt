@@ -1,0 +1,12 @@
+C:\Users\Maged\Desktop\TaskOfBlazor\SharedLibrary\bin\Debug\net7.0\SharedLibrary.deps.json
+C:\Users\Maged\Desktop\TaskOfBlazor\SharedLibrary\bin\Debug\net7.0\SharedLibrary.dll
+C:\Users\Maged\Desktop\TaskOfBlazor\SharedLibrary\bin\Debug\net7.0\SharedLibrary.pdb
+C:\Users\Maged\Desktop\TaskOfBlazor\SharedLibrary\obj\Debug\net7.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\TaskOfBlazor\SharedLibrary\obj\Debug\net7.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\TaskOfBlazor\SharedLibrary\obj\Debug\net7.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\TaskOfBlazor\SharedLibrary\obj\Debug\net7.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\Maged\Desktop\TaskOfBlazor\SharedLibrary\obj\Debug\net7.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\TaskOfBlazor\SharedLibrary\obj\Debug\net7.0\SharedLibrary.dll
+C:\Users\Maged\Desktop\TaskOfBlazor\SharedLibrary\obj\Debug\net7.0\refint\SharedLibrary.dll
+C:\Users\Maged\Desktop\TaskOfBlazor\SharedLibrary\obj\Debug\net7.0\SharedLibrary.pdb
+C:\Users\Maged\Desktop\TaskOfBlazor\SharedLibrary\obj\Debug\net7.0\ref\SharedLibrary.dll

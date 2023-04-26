@@ -1,0 +1,57 @@
+﻿@page "/add-trainee"
+@using System.Globalization
+@inject StaticContext StaticContext
+@inject NavigationManager Navigation
+
+@code {
+    private Trainee Trainee { get; set; } = new Trainee();
+
+    private async Task HandleValidSubmit()
+    {
+        StaticContext.Trainees.Add(Trainee);
+        await Task.Delay(1000); // simulate a delay
+        Navigation.NavigateTo("/trainee-list");
+    }
+}
+
+<h1>Add Trainee</h1>
+
+<EditForm Model="@Trainee" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <div class="form-group">
+        <label for="name">Name:</label>
+        <InputText id="name" class="form-control" @bind-Value="Trainee.Name" />
+        <ValidationMessage For="@(() => Trainee.Name)" />
+    </div>
+    <div class="form-group">
+        <label for="gender">Gender:</label>
+        <InputSelect id="gender" class="form-control" @bind-Value="Trainee.Gender">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+        </InputSelect>
+        <ValidationMessage For="@(() => Trainee.Gender)" />
+    </div>
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <InputText id="email" class="form-control" @bind-Value="Trainee.Email" />
+        <ValidationMessage For="@(() => Trainee.Email)" />
+    </div>
+    <div class="form-group">
+        <label for="mobileNo">Mobile No:</label>
+        <InputText id="mobileNo" class="form-control" @bind-Value="Trainee.MobileNo" />
+        <ValidationMessage For="@(() => Trainee.MobileNo)" />
+    </div>
+    <div class="form-group">
+        <label for="birthdate">Birthdate:</label>
+        <InputDate id="birthdate" class="form-control" @bind-Value="Trainee.Birthdate" />
+        <ValidationMessage For="@(() => Trainee.Birthdate)" />
+    </div>
+    <div class="form-group">
+        <label for="isGraduated">Is Graduated:</label>
+        <InputCheckbox id="isGraduated"  @bind-Value="Trainee.IsGraduated" />
+        <ValidationMessage For="@(() => Trainee.IsGraduated)" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</EditForm>
+
+

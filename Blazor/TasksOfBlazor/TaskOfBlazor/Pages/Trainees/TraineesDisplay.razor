@@ -1,0 +1,47 @@
+﻿@page "/trainee-list"
+@using System.Globalization;
+@inject NavigationManager Navigation
+<h1>Trainee List</h1>
+
+<button class="btn btn-primary" @onclick="@(() => Navigation.NavigateTo("/add-trainee"))">Add Trainee</button>
+@if (StaticContext.Trainees.Any())
+{
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Gender</th>
+                <th>Email</th>
+                <th>Mobile No</th>
+                <th>Birthdate</th>
+                <th>Is Graduated</th>
+                <th>&nbsp;</th>
+                <th>&nbsp;</th>
+                <th>&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var trainee in StaticContext.Trainees)
+            {
+                <tr>
+                    <td>@trainee.Id</td>
+                    <td>@trainee.Name</td>
+                    <td>@trainee.Gender</td>
+                    <td>@trainee.Email</td>
+                    <td>@trainee.MobileNo</td>
+                    <td>@trainee.Birthdate.ToString("D", CultureInfo.InvariantCulture)</td>
+                    <td>@(trainee.IsGraduated ? "Yes" : "No")</td>
+                    <td> <a href="@($"details-trainee/{trainee.Id}")" class="btn btn-outline-primary"> Details </a> </td>
+                    <td> <a href="@($"update-trainee/{trainee.Id}")" class="btn btn-outline-primary"> Update </a> </td>
+                    <td> <a href="@($"delete-trainee/{trainee.Id}")" class="btn btn-outline-primary"> Delete </a> </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No trainees found.</p>
+}

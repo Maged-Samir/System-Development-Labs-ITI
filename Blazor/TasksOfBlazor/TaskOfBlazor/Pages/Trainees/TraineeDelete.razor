@@ -1,0 +1,34 @@
+﻿@page "/delete-trainee/{id:int}"
+@inject StaticContext StaticContext
+@inject NavigationManager Navigation
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private Trainee Trainee { get; set; }
+
+    protected override void OnInitialized()
+    {
+        Trainee = StaticContext.Trainees.FirstOrDefault(t => t.Id == Id);
+    }
+
+    private async Task DeleteTrainee()
+    {
+        StaticContext.Trainees.Remove(Trainee);
+        await Task.Delay(1000); // simulate a delay
+        Navigation.NavigateTo("/trainee-list");
+    }
+}
+
+<h1>Delete Trainee</h1>
+
+@if (Trainee == null)
+{
+    <p>Trainee not found.</p>
+}
+else
+{
+    <p>Are you sure you want to delete @Trainee.Name?</p>
+    <button class="btn btn-danger" @onclick="DeleteTrainee">Delete</button>
+}
