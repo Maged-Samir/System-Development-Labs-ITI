@@ -40,7 +40,7 @@
         <dt class="col-form-label">Birthdate</dt>
         <dd class="form-control">@Trainee.Birthdate.ToString("D", CultureInfo.InvariantCulture)</dd>
         <dt class="col-form-label">Is Graduated</dt>
-        <dd class="form-control">@(Trainee.IsGraduated ? "Yes" : "No")</dd>
+        <dd >@(Trainee.IsGraduated ? "Yes" : "No")</dd>
     </dl>
 }
 else

@@ -65,7 +65,7 @@
     </div>
     <div class="form-group">
         <label for="isGraduated">Is Graduated:</label>
-        <InputCheckbox id="isGraduated" class="form-control" @bind-Value="Trainee.IsGraduated" />
+        <InputCheckbox id="isGraduated"  @bind-Value="Trainee.IsGraduated" />
         <ValidationMessage For="@(() => Trainee.IsGraduated)" />
     </div>
     <button type="submit" class="btn btn-primary">Submit</button>

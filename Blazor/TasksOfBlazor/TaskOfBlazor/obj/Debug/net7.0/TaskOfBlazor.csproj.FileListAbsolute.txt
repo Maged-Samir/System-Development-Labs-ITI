@@ -834,3 +834,7 @@ C:\Users\Maged\Desktop\TaskOfBlazor\TaskOfBlazor\bin\Debug\net7.0\SharedLibrary.
 C:\Users\Maged\Desktop\TaskOfBlazor\TaskOfBlazor\bin\Debug\net7.0\SharedLibrary.pdb
 C:\Users\Maged\Desktop\TaskOfBlazor\TaskOfBlazor\obj\Debug\net7.0\build-gz\Nj+39U0d.gz
 C:\Users\Maged\Desktop\TaskOfBlazor\TaskOfBlazor\obj\Debug\net7.0\build-gz\mfVQUkXt.gz
+C:\Users\Maged\Desktop\TaskOfBlazor\TaskOfBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+C:\Users\Maged\Desktop\TaskOfBlazor\TaskOfBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+C:\Users\Maged\Desktop\TaskOfBlazor\TaskOfBlazor\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+C:\Users\Maged\Desktop\TaskOfBlazor\TaskOfBlazor\obj\Debug\net7.0\build-gz\wT99PjJM.gz

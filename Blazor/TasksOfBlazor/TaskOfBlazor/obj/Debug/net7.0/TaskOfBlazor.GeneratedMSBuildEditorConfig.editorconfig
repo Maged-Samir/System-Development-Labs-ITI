@@ -52,6 +52,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5lZXNcVHJhaW5lZVVwZGF0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Maged/Desktop/TaskOfBlazor/TaskOfBlazor/Pages/Trainees_DB/TraineeAdd_DB.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5lZXNfREJcVHJhaW5lZUFkZF9EQi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maged/Desktop/TaskOfBlazor/TaskOfBlazor/Pages/Trainees_DB/TraineeDelete_DB.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5lZXNfREJcVHJhaW5lZURlbGV0ZV9EQi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maged/Desktop/TaskOfBlazor/TaskOfBlazor/Pages/Trainees_DB/TraineeDetails_DB.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5lZXNfREJcVHJhaW5lZURldGFpbHNfREIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maged/Desktop/TaskOfBlazor/TaskOfBlazor/Pages/Trainees_DB/TraineesDisplay_DB.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5lZXNfREJcVHJhaW5lZXNEaXNwbGF5X0RCLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maged/Desktop/TaskOfBlazor/TaskOfBlazor/Pages/Trainees_DB/TraineeUpdate_DB.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5lZXNfREJcVHJhaW5lZVVwZGF0ZV9EQi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Maged/Desktop/TaskOfBlazor/TaskOfBlazor/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

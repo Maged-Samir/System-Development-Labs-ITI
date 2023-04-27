@@ -1,0 +1,60 @@
+﻿@page "/trainee-list_DB"
+@using System.Globalization;
+@inject NavigationManager Navigation
+<h1>Trainee List</h1>
+
+@code {
+
+    IEnumerable<Trainee> AllTrainees;
+
+    [Inject]
+    public ITraineeDataService triDataService { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        AllTrainees = await triDataService.GetAllTrainees();
+    }
+}
+
+<button class="btn btn-primary" @onclick="@(() => Navigation.NavigateTo("/add-trainee_DB"))">Add Trainee</button>
+@if (AllTrainees.Any())
+{
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Gender</th>
+                <th>Email</th>
+                <th>Mobile No</th>
+                <th>Birthdate</th>
+                <th>Is Graduated</th>
+                <th>&nbsp;</th>
+                <th>&nbsp;</th>
+                <th>&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var trainee in AllTrainees)
+            {
+                <tr>
+                    <td>@trainee.Id</td>
+                    <td>@trainee.Name</td>
+                    <td>@trainee.Gender</td>
+                    <td>@trainee.Email</td>
+                    <td>@trainee.MobileNo</td>
+                    <td>@trainee.Birthdate.ToString("D", CultureInfo.InvariantCulture)</td>
+                    <td>@(trainee.IsGraduated ? "Yes" : "No")</td>
+                    <td> <a href="@($"details-trainee_DB/{trainee.Id}")" class="btn btn-outline-primary"> Details </a> </td>
+                    <td> <a href="@($"update-trainee_DB/{trainee.Id}")" class="btn btn-outline-primary"> Update </a> </td>
+                    <td> <a href="@($"delete-trainee_DB/{trainee.Id}")" class="btn btn-outline-primary"> Delete </a> </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No trainees found.</p>
+}

@@ -1,0 +1,38 @@
+﻿@page "/delete-trainee_DB/{id:int}"
+@inject StaticContext StaticContext
+@inject NavigationManager Navigation
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    public Trainee Trainee { get; set; }
+
+    [Inject]
+    public ITraineeDataService triDataService { get; set; }
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        Trainee = await triDataService.GetTraineeDetails(Id);
+    }
+
+    private async Task DeleteTrainee()
+    {
+        triDataService.DeleteTrainee(Trainee.Id);
+        await Task.Delay(1000); // simulate a delay
+        Navigation.NavigateTo("/trainee-list_DB");
+    }
+}
+
+<h1>Delete Trainee</h1>
+
+@if (Trainee == null)
+{
+    <p>Trainee not found.</p>
+}
+else
+{
+    <p>Are you sure you want to delete @Trainee.Name?</p>
+    <button class="btn btn-danger" @onclick="DeleteTrainee">Delete</button>
+}

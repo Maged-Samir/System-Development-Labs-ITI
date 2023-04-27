@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/1Qnz4BTO54768BRL9v+p6KDtH4MmLXO2wLvJ7R9k1OPIWdNIp5TX3Vi4X/ZG5irKu8Xh9Du5NP0AAXUJKre3g==",
+  "dgSpecHash": "GY694DBXN1wbLauPPxcwH7cNTi/yodxzZ49NO6PxuMKeJYHXAQt9e3xYlO6nr+5iwXnQHFAqj6frXNK0u5QjFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Maged\\Desktop\\TaskOfBlazor\\TaskOfBlazor\\TaskOfBlazor.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
     "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
     "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",

@@ -1,0 +1,54 @@
+﻿@page "/details-trainee_DB/{TraineeId:int}"
+@using System.Globalization
+
+@code {
+    [Parameter]
+    public int TraineeId { get; set; }
+
+    Trainee? Trainee { get; set; }
+
+    [Inject]
+    public ITraineeDataService triDataService { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+        try
+        {
+            Trainee = await triDataService.GetTraineeDetails(TraineeId);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+            throw;
+        }
+    }
+}
+
+<h1>Trainee Details</h1>
+
+@if (Trainee != null)
+{
+    <dl>
+        <dt class="col-form-label">ID</dt>
+        <dd class="form-control">@Trainee.Id</dd>
+        <dt class="col-form-label">Name</dt>
+        <dd class="form-control">@Trainee.Name</dd>
+        <dt class="col-form-label">Gender</dt>
+        <dd class="form-control">@Trainee.Gender</dd>
+        <dt class="col-form-label">Email</dt>
+        <dd class="form-control">@Trainee.Email</dd>
+        <dt class="col-form-label">Mobile No</dt>
+        <dd class="form-control">@Trainee.MobileNo</dd>
+        <dt class="col-form-label">Birthdate</dt>
+        <dd class="form-control">@Trainee.Birthdate.ToString("D", CultureInfo.InvariantCulture)</dd>
+        <dt class="col-form-label">Is Graduated</dt>
+        <dd >@(Trainee.IsGraduated ? "Yes" : "No")</dd>
+    </dl>
+}
+else
+{
+    <p>Trainee not found.</p>
+}
+
+
