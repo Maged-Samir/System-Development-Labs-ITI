@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CustomRazorClassLibrary.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CustomRazorClassLibrary.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CustomRazorClassLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CustomRazorClassLibrary.props",
+      "PackagePath": "build\\CustomRazorClassLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CustomRazorClassLibrary.props",
+      "PackagePath": "buildMultiTargeting\\CustomRazorClassLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CustomRazorClassLibrary.props",
+      "PackagePath": "buildTransitive\\CustomRazorClassLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

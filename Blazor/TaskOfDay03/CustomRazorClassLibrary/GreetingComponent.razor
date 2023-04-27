@@ -1,0 +1,11 @@
+﻿<h3>Greeting Custom Component</h3>
+
+@code {
+    [Parameter]
+    public string Name { get; set; }
+
+    protected string Greeting => $"Hello, {Name}!";
+}
+
+
+<h1>@Greeting</h1>

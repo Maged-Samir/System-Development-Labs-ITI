@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "MkZT8Dnm3nBikuCCBmlHqFPuioySRFHqi6+DKqiS8Fs=",
+  "Source": "CustomRazorClassLibrary",
+  "BasePath": "_content/CustomRazorClassLibrary",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CustomRazorClassLibrary\\wwwroot",
+      "Source": "CustomRazorClassLibrary",
+      "ContentRoot": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\wwwroot\\",
+      "BasePath": "_content/CustomRazorClassLibrary",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CustomRazorClassLibrary.styles.css",
+      "SourceId": "CustomRazorClassLibrary",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/CustomRazorClassLibrary",
+      "RelativePath": "CustomRazorClassLibrary.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CustomRazorClassLibrary.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CustomRazorClassLibrary.bundle.scp.css",
+      "SourceId": "CustomRazorClassLibrary",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/CustomRazorClassLibrary",
+      "RelativePath": "CustomRazorClassLibrary.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CustomRazorClassLibrary.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\wwwroot\\background.png",
+      "SourceId": "CustomRazorClassLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\wwwroot\\",
+      "BasePath": "_content/CustomRazorClassLibrary",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "CustomRazorClassLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Maged\\Desktop\\CustomRazorClassLibrary\\CustomRazorClassLibrary\\wwwroot\\",
+      "BasePath": "_content/CustomRazorClassLibrary",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿<h3>CountdownComponent</h3>
+
+@code {
+    [Parameter]
+    public int Seconds { get; set; } = 10;
+
+    [Parameter]
+    public EventCallback<int> OnComplete { get; set; }
+
+    protected int RemainingSeconds { get; private set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+
+        RemainingSeconds = Seconds;
+
+        while (RemainingSeconds > 0)
+        {
+            await Task.Delay(1000);
+            RemainingSeconds--;
+            StateHasChanged();
+        }
+
+        if (OnComplete.HasDelegate)
+        {
+            await OnComplete.InvokeAsync(Seconds);
+        }
+    }
+}
+
+
+
+@if (RemainingSeconds > 0)
+{
+        <h3>Countdown: @RemainingSeconds seconds</h3>
+}
+else
+{
+        <h3>Countdown complete!</h3>
+}

@@ -1,0 +1,40 @@
+﻿@page "/"
+
+@attribute [Authorize]
+
+@using MyApplication;
+
+@inject IJSRuntime JSRuntime
+
+
+<PageTitle>Index</PageTitle>
+
+<GreetingComponent Name="Maged Samir" />
+
+<CountdownComponent Seconds="5" OnComplete="@HandleCountdownComplete" />
+
+<p>@CurrentDate</p>
+
+
+
+@code {
+    private async Task HandleCountdownComplete(int seconds)
+    {
+        await Task.Delay(1000);
+        Console.WriteLine($"Countdown complete! Started with {seconds} seconds.");
+    }
+
+    
+    public string CurrentDate { get; set; }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            CurrentDate = await MyInterop.GetCurrentDate(JSRuntime);
+            StateHasChanged();
+        }
+    }
+
+
+}
