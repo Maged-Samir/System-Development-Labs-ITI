@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\gRPCTask.PaymentService.props" />
+</Project>

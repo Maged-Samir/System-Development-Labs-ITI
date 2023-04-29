@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SY1zEMboXKugmNm8pylhp+b6kKh9WFvVtBCwizzinHE=",
+  "Source": "gRPCTask.InventoryService",
+  "BasePath": "_content/gRPCTask.InventoryService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

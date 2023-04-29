@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j1sVjHIVU5rb+8XXz8GiloWJIvhthHajtVgd0Gli2sk=",
+  "Source": "gRPCTask.PaymentService",
+  "BasePath": "_content/gRPCTask.PaymentService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

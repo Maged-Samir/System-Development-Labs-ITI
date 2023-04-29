@@ -1,0 +1,2 @@
+obj\Debug\net7.0\Protos/Inventory.cs \
+obj\Debug\net7.0\Protos/InventoryGrpc.cs: Protos/Inventory.proto

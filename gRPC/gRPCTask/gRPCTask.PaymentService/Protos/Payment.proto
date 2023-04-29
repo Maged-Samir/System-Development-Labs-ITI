@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPCTask.PaymentService.Protos";
+
+service Payment {
+  rpc CheckBalance (PaymentRequest) returns (PaymentResponse) {}
+}
+
+
+message PaymentRequest {
+  int32 UserId = 1;
+  int32 Price = 2;
+}
+
+message PaymentResponse {
+  bool available = 1;
+}
