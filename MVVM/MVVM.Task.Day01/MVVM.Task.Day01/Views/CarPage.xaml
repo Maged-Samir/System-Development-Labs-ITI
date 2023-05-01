@@ -1,0 +1,51 @@
+﻿<Page x:Class="MVVM.Task.Day01.CarPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MVVM.Task.Day01"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="CarPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Add Car Form -->
+        <Border Grid.Row="0" Padding="10" Margin="10">
+            <StackPanel>
+                <TextBlock Text="Add a new car" FontWeight="Bold" Margin="0,0,0,10"/>
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Model: " VerticalAlignment="Center" Margin="0,0,10,0"/>
+                    <TextBox Text="{Binding Model}" Width="150"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Year: " VerticalAlignment="Center" Margin="0,0,10,0"/>
+                    <TextBox Text="{Binding Year}" Width="50"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Color: " VerticalAlignment="Center" Margin="0,0,10,0"/>
+                    <TextBox Text="{Binding Color}" Width="150"/>
+                </StackPanel>
+                <Button Content="Add Car" Command="{Binding AddCarCommand}" />
+            </StackPanel>
+        </Border>
+
+        <!-- Car List -->
+        <Border Grid.Row="1" Padding="10" Margin="10">
+            <ListView ItemsSource="{Binding Cars}" SelectedItem="{Binding SelectedCar}">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}" Width="50"/>
+                        <GridViewColumn Header="Model" DisplayMemberBinding="{Binding Model}" Width="150"/>
+                        <GridViewColumn Header="Year" DisplayMemberBinding="{Binding Year}" Width="50"/>
+                        <GridViewColumn Header="Color" DisplayMemberBinding="{Binding Color}" Width="150"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Border>
+    </Grid>
+</Page>
