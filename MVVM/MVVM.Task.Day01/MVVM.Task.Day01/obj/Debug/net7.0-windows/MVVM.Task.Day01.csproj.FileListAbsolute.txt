@@ -1,0 +1,78 @@
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\MVVM.Task.Day01.exe
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\MVVM.Task.Day01.deps.json
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\MVVM.Task.Day01.runtimeconfig.json
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\MVVM.Task.Day01.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\MVVM.Task.Day01.pdb
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01_MarkupCompile.cache
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01_MarkupCompile.lref
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.g.resources
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.AssemblyInfo.cs
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\refint\MVVM.Task.Day01.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.pdb
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.genruntimeconfig.cache
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\ref\MVVM.Task.Day01.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\CommonServiceLocator.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\System.Windows.Interactivity.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.csproj.CopyComplete
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\Views\CarPage.g.cs
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\Views\MainWindow.g.cs
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\Views\CarPage.baml
+C:\Users\Maged\Desktop\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\Views\MainWindow.baml
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\MVVM.Task.Day01.exe
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\MVVM.Task.Day01.deps.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\MVVM.Task.Day01.runtimeconfig.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\MVVM.Task.Day01.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\MVVM.Task.Day01.pdb
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\CommonServiceLocator.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Extras.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Platform.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\System.Windows.Interactivity.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\debian-x64\native\libuv.so
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\fedora-x64\native\libuv.so
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\opensuse-x64\native\libuv.so
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\osx\native\libuv.dylib
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\rhel-x64\native\libuv.so
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\win7-arm\native\libuv.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\win7-x64\native\libuv.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\bin\Debug\net7.0-windows\runtimes\win7-x86\native\libuv.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.csproj.AssemblyReference.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\Views\MainWindow.g.cs
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\App.g.cs
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01_MarkupCompile.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01_MarkupCompile.lref
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\Views\MainWindow.baml
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.g.resources
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.AssemblyInfoInputs.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.AssemblyInfo.cs
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.csproj.CoreCompileInputs.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.csproj.CopyComplete
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\refint\MVVM.Task.Day01.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.pdb
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\MVVM.Task.Day01.genruntimeconfig.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\MVVM\MVVM.Task.Day01\MVVM.Task.Day01\obj\Debug\net7.0-windows\ref\MVVM.Task.Day01.dll
