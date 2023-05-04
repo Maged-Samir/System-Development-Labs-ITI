@@ -1,0 +1,33 @@
+﻿@page "/"
+@inject IStringLocalizer<BlazorAppTestLocalization.Localization.ApplicationResource> Localizer
+@using System.Globalization;
+
+<PageTitle>Index</PageTitle>
+<div style="float: right;">
+    <label for="language-select">Select a language:</label>
+    <select id="language-select" @onchange="OnLanguageSelected">
+        <option value="en-US">English</option>
+        <option value="fr-FR">Arabic</option>
+    </select>
+</div>
+
+@code {
+    private void OnLanguageSelected(ChangeEventArgs args)
+    {
+        string selectedLanguage = (string)args.Value;
+        CultureInfo cultureInfo = new CultureInfo(selectedLanguage);
+        CultureInfo.DefaultThreadCurrentCulture = cultureInfo;
+        CultureInfo.DefaultThreadCurrentUICulture = cultureInfo;
+    }
+}
+
+
+<h1 style="text-align: center; padding-top:80px">@Localizer["HelloWorld"]</h1>
+
+<div style="text-align:center" class="alert alert-secondary mt-4">
+    <span>
+        @Localizer["paragraph"]
+    </span>
+</div>
+
+

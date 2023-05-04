@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bFKcQc8Z+Psg3TSqBr14McZUthI1gYfqKJQPCssLbl7z+SJuKKQpVsCR0qFS/nDI3KEut3TRd6itOgzxxQO8oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maged\\Desktop\\BlazorAppTestLocalization\\BlazorAppTestLocalization\\BlazorAppTestLocalization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.localization\\7.0.5\\microsoft.extensions.localization.7.0.5.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\7.0.5\\microsoft.extensions.localization.abstractions.7.0.5.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
