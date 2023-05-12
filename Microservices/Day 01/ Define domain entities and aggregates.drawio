@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2023-05-12T19:38:19.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="W-6uQuj9incZ1uV16O6Y" version="21.2.9" type="github">
+  <diagram name="Page-1" id="b9jP6qFbU2874AXC84ab">
+    <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a6NuhBOypcQWPQldMMP--1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Patient&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="40" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a6NuhBOypcQWPQldMMP--8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Patient is considered agreggate Root associated with appointment &amp;amp; payment&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="55" y="280" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a6NuhBOypcQWPQldMMP--17" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Doctor is considered agreggate Root associated with appointment&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="600" width="705" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a6NuhBOypcQWPQldMMP--18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Notification&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="680" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a6NuhBOypcQWPQldMMP--21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Payment&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="680" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a6NuhBOypcQWPQldMMP--25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Admin&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="680" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwU4eMN-Xc7NBzBuMG2A-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Patient&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwU4eMN-Xc7NBzBuMG2A-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Appointment&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwU4eMN-Xc7NBzBuMG2A-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Payment&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwU4eMN-Xc7NBzBuMG2A-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Patient_ID&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CwU4eMN-Xc7NBzBuMG2A-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Doctor_ID&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CwU4eMN-Xc7NBzBuMG2A-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Appointment_ID&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CwU4eMN-Xc7NBzBuMG2A-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Doctor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwU4eMN-Xc7NBzBuMG2A-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Doctor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwU4eMN-Xc7NBzBuMG2A-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Appointment&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwU4eMN-Xc7NBzBuMG2A-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Patient_ID&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CwU4eMN-Xc7NBzBuMG2A-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Doctor_ID&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CwU4eMN-Xc7NBzBuMG2A-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Appointment_ID&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="730" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CwU4eMN-Xc7NBzBuMG2A-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Appointment_ID&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="730" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
