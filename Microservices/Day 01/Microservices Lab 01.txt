@@ -1,0 +1,14 @@
+• Patient can browse all specialists and doctors available
+• Patient can book an available appointment
+• Patient must be logged-in in order to proceed in booking
+• Patient has a profile with appointment history and upcoming
+appointments
+• A notification will be sent upon booking to confirm the booking
+• A Doctor can apply to the service with a complete resume and 
+add the available slots
+• Doctor after the appointment record the consultation details, 
+notes and appointment duration to be add to the patient history
+• the patient get notified with the doctor’s description
+• the patient can pay the treatment/consultation fees via the app
+• administrator can browse Realtime dashboard about the current 
+visits, total number of user
