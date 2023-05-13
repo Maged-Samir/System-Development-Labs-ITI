@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "cmAztl4PmnX5prDw+6WnAgBkV2VLhAHzuhJjZ1RpIcwNXHkPtb6DvsCMGfpsgsjifcl0WP+5aqHX19C0hgYquw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maged\\Desktop\\ITI.MicroServices.MentalHealthApp\\AppointmentService\\AppointmentService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.servicefabric\\9.1.1653\\microsoft.servicefabric.9.1.1653.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.servicefabric.aspnetcore.abstractions\\6.1.1653\\microsoft.servicefabric.aspnetcore.abstractions.6.1.1653.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.servicefabric.aspnetcore.kestrel\\6.1.1653\\microsoft.servicefabric.aspnetcore.kestrel.6.1.1653.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.servicefabric.data\\6.1.1653\\microsoft.servicefabric.data.6.1.1653.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\6.1.1653\\microsoft.servicefabric.data.extensions.6.1.1653.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\6.1.1653\\microsoft.servicefabric.data.interfaces.6.1.1653.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\6.1.1653\\microsoft.servicefabric.diagnostics.internal.6.1.1653.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.servicefabric.services\\6.1.1653\\microsoft.servicefabric.services.6.1.1653.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0\\microsoft.netcore.app.runtime.win-x64.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

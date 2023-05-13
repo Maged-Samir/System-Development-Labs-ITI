@@ -1,0 +1,1 @@
+C:\Users\Maged\Desktop\ITI.Microservices.MentalHealthApp\ITI.Microservices.MentalHealthApp\obj\x64\Debug\ITI.Microservices.MentalHealthApp.sfproj.CoreCompileInputs.cache

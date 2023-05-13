@@ -1,0 +1,1238 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.Extensions.ApiDescription.Server.props": {},
+          "build/Microsoft.Extensions.ApiDescription.Server.targets": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.props": {},
+          "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets": {}
+        }
+      },
+      "Microsoft.OpenApi/1.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric/9.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll": {},
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll": {},
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll": {},
+          "lib/netstandard2.0/StartupServicesModel.dll": {},
+          "lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll": {},
+          "lib/netstandard2.0/System.Fabric.Strings.dll": {},
+          "lib/netstandard2.0/System.Fabric.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll": {},
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll": {},
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll": {},
+          "lib/netstandard2.0/StartupServicesModel.dll": {},
+          "lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll": {},
+          "lib/netstandard2.0/System.Fabric.Strings.dll": {},
+          "lib/netstandard2.0/System.Fabric.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.McgInterop.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/linux/lib/netstandard2.0/StartupServicesModel.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Fabric.McgInterop.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Fabric.Strings.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Fabric.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Private.CompilerServices.ICastable.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Private.Interop.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          },
+          "runtimes/win/lib/netstandard2.0/StartupServicesModel.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          },
+          "runtimes/win/lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          },
+          "runtimes/win/lib/netstandard2.0/System.Fabric.Strings.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          },
+          "runtimes/win/lib/netstandard2.0/System.Fabric.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.AspNetCore.Abstractions/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric.Services": "[6.1.1653]"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.ServiceFabric.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.ServiceFabric.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.AspNetCore.Kestrel/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric.AspNetCore.Abstractions": "[6.1.1653]"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Data/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric": "[9.1.1653]",
+          "Microsoft.ServiceFabric.Data.Extensions": "[6.1.1653]",
+          "Microsoft.ServiceFabric.Data.Interfaces": "[6.1.1653]"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Data.Extensions/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric": "9.1.1653",
+          "Microsoft.ServiceFabric.Data.Interfaces": "[6.1.1653]"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll": {},
+          "lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll": {},
+          "lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Data.Interfaces/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric": "[9.1.1653]"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Diagnostics.Internal/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric": "[9.1.1653]"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll": {
+            "assetType": "runtime",
+            "rid": "linux"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Services/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric.Data": "[6.1.1653]",
+          "Microsoft.ServiceFabric.Diagnostics.Internal": "[6.1.1653]"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Services.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Services.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore/6.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.ApiDescription.Server": "3.0.0",
+          "Swashbuckle.AspNetCore.Swagger": "6.2.3",
+          "Swashbuckle.AspNetCore.SwaggerGen": "6.2.3",
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.2.3"
+        },
+        "build": {
+          "build/Swashbuckle.AspNetCore.props": {}
+        }
+      },
+      "Swashbuckle.AspNetCore.Swagger/6.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.OpenApi": "1.2.3"
+        },
+        "compile": {
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Swashbuckle.AspNetCore.SwaggerGen/6.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "6.2.3"
+        },
+        "compile": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI/6.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "System.Memory/4.5.3": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/_._": {}
+        }
+      }
+    },
+    "net6.0/win7-x64": {
+      "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.Extensions.ApiDescription.Server.props": {},
+          "build/Microsoft.Extensions.ApiDescription.Server.targets": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.props": {},
+          "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets": {}
+        }
+      },
+      "Microsoft.OpenApi/1.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric/9.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll": {},
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll": {},
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll": {},
+          "lib/netstandard2.0/StartupServicesModel.dll": {},
+          "lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll": {},
+          "lib/netstandard2.0/System.Fabric.Strings.dll": {},
+          "lib/netstandard2.0/System.Fabric.dll": {}
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll": {},
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll": {},
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll": {},
+          "runtimes/win/lib/netstandard2.0/StartupServicesModel.dll": {},
+          "runtimes/win/lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll": {},
+          "runtimes/win/lib/netstandard2.0/System.Fabric.Strings.dll": {},
+          "runtimes/win/lib/netstandard2.0/System.Fabric.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric.AspNetCore.Abstractions/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric.Services": "[6.1.1653]"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.ServiceFabric.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.ServiceFabric.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.AspNetCore.Kestrel/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric.AspNetCore.Abstractions": "[6.1.1653]"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Data/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric": "[9.1.1653]",
+          "Microsoft.ServiceFabric.Data.Extensions": "[6.1.1653]",
+          "Microsoft.ServiceFabric.Data.Interfaces": "[6.1.1653]"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {}
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric.Data.Extensions/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric": "9.1.1653",
+          "Microsoft.ServiceFabric.Data.Interfaces": "[6.1.1653]"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll": {},
+          "lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll": {}
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll": {},
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric.Data.Interfaces/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric": "[9.1.1653]"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll": {}
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric.Diagnostics.Internal/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric": "[9.1.1653]"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll": {}
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric.Services/6.1.1653": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ServiceFabric.Data": "[6.1.1653]",
+          "Microsoft.ServiceFabric.Diagnostics.Internal": "[6.1.1653]"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Services.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Services.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore/6.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.ApiDescription.Server": "3.0.0",
+          "Swashbuckle.AspNetCore.Swagger": "6.2.3",
+          "Swashbuckle.AspNetCore.SwaggerGen": "6.2.3",
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.2.3"
+        },
+        "build": {
+          "build/Swashbuckle.AspNetCore.props": {}
+        }
+      },
+      "Swashbuckle.AspNetCore.Swagger/6.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.OpenApi": "1.2.3"
+        },
+        "compile": {
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Swashbuckle.AspNetCore.SwaggerGen/6.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "6.2.3"
+        },
+        "compile": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI/6.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "System.Memory/4.5.3": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
+      "sha512": "LH4OE/76F6sOCslif7+Xh3fS/wUUrE5ryeXAMcoCnuwOQGT5Smw0p57IgDh/pHgHaGz/e+AmEQb7pRgb++wt0w==",
+      "type": "package",
+      "path": "microsoft.extensions.apidescription.server/3.0.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Microsoft.Extensions.ApiDescription.Server.props",
+        "build/Microsoft.Extensions.ApiDescription.Server.targets",
+        "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.props",
+        "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets",
+        "microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+        "microsoft.extensions.apidescription.server.nuspec",
+        "tools/Newtonsoft.Json.dll",
+        "tools/dotnet-getdocument.deps.json",
+        "tools/dotnet-getdocument.dll",
+        "tools/dotnet-getdocument.runtimeconfig.json",
+        "tools/net461-x86/GetDocument.Insider.exe",
+        "tools/net461-x86/GetDocument.Insider.exe.config",
+        "tools/net461/GetDocument.Insider.exe",
+        "tools/net461/GetDocument.Insider.exe.config",
+        "tools/netcoreapp2.1/GetDocument.Insider.deps.json",
+        "tools/netcoreapp2.1/GetDocument.Insider.dll",
+        "tools/netcoreapp2.1/GetDocument.Insider.runtimeconfig.json"
+      ]
+    },
+    "Microsoft.OpenApi/1.2.3": {
+      "sha512": "Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
+      "type": "package",
+      "path": "microsoft.openapi/1.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net46/Microsoft.OpenApi.dll",
+        "lib/net46/Microsoft.OpenApi.pdb",
+        "lib/net46/Microsoft.OpenApi.xml",
+        "lib/netstandard2.0/Microsoft.OpenApi.dll",
+        "lib/netstandard2.0/Microsoft.OpenApi.pdb",
+        "lib/netstandard2.0/Microsoft.OpenApi.xml",
+        "microsoft.openapi.1.2.3.nupkg.sha512",
+        "microsoft.openapi.nuspec"
+      ]
+    },
+    "Microsoft.ServiceFabric/9.1.1653": {
+      "sha512": "WsQjpVzpJOCC3f1+EBKiBqkk4kbmY7+Tfs+I0D8zIY65WV//ZX7b9zpe0jNWM4yMi8vv5HQ4JofgK12LXNcZLw==",
+      "type": "package",
+      "path": "microsoft.servicefabric/9.1.1653",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "lib/net45/Microsoft.ServiceFabric.Internal.dll",
+        "lib/net45/Microsoft.ServiceFabric.Preview.dll",
+        "lib/net45/Microsoft.ServiceFabric.Preview.xml",
+        "lib/net45/StartupServicesModel.XmlSerializers.dll",
+        "lib/net45/StartupServicesModel.dll",
+        "lib/net45/System.Fabric.Management.ServiceModel.XmlSerializers.dll",
+        "lib/net45/System.Fabric.Management.ServiceModel.dll",
+        "lib/net45/System.Fabric.Strings.dll",
+        "lib/net45/System.Fabric.dll",
+        "lib/net45/System.Fabric.xml",
+        "lib/net451/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "lib/net451/Microsoft.ServiceFabric.Internal.dll",
+        "lib/net451/Microsoft.ServiceFabric.Preview.dll",
+        "lib/net451/Microsoft.ServiceFabric.Preview.xml",
+        "lib/net451/StartupServicesModel.dll",
+        "lib/net451/System.Fabric.Management.ServiceModel.dll",
+        "lib/net451/System.Fabric.Strings.dll",
+        "lib/net451/System.Fabric.dll",
+        "lib/net451/System.Fabric.xml",
+        "lib/net452/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "lib/net452/Microsoft.ServiceFabric.Internal.dll",
+        "lib/net452/Microsoft.ServiceFabric.Preview.dll",
+        "lib/net452/Microsoft.ServiceFabric.Preview.xml",
+        "lib/net452/StartupServicesModel.dll",
+        "lib/net452/System.Fabric.Management.ServiceModel.dll",
+        "lib/net452/System.Fabric.Strings.dll",
+        "lib/net452/System.Fabric.dll",
+        "lib/net452/System.Fabric.xml",
+        "lib/net46/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "lib/net46/Microsoft.ServiceFabric.Internal.dll",
+        "lib/net46/Microsoft.ServiceFabric.Preview.dll",
+        "lib/net46/Microsoft.ServiceFabric.Preview.xml",
+        "lib/net46/StartupServicesModel.dll",
+        "lib/net46/System.Fabric.Management.ServiceModel.dll",
+        "lib/net46/System.Fabric.Strings.dll",
+        "lib/net46/System.Fabric.dll",
+        "lib/net46/System.Fabric.xml",
+        "lib/net461/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "lib/net461/Microsoft.ServiceFabric.Internal.dll",
+        "lib/net461/Microsoft.ServiceFabric.Preview.dll",
+        "lib/net461/Microsoft.ServiceFabric.Preview.xml",
+        "lib/net461/StartupServicesModel.dll",
+        "lib/net461/System.Fabric.Management.ServiceModel.dll",
+        "lib/net461/System.Fabric.Strings.dll",
+        "lib/net461/System.Fabric.dll",
+        "lib/net461/System.Fabric.xml",
+        "lib/net462/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "lib/net462/Microsoft.ServiceFabric.Internal.dll",
+        "lib/net462/Microsoft.ServiceFabric.Preview.dll",
+        "lib/net462/Microsoft.ServiceFabric.Preview.xml",
+        "lib/net462/StartupServicesModel.dll",
+        "lib/net462/System.Fabric.Management.ServiceModel.dll",
+        "lib/net462/System.Fabric.Strings.dll",
+        "lib/net462/System.Fabric.dll",
+        "lib/net462/System.Fabric.xml",
+        "lib/net47/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "lib/net47/Microsoft.ServiceFabric.Internal.dll",
+        "lib/net47/Microsoft.ServiceFabric.Preview.dll",
+        "lib/net47/Microsoft.ServiceFabric.Preview.xml",
+        "lib/net47/StartupServicesModel.dll",
+        "lib/net47/System.Fabric.Management.ServiceModel.dll",
+        "lib/net47/System.Fabric.Strings.dll",
+        "lib/net47/System.Fabric.dll",
+        "lib/net47/System.Fabric.xml",
+        "lib/net471/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "lib/net471/Microsoft.ServiceFabric.Internal.dll",
+        "lib/net471/Microsoft.ServiceFabric.Preview.dll",
+        "lib/net471/Microsoft.ServiceFabric.Preview.xml",
+        "lib/net471/StartupServicesModel.dll",
+        "lib/net471/System.Fabric.Management.ServiceModel.dll",
+        "lib/net471/System.Fabric.Strings.dll",
+        "lib/net471/System.Fabric.dll",
+        "lib/net471/System.Fabric.xml",
+        "lib/net472/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "lib/net472/Microsoft.ServiceFabric.Internal.dll",
+        "lib/net472/Microsoft.ServiceFabric.Preview.dll",
+        "lib/net472/Microsoft.ServiceFabric.Preview.xml",
+        "lib/net472/StartupServicesModel.dll",
+        "lib/net472/System.Fabric.Management.ServiceModel.dll",
+        "lib/net472/System.Fabric.Strings.dll",
+        "lib/net472/System.Fabric.dll",
+        "lib/net472/System.Fabric.xml",
+        "lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll",
+        "lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll",
+        "lib/netstandard2.0/StartupServicesModel.dll",
+        "lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll",
+        "lib/netstandard2.0/System.Fabric.Strings.dll",
+        "lib/netstandard2.0/System.Fabric.dll",
+        "microsoft.servicefabric.9.1.1653.nupkg.sha512",
+        "microsoft.servicefabric.nuspec",
+        "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.McgInterop.dll",
+        "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll",
+        "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll",
+        "runtimes/linux/lib/netstandard2.0/StartupServicesModel.dll",
+        "runtimes/linux/lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll",
+        "runtimes/linux/lib/netstandard2.0/System.Fabric.McgInterop.dll",
+        "runtimes/linux/lib/netstandard2.0/System.Fabric.Strings.dll",
+        "runtimes/linux/lib/netstandard2.0/System.Fabric.dll",
+        "runtimes/linux/lib/netstandard2.0/System.Private.CompilerServices.ICastable.dll",
+        "runtimes/linux/lib/netstandard2.0/System.Private.Interop.dll",
+        "runtimes/win/lib/net461/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "runtimes/win/lib/net461/Microsoft.ServiceFabric.Internal.dll",
+        "runtimes/win/lib/net461/Microsoft.ServiceFabric.Preview.dll",
+        "runtimes/win/lib/net461/StartupServicesModel.dll",
+        "runtimes/win/lib/net461/System.Fabric.Management.ServiceModel.XmlSerializers.dll",
+        "runtimes/win/lib/net461/System.Fabric.Management.ServiceModel.dll",
+        "runtimes/win/lib/net461/System.Fabric.Strings.dll",
+        "runtimes/win/lib/net461/System.Fabric.dll",
+        "runtimes/win/lib/net462/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "runtimes/win/lib/net462/Microsoft.ServiceFabric.Internal.dll",
+        "runtimes/win/lib/net462/Microsoft.ServiceFabric.Preview.dll",
+        "runtimes/win/lib/net462/StartupServicesModel.dll",
+        "runtimes/win/lib/net462/System.Fabric.Management.ServiceModel.XmlSerializers.dll",
+        "runtimes/win/lib/net462/System.Fabric.Management.ServiceModel.dll",
+        "runtimes/win/lib/net462/System.Fabric.Strings.dll",
+        "runtimes/win/lib/net462/System.Fabric.dll",
+        "runtimes/win/lib/net47/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "runtimes/win/lib/net47/Microsoft.ServiceFabric.Internal.dll",
+        "runtimes/win/lib/net47/Microsoft.ServiceFabric.Preview.dll",
+        "runtimes/win/lib/net47/StartupServicesModel.dll",
+        "runtimes/win/lib/net47/System.Fabric.Management.ServiceModel.XmlSerializers.dll",
+        "runtimes/win/lib/net47/System.Fabric.Management.ServiceModel.dll",
+        "runtimes/win/lib/net47/System.Fabric.Strings.dll",
+        "runtimes/win/lib/net47/System.Fabric.dll",
+        "runtimes/win/lib/net471/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "runtimes/win/lib/net471/Microsoft.ServiceFabric.Internal.dll",
+        "runtimes/win/lib/net471/Microsoft.ServiceFabric.Preview.dll",
+        "runtimes/win/lib/net471/StartupServicesModel.dll",
+        "runtimes/win/lib/net471/System.Fabric.Management.ServiceModel.XmlSerializers.dll",
+        "runtimes/win/lib/net471/System.Fabric.Management.ServiceModel.dll",
+        "runtimes/win/lib/net471/System.Fabric.Strings.dll",
+        "runtimes/win/lib/net471/System.Fabric.dll",
+        "runtimes/win/lib/net472/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "runtimes/win/lib/net472/Microsoft.ServiceFabric.Internal.dll",
+        "runtimes/win/lib/net472/Microsoft.ServiceFabric.Preview.dll",
+        "runtimes/win/lib/net472/StartupServicesModel.dll",
+        "runtimes/win/lib/net472/System.Fabric.Management.ServiceModel.XmlSerializers.dll",
+        "runtimes/win/lib/net472/System.Fabric.Management.ServiceModel.dll",
+        "runtimes/win/lib/net472/System.Fabric.Strings.dll",
+        "runtimes/win/lib/net472/System.Fabric.dll",
+        "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll",
+        "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll",
+        "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll",
+        "runtimes/win/lib/netstandard2.0/StartupServicesModel.dll",
+        "runtimes/win/lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll",
+        "runtimes/win/lib/netstandard2.0/System.Fabric.Strings.dll",
+        "runtimes/win/lib/netstandard2.0/System.Fabric.dll"
+      ]
+    },
+    "Microsoft.ServiceFabric.AspNetCore.Abstractions/6.1.1653": {
+      "sha512": "S3S3N2ExQwQ+b5fvNcoD5yZu2suoT1z2xIxwXBHam5F9YiqQ/NNs9j6fBQDep5nyPMI8jij2jgdKgwu4yLkfcA==",
+      "type": "package",
+      "path": "microsoft.servicefabric.aspnetcore.abstractions/6.1.1653",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/Microsoft.ServiceFabric.AspNetCore.dll",
+        "lib/net461/Microsoft.ServiceFabric.AspNetCore.xml",
+        "lib/net462/Microsoft.ServiceFabric.AspNetCore.dll",
+        "lib/net462/Microsoft.ServiceFabric.AspNetCore.xml",
+        "lib/net47/Microsoft.ServiceFabric.AspNetCore.dll",
+        "lib/net47/Microsoft.ServiceFabric.AspNetCore.xml",
+        "lib/net471/Microsoft.ServiceFabric.AspNetCore.dll",
+        "lib/net471/Microsoft.ServiceFabric.AspNetCore.xml",
+        "lib/net472/Microsoft.ServiceFabric.AspNetCore.dll",
+        "lib/net472/Microsoft.ServiceFabric.AspNetCore.xml",
+        "lib/net5.0/Microsoft.ServiceFabric.AspNetCore.dll",
+        "lib/net5.0/Microsoft.ServiceFabric.AspNetCore.xml",
+        "lib/net6.0/Microsoft.ServiceFabric.AspNetCore.dll",
+        "lib/net6.0/Microsoft.ServiceFabric.AspNetCore.xml",
+        "lib/net7.0/Microsoft.ServiceFabric.AspNetCore.dll",
+        "lib/net7.0/Microsoft.ServiceFabric.AspNetCore.xml",
+        "lib/netcoreapp3.1/Microsoft.ServiceFabric.AspNetCore.dll",
+        "lib/netcoreapp3.1/Microsoft.ServiceFabric.AspNetCore.xml",
+        "microsoft.servicefabric.aspnetcore.abstractions.6.1.1653.nupkg.sha512",
+        "microsoft.servicefabric.aspnetcore.abstractions.nuspec",
+        "runtimes/win/lib/net461/Microsoft.ServiceFabric.AspNetCore.dll",
+        "runtimes/win/lib/net462/Microsoft.ServiceFabric.AspNetCore.dll",
+        "runtimes/win/lib/net47/Microsoft.ServiceFabric.AspNetCore.dll",
+        "runtimes/win/lib/net471/Microsoft.ServiceFabric.AspNetCore.dll",
+        "runtimes/win/lib/net472/Microsoft.ServiceFabric.AspNetCore.dll"
+      ]
+    },
+    "Microsoft.ServiceFabric.AspNetCore.Kestrel/6.1.1653": {
+      "sha512": "bMPt30veZ48fzw5gGf1nBnVTEkMEew54ClCirS40KgBlTFi/0YMQrI0GxuLPkq3kC34MNYyLTcmyumpORycjpQ==",
+      "type": "package",
+      "path": "microsoft.servicefabric.aspnetcore.kestrel/6.1.1653",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll",
+        "lib/net461/Microsoft.ServiceFabric.AspNetCore.Kestrel.xml",
+        "lib/net462/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll",
+        "lib/net462/Microsoft.ServiceFabric.AspNetCore.Kestrel.xml",
+        "lib/net47/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll",
+        "lib/net47/Microsoft.ServiceFabric.AspNetCore.Kestrel.xml",
+        "lib/net471/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll",
+        "lib/net471/Microsoft.ServiceFabric.AspNetCore.Kestrel.xml",
+        "lib/net472/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll",
+        "lib/net472/Microsoft.ServiceFabric.AspNetCore.Kestrel.xml",
+        "lib/net5.0/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll",
+        "lib/net5.0/Microsoft.ServiceFabric.AspNetCore.Kestrel.xml",
+        "lib/net6.0/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll",
+        "lib/net6.0/Microsoft.ServiceFabric.AspNetCore.Kestrel.xml",
+        "lib/net7.0/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll",
+        "lib/net7.0/Microsoft.ServiceFabric.AspNetCore.Kestrel.xml",
+        "lib/netcoreapp3.1/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll",
+        "lib/netcoreapp3.1/Microsoft.ServiceFabric.AspNetCore.Kestrel.xml",
+        "microsoft.servicefabric.aspnetcore.kestrel.6.1.1653.nupkg.sha512",
+        "microsoft.servicefabric.aspnetcore.kestrel.nuspec",
+        "runtimes/win/lib/net461/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll",
+        "runtimes/win/lib/net462/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll",
+        "runtimes/win/lib/net47/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll",
+        "runtimes/win/lib/net471/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll",
+        "runtimes/win/lib/net472/Microsoft.ServiceFabric.AspNetCore.Kestrel.dll"
+      ]
+    },
+    "Microsoft.ServiceFabric.Data/6.1.1653": {
+      "sha512": "s+wEhHbvxEnd0HqadoxiRZEYFMcvfiEUVsQvOMxsdSilVmx3G9wB0f3850S7YLD2fVtamYd/NUvsjrSFjkO+iQ==",
+      "type": "package",
+      "path": "microsoft.servicefabric.data/6.1.1653",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Microsoft.ServiceFabric.Data.dll",
+        "lib/net45/Microsoft.ServiceFabric.Data.xml",
+        "lib/net451/Microsoft.ServiceFabric.Data.dll",
+        "lib/net451/Microsoft.ServiceFabric.Data.xml",
+        "lib/net452/Microsoft.ServiceFabric.Data.dll",
+        "lib/net452/Microsoft.ServiceFabric.Data.xml",
+        "lib/net46/Microsoft.ServiceFabric.Data.dll",
+        "lib/net46/Microsoft.ServiceFabric.Data.xml",
+        "lib/net461/Microsoft.ServiceFabric.Data.dll",
+        "lib/net461/Microsoft.ServiceFabric.Data.xml",
+        "lib/net462/Microsoft.ServiceFabric.Data.dll",
+        "lib/net462/Microsoft.ServiceFabric.Data.xml",
+        "lib/net47/Microsoft.ServiceFabric.Data.dll",
+        "lib/net47/Microsoft.ServiceFabric.Data.xml",
+        "lib/net471/Microsoft.ServiceFabric.Data.dll",
+        "lib/net471/Microsoft.ServiceFabric.Data.xml",
+        "lib/net472/Microsoft.ServiceFabric.Data.dll",
+        "lib/net472/Microsoft.ServiceFabric.Data.xml",
+        "lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll",
+        "microsoft.servicefabric.data.6.1.1653.nupkg.sha512",
+        "microsoft.servicefabric.data.nuspec",
+        "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll",
+        "runtimes/win/lib/net461/Microsoft.ServiceFabric.Data.dll",
+        "runtimes/win/lib/net462/Microsoft.ServiceFabric.Data.dll",
+        "runtimes/win/lib/net47/Microsoft.ServiceFabric.Data.dll",
+        "runtimes/win/lib/net471/Microsoft.ServiceFabric.Data.dll",
+        "runtimes/win/lib/net472/Microsoft.ServiceFabric.Data.dll",
+        "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll"
+      ]
+    },
+    "Microsoft.ServiceFabric.Data.Extensions/6.1.1653": {
+      "sha512": "E7WzGfbyXmSM4o22bq2hxUBjorLiCrm6MOJV2AxgRS1gZ4eyD0LtxXEVoiqJ2NwAIHacSw+iawq94BXBilxJIg==",
+      "type": "package",
+      "path": "microsoft.servicefabric.data.extensions/6.1.1653",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "lib/net45/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "lib/net451/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "lib/net451/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "lib/net452/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "lib/net452/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "lib/net46/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "lib/net46/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "lib/net461/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "lib/net461/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "lib/net462/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "lib/net462/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "lib/net47/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "lib/net47/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "lib/net471/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "lib/net471/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "lib/net472/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "lib/net472/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "microsoft.servicefabric.data.extensions.6.1.1653.nupkg.sha512",
+        "microsoft.servicefabric.data.extensions.nuspec",
+        "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "runtimes/win/lib/net461/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "runtimes/win/lib/net461/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "runtimes/win/lib/net462/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "runtimes/win/lib/net462/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "runtimes/win/lib/net47/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "runtimes/win/lib/net47/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "runtimes/win/lib/net471/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "runtimes/win/lib/net471/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "runtimes/win/lib/net472/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "runtimes/win/lib/net472/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
+        "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll",
+        "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll"
+      ]
+    },
+    "Microsoft.ServiceFabric.Data.Interfaces/6.1.1653": {
+      "sha512": "eFQq2UL1nC6eGOu9Y2AF03pEf9mAIAD/vdFUf5DhZHtw1Z1Ingy2je27HpbScZPRsPEwbLLv+WJLZuSwD1p5zw==",
+      "type": "package",
+      "path": "microsoft.servicefabric.data.interfaces/6.1.1653",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "lib/net45/Microsoft.ServiceFabric.Data.Interfaces.xml",
+        "lib/net451/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "lib/net451/Microsoft.ServiceFabric.Data.Interfaces.xml",
+        "lib/net452/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "lib/net452/Microsoft.ServiceFabric.Data.Interfaces.xml",
+        "lib/net46/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "lib/net46/Microsoft.ServiceFabric.Data.Interfaces.xml",
+        "lib/net461/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "lib/net461/Microsoft.ServiceFabric.Data.Interfaces.xml",
+        "lib/net462/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "lib/net462/Microsoft.ServiceFabric.Data.Interfaces.xml",
+        "lib/net47/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "lib/net47/Microsoft.ServiceFabric.Data.Interfaces.xml",
+        "lib/net471/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "lib/net471/Microsoft.ServiceFabric.Data.Interfaces.xml",
+        "lib/net472/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "lib/net472/Microsoft.ServiceFabric.Data.Interfaces.xml",
+        "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "microsoft.servicefabric.data.interfaces.6.1.1653.nupkg.sha512",
+        "microsoft.servicefabric.data.interfaces.nuspec",
+        "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "runtimes/win/lib/net461/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "runtimes/win/lib/net462/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "runtimes/win/lib/net47/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "runtimes/win/lib/net471/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "runtimes/win/lib/net472/Microsoft.ServiceFabric.Data.Interfaces.dll",
+        "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll"
+      ]
+    },
+    "Microsoft.ServiceFabric.Diagnostics.Internal/6.1.1653": {
+      "sha512": "MxkHePXUsbhJggs211fydh3nhDPLkL/88uceDIAEcl8LpYhGHTqd96HUiwQj/heXpKV3jw4o5i97xrZ8zFVIuA==",
+      "type": "package",
+      "path": "microsoft.servicefabric.diagnostics.internal/6.1.1653",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Microsoft.ServiceFabric.Diagnostics.dll",
+        "lib/net45/Microsoft.ServiceFabric.Diagnostics.xml",
+        "lib/net451/Microsoft.ServiceFabric.Diagnostics.dll",
+        "lib/net451/Microsoft.ServiceFabric.Diagnostics.xml",
+        "lib/net452/Microsoft.ServiceFabric.Diagnostics.dll",
+        "lib/net452/Microsoft.ServiceFabric.Diagnostics.xml",
+        "lib/net46/Microsoft.ServiceFabric.Diagnostics.dll",
+        "lib/net46/Microsoft.ServiceFabric.Diagnostics.xml",
+        "lib/net461/Microsoft.ServiceFabric.Diagnostics.dll",
+        "lib/net461/Microsoft.ServiceFabric.Diagnostics.xml",
+        "lib/net462/Microsoft.ServiceFabric.Diagnostics.dll",
+        "lib/net462/Microsoft.ServiceFabric.Diagnostics.xml",
+        "lib/net47/Microsoft.ServiceFabric.Diagnostics.dll",
+        "lib/net47/Microsoft.ServiceFabric.Diagnostics.xml",
+        "lib/net471/Microsoft.ServiceFabric.Diagnostics.dll",
+        "lib/net471/Microsoft.ServiceFabric.Diagnostics.xml",
+        "lib/net472/Microsoft.ServiceFabric.Diagnostics.dll",
+        "lib/net472/Microsoft.ServiceFabric.Diagnostics.xml",
+        "lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll",
+        "microsoft.servicefabric.diagnostics.internal.6.1.1653.nupkg.sha512",
+        "microsoft.servicefabric.diagnostics.internal.nuspec",
+        "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll",
+        "runtimes/win/lib/net461/Microsoft.ServiceFabric.Diagnostics.dll",
+        "runtimes/win/lib/net462/Microsoft.ServiceFabric.Diagnostics.dll",
+        "runtimes/win/lib/net47/Microsoft.ServiceFabric.Diagnostics.dll",
+        "runtimes/win/lib/net471/Microsoft.ServiceFabric.Diagnostics.dll",
+        "runtimes/win/lib/net472/Microsoft.ServiceFabric.Diagnostics.dll",
+        "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll"
+      ]
+    },
+    "Microsoft.ServiceFabric.Services/6.1.1653": {
+      "sha512": "GMflJIwtqi++gdhUnYKsg+bAaXn2PbBuwXh8X9/rMa0rCZ5MydLx+x8aQi1l0357f0CcGoGVEz8FJtBKU6utCw==",
+      "type": "package",
+      "path": "microsoft.servicefabric.services/6.1.1653",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Microsoft.ServiceFabric.Services.dll",
+        "lib/net45/Microsoft.ServiceFabric.Services.xml",
+        "lib/net451/Microsoft.ServiceFabric.Services.dll",
+        "lib/net451/Microsoft.ServiceFabric.Services.xml",
+        "lib/net452/Microsoft.ServiceFabric.Services.dll",
+        "lib/net452/Microsoft.ServiceFabric.Services.xml",
+        "lib/net46/Microsoft.ServiceFabric.Services.dll",
+        "lib/net46/Microsoft.ServiceFabric.Services.xml",
+        "lib/net461/Microsoft.ServiceFabric.Services.dll",
+        "lib/net461/Microsoft.ServiceFabric.Services.xml",
+        "lib/net462/Microsoft.ServiceFabric.Services.dll",
+        "lib/net462/Microsoft.ServiceFabric.Services.xml",
+        "lib/net47/Microsoft.ServiceFabric.Services.dll",
+        "lib/net47/Microsoft.ServiceFabric.Services.xml",
+        "lib/net471/Microsoft.ServiceFabric.Services.dll",
+        "lib/net471/Microsoft.ServiceFabric.Services.xml",
+        "lib/net472/Microsoft.ServiceFabric.Services.dll",
+        "lib/net472/Microsoft.ServiceFabric.Services.xml",
+        "lib/netstandard2.0/Microsoft.ServiceFabric.Services.dll",
+        "lib/netstandard2.0/Microsoft.ServiceFabric.Services.xml",
+        "microsoft.servicefabric.services.6.1.1653.nupkg.sha512",
+        "microsoft.servicefabric.services.nuspec",
+        "runtimes/win/lib/net461/Microsoft.ServiceFabric.Services.dll",
+        "runtimes/win/lib/net462/Microsoft.ServiceFabric.Services.dll",
+        "runtimes/win/lib/net47/Microsoft.ServiceFabric.Services.dll",
+        "runtimes/win/lib/net471/Microsoft.ServiceFabric.Services.dll",
+        "runtimes/win/lib/net472/Microsoft.ServiceFabric.Services.dll"
+      ]
+    },
+    "Swashbuckle.AspNetCore/6.2.3": {
+      "sha512": "cnzQDn0Le+hInsw2SYwlOhOCPXpYi/szcvnyqZJ12v+QyrLBwAmWXBg6RIyHB18s/mLeywC+Rg2O9ndz0IUNYQ==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore/6.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Swashbuckle.AspNetCore.props",
+        "swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+        "swashbuckle.aspnetcore.nuspec"
+      ]
+    },
+    "Swashbuckle.AspNetCore.Swagger/6.2.3": {
+      "sha512": "qOF7j1sL0bWm8g/qqHVPCvkO3JlVvUIB8WfC98kSh6BT5y5DAnBNctfac7XR5EZf+eD7/WasvANncTqwZYfmWQ==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore.swagger/6.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/Swashbuckle.AspNetCore.Swagger.dll",
+        "lib/net5.0/Swashbuckle.AspNetCore.Swagger.pdb",
+        "lib/net5.0/Swashbuckle.AspNetCore.Swagger.xml",
+        "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll",
+        "lib/net6.0/Swashbuckle.AspNetCore.Swagger.pdb",
+        "lib/net6.0/Swashbuckle.AspNetCore.Swagger.xml",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.pdb",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.xml",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.dll",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.pdb",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.xml",
+        "swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+        "swashbuckle.aspnetcore.swagger.nuspec"
+      ]
+    },
+    "Swashbuckle.AspNetCore.SwaggerGen/6.2.3": {
+      "sha512": "+Xq7WdMCCfcXlnbLJVFNgY8ITdP2TRYIlpbt6IKzDw5FwFxdi9lBfNDtcT+/wkKwX70iBBFmXldnnd02/VO72A==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore.swaggergen/6.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll",
+        "lib/net5.0/Swashbuckle.AspNetCore.SwaggerGen.pdb",
+        "lib/net5.0/Swashbuckle.AspNetCore.SwaggerGen.xml",
+        "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll",
+        "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.pdb",
+        "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.xml",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.pdb",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.xml",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerGen.dll",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerGen.pdb",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerGen.xml",
+        "swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+        "swashbuckle.aspnetcore.swaggergen.nuspec"
+      ]
+    },
+    "Swashbuckle.AspNetCore.SwaggerUI/6.2.3": {
+      "sha512": "bCRI87uKJVb4G+KURWm8LQrL64St04dEFZcF6gIM67Zc0Sr/N47EO83ybLMYOvfNdO1DCv8xwPcrz9J/VEhQ5g==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore.swaggerui/6.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net5.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net5.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+        "swashbuckle.aspnetcore.swaggerui.nuspec"
+      ]
+    },
+    "System.Memory/4.5.3": {
+      "sha512": "3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "type": "package",
+      "path": "system.memory/4.5.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.1/_._",
+        "lib/netstandard1.1/System.Memory.dll",
+        "lib/netstandard1.1/System.Memory.xml",
+        "lib/netstandard2.0/System.Memory.dll",
+        "lib/netstandard2.0/System.Memory.xml",
+        "ref/netcoreapp2.1/_._",
+        "system.memory.4.5.3.nupkg.sha512",
+        "system.memory.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Microsoft.ServiceFabric.AspNetCore.Kestrel >= 6.1.1653",
+      "Swashbuckle.AspNetCore >= 6.2.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Maged\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Maged\\Desktop\\ITI.Microservices.MentalHealthApp\\PatientService\\PatientService.csproj",
+      "projectName": "PatientService",
+      "projectPath": "C:\\Users\\Maged\\Desktop\\ITI.Microservices.MentalHealthApp\\PatientService\\PatientService.csproj",
+      "packagesPath": "C:\\Users\\Maged\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Maged\\Desktop\\ITI.Microservices.MentalHealthApp\\PatientService\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Maged\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.ServiceFabric.AspNetCore.Kestrel": {
+            "target": "Package",
+            "version": "[6.1.1653, )"
+          },
+          "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "[6.2.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[6.0.0, 6.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[6.0.0, 6.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[6.0.0, 6.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x64": {
+        "#import": []
+      }
+    }
+  }
+}
