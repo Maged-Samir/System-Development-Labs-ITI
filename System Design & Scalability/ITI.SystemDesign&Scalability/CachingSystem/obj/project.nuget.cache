@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ompS0bqCeGHXMX+/ixv70hESVaY3JkvkPYsllEGVxUvhKKMBPtGNt/j+R+ft2TUV0381FrFSJsJx36o8IiA+Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maged\\Desktop\\ITI.SystemDesign&Scalability\\CachingSystem\\CachingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
