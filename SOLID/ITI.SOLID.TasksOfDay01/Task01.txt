@@ -1,0 +1,73 @@
+// Apply SOLID design principles on the following code samples for better design
+//1.
+public class UserService  
+{  
+   public void Register(string email, string password)  
+   {  
+      if (!ValidateEmail(email))  
+         throw new ValidationException("Email is not an email");  
+      
+      var user = new User(email, password);  
+  
+      SendEmail(new MailMessage("mysite@nowhere.com", email) { Subject="HEllo foo" });  
+   }
+   public virtual bool ValidateEmail(string email)  
+   {  
+     return email.Contains("@");  
+   }  
+   public bool SendEmail(MailMessage message)  
+   {  
+     _smtpClient.Send(message);  
+   }  
+}   
+
+
+-------------------------------------------------------------------------------------------------
+The UserService class currently handles both user registration and email sending. To adhere to SRP, we can separate these responsibilities into different classes
+
+public class UserService
+{
+    private readonly IEmailService _emailService;
+
+    public UserService(IEmailService emailService)
+    {
+        _emailService = emailService;
+    }
+
+    public void Register(string email, string password)
+    {
+        if (!ValidateEmail(email))
+            throw new ValidationException("Email is not valid");
+
+        var user = new User(email, password);
+
+        _emailService.SendEmail(new MailMessage("mysite@nowhere.com", email) { Subject = "Hello foo" });
+    }
+
+    public virtual bool ValidateEmail(string email)
+    {
+        return email.Contains("@");
+    }
+}
+
+
+public interface IEmailService
+{
+    bool SendEmail(MailMessage message);
+}
+
+public class SmtpEmailService : IEmailService
+{
+    private readonly SmtpClient _smtpClient;
+
+    public SmtpEmailService(SmtpClient smtpClient)
+    {
+        _smtpClient = smtpClient;
+    }
+
+    public bool SendEmail(MailMessage message)
+    {
+        _smtpClient.Send(message);
+        return true;
+    }
+}

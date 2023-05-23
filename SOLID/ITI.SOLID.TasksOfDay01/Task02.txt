@@ -1,0 +1,119 @@
+// 2.
+//a. Add Circle & Square & Triangle & Cube
+//b. Add function to get volume for the supported shapes
+//c. noting that cube shape only support volume calculation
+
+public class Rectangle{  
+  public double Height {get;set;}  
+  public double Wight {get;set; }  
+}  
+public class Circle{  
+  public double Radius {get;set;}  
+}  
+public class AreaCalculator  
+{  
+  public double TotalArea(object[] arrObjects)  
+  {  
+     double area = 0;  
+     Rectangle objRectangle;  
+     Circle objCircle;  
+     foreach(var obj in arrObjects)  
+     {  
+        if(obj is Rectangle)  
+        {    
+           area += obj.Height * obj.Width;  
+        }  
+        else  
+        {  
+           objCircle = (Circle)obj;  
+           area += objCircle.Radius * objCircle.Radius * Math.PI;  
+        }  
+     }  
+     return area;  
+  }  
+}
+
+--------------------------------------------------------------------------------------------
+public abstract class Shape
+{
+    public abstract double CalculateArea();
+}
+
+public class Rectangle : Shape
+{
+    public double Height { get; set; }
+    public double Width { get; set; }
+
+    public override double CalculateArea()
+    {
+        return Height * Width;
+    }
+}
+
+public class Circle : Shape
+{
+    public double Radius { get; set; }
+
+    public override double CalculateArea()
+    {
+        return Math.PI * Radius * Radius;
+    }
+}
+
+public class Triangle : Shape
+{
+    public double Base { get; set; }
+    public double Height { get; set; }
+
+    public override double CalculateArea()
+    {
+        return 0.5 * Base * Height;
+    }
+}
+
+public class Cube : Shape, IVolume
+{
+    public double SideLength { get; set; }
+
+    public override double CalculateArea()
+    {
+        return 6 * SideLength * SideLength;
+    }
+
+    public double CalculateVolume()
+    {
+        return SideLength * SideLength * SideLength;
+    }
+}
+
+public class AreaCalculator
+{
+    public double TotalArea(Shape[] shapes)
+    {
+        double totalArea = 0;
+
+        foreach (var shape in shapes)
+        {
+            totalArea += shape.CalculateArea();
+        }
+
+        return totalArea;
+    }
+}
+------------------------------------------------------------------------------------
+
+public interface IVolume
+{
+    double CalculateVolume();
+}
+
+ public double TotalVolume(IShape[] shapes)
+    {
+        double volume = 0;
+
+        foreach (var shape in shapes)
+        {
+            volume += shape.CalculateVolume();
+        }
+        return volume;
+    }

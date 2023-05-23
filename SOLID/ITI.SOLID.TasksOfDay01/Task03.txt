@@ -1,0 +1,90 @@
+// 3.
+class Rectangle
+ def initialize(width, height)
+ @width, @height = width, height
+ end
+ def set_width(width)
+ @width = width
+ end
+ def set_height(height)
+ @height = height
+ end
+end
+class Square<Rectangle "inherits"
+ def set_width(width)
+ super(width)
+ @height = height
+ end
+ def set_height(height)
+ super(height)
+ @width = width
+ end
+end
+------------------------------------------------------------------------------------------4
+
+public interface IShape
+{
+    double GetArea();
+}
+
+public class Rectangle : IShape
+{
+    private double width;
+    private double height;
+
+    public Rectangle(double width, double height)
+    {
+        this.width = width;
+        this.height = height;
+    }
+
+    public double GetWidth()
+    {
+        return width;
+    }
+
+    public double GetHeight()
+    {
+        return height;
+    }
+
+    public double GetArea()
+    {
+        return width * height;
+    }
+
+    public void SetWidth(double width)
+    {
+        this.width = width;
+    }
+
+    public void SetHeight(double height)
+    {
+        this.height = height;
+    }
+}
+
+public class Square : IShape
+{
+    private double sideLength;
+
+    public Square(double sideLength)
+    {
+        this.sideLength = sideLength;
+    }
+
+    public double GetSideLength()
+    {
+        return sideLength;
+    }
+
+    public double GetArea()
+    {
+        return sideLength * sideLength;
+    }
+
+    public void SetSideLength(double sideLength)
+    {
+        this.sideLength = sideLength;
+    }
+}

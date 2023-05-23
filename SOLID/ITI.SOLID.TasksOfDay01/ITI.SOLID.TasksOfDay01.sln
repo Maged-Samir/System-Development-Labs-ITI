@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D5282ED0-AF8C-46C0-AA23-DD8DBB0FF1DF}"
+	ProjectSection(SolutionItems) = preProject
+		Task01.txt = Task01.txt
+		Task02.txt = Task02.txt
+		Task03.txt = Task03.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D50A394F-F6FA-47D9-89E6-6E0D80C19633}
+	EndGlobalSection
+EndGlobal
