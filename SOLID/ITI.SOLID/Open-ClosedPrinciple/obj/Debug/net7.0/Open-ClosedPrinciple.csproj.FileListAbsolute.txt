@@ -1,0 +1,15 @@
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\bin\Debug\net7.0\Open-ClosedPrinciple.exe
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\bin\Debug\net7.0\Open-ClosedPrinciple.deps.json
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\bin\Debug\net7.0\Open-ClosedPrinciple.runtimeconfig.json
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\bin\Debug\net7.0\Open-ClosedPrinciple.dll
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\bin\Debug\net7.0\Open-ClosedPrinciple.pdb
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\obj\Debug\net7.0\Open-ClosedPrinciple.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\obj\Debug\net7.0\Open-ClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\obj\Debug\net7.0\Open-ClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\obj\Debug\net7.0\Open-ClosedPrinciple.AssemblyInfo.cs
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\obj\Debug\net7.0\Open-ClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\obj\Debug\net7.0\Open-ClosedPrinciple.dll
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\obj\Debug\net7.0\refint\Open-ClosedPrinciple.dll
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\obj\Debug\net7.0\Open-ClosedPrinciple.pdb
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\obj\Debug\net7.0\Open-ClosedPrinciple.genruntimeconfig.cache
+C:\Users\Maged\Desktop\ITI.SOLID\Open-ClosedPrinciple\obj\Debug\net7.0\ref\Open-ClosedPrinciple.dll

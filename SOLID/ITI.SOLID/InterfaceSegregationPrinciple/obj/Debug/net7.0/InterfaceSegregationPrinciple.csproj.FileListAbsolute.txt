@@ -1,0 +1,15 @@
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\bin\Debug\net7.0\InterfaceSegregationPrinciple.exe
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\bin\Debug\net7.0\InterfaceSegregationPrinciple.deps.json
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\bin\Debug\net7.0\InterfaceSegregationPrinciple.runtimeconfig.json
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\bin\Debug\net7.0\InterfaceSegregationPrinciple.dll
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\bin\Debug\net7.0\InterfaceSegregationPrinciple.pdb
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.dll
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\refint\InterfaceSegregationPrinciple.dll
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.pdb
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\InterfaceSegregationPrinciple.genruntimeconfig.cache
+C:\Users\Maged\Desktop\ITI.SOLID\InterfaceSegregationPrinciple\obj\Debug\net7.0\ref\InterfaceSegregationPrinciple.dll

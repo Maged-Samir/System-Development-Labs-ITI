@@ -1,0 +1,15 @@
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.exe
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.deps.json
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.dll
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.pdb
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.dll
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\refint\SingleResponsibilityPrinciple.dll
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.pdb
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+C:\Users\Maged\Desktop\ITI.SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\ref\SingleResponsibilityPrinciple.dll
