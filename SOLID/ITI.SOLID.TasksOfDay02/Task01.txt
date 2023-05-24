@@ -1,0 +1,48 @@
+public interface IAssignable
+{
+    void AssignTask(Task task);
+}
+
+public interface ILead : IAssignable
+{
+    void CreateSubTask();
+    void WorkOnTask();
+}
+
+public interface IManager : IAssignable
+{
+    void CreateSubTask();
+}
+
+public class TeamLead : ILead
+{
+    public void AssignTask(Task task)
+    {
+        task.AssignTo(new Developer() { Name = "Developer1" });
+    }
+
+    public void CreateSubTask()
+    {
+        // Code to create a sub task
+    }
+
+    public void WorkOnTask()
+    {
+        // Code to implement performing assigned task
+    }
+}
+
+public class Manager : IManager
+{
+    public void AssignTask(Task task)
+    {
+        // Code to assign a task to a team lead or developer
+        // For example:
+        task.AssignTo(new TeamLead() { Name = "TeamLead1" });
+    }
+
+    public void CreateSubTask()
+    {
+        // Code to create a sub task
+    }
+}

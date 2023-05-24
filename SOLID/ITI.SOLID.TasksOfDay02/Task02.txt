@@ -1,0 +1,98 @@
+public interface ISqlFile
+{
+    string FilePath { get; set; }
+    string FileText { get; set; }
+    string LoadText();
+    void SaveText();
+}
+
+public class RegularSqlFile : ISqlFile
+{
+    public string FilePath { get; set; }
+    public string FileText { get; set; }
+
+    public string LoadText()
+    {
+        /* Code to read text from SQL file */
+    }
+
+    public void SaveText()
+    {
+        /* Code to save text into SQL file */
+    }
+}
+
+public class ReadOnlySqlFile : ISqlFile
+{
+    public string FilePath { get; set; }
+    public string FileText { get; set; }
+
+    public string LoadText()
+    {
+        /* Code to read text from SQL file */
+    }
+
+    public void SaveText()
+    {
+        throw new InvalidOperationException("Save operation is not allowed on read-only files.");
+    }
+}
+
+public interface ISqlFileOperation
+{
+    void PerformOperation(ISqlFile file);
+}
+
+public class SqlFileLoader : ISqlFileOperation
+{
+    public void PerformOperation(ISqlFile file)
+    {
+        file.FileText = file.LoadText();
+    }
+}
+
+public class SqlFileSaver : ISqlFileOperation
+{
+    public void PerformOperation(ISqlFile file)
+    {
+        file.SaveText();
+    }
+}
+
+public class SqlFileManager
+{
+    private List<ISqlFile> lstSqlFiles;
+    private ISqlFileOperation fileOperation;
+
+    public SqlFileManager(ISqlFileOperation operation)
+    {
+        lstSqlFiles = new List<ISqlFile>();
+        fileOperation = operation;
+    }
+
+    public void AddSqlFile(ISqlFile file)
+    {
+        lstSqlFiles.Add(file);
+    }
+
+    public string GetTextFromFiles()
+    {
+        StringBuilder objStrBuilder = new StringBuilder();
+        foreach (var objFile in lstSqlFiles)
+        {
+            objStrBuilder.Append(objFile.LoadText());
+        }
+        return objStrBuilder.ToString();
+    }
+
+    public void SaveTextIntoFiles()
+    {
+        foreach (var objFile in lstSqlFiles)
+        {
+            if (!(objFile is ReadOnlySqlFile))
+            {
+                fileOperation.PerformOperation(objFile);
+            }
+        }
+    }
+}
