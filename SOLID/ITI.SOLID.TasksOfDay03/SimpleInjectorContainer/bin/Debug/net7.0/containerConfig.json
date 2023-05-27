@@ -1,0 +1,8 @@
+{
+  "Logging": {
+    "LoggerType": "ConsoleLogger"
+  },
+  "EmailService": {
+    "ServiceType": "EmailService"
+  }
+}
