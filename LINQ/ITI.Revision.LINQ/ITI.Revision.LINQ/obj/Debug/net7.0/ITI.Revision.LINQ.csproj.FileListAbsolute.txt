@@ -1,0 +1,15 @@
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\bin\Debug\net7.0\ITI.Revision.LINQ.exe
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\bin\Debug\net7.0\ITI.Revision.LINQ.deps.json
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\bin\Debug\net7.0\ITI.Revision.LINQ.runtimeconfig.json
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\bin\Debug\net7.0\ITI.Revision.LINQ.dll
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\bin\Debug\net7.0\ITI.Revision.LINQ.pdb
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\obj\Debug\net7.0\ITI.Revision.LINQ.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\obj\Debug\net7.0\ITI.Revision.LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\obj\Debug\net7.0\ITI.Revision.LINQ.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\obj\Debug\net7.0\ITI.Revision.LINQ.AssemblyInfo.cs
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\obj\Debug\net7.0\ITI.Revision.LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\obj\Debug\net7.0\ITI.Revision.LINQ.dll
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\obj\Debug\net7.0\refint\ITI.Revision.LINQ.dll
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\obj\Debug\net7.0\ITI.Revision.LINQ.pdb
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\obj\Debug\net7.0\ITI.Revision.LINQ.genruntimeconfig.cache
+C:\Users\Maged\Desktop\ITI.Revision.LINQ\ITI.Revision.LINQ\obj\Debug\net7.0\ref\ITI.Revision.LINQ.dll

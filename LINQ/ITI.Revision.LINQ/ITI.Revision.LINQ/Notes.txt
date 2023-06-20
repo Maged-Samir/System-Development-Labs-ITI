@@ -1,0 +1,61 @@
+﻿LINQ 
+Language Independant Query 
+
+Group Of Queries (40+) -help us to deal with data 
+in General two Shapes to deal with data 
+
+1.Local (in program memory (stack ,heap of my program))
+2.Remote(in another program (Db,Cloud))
+
+Linq 2 Object 
+Linq 2 XML
+Linq 2 DataSet
+
+Linq 2 Sql
+Linq 2 EF
+
+note that in LINQ we moved from Data Driven to Domain Driven 
+
+Before we start with quries we need to see three feateures 
+1.Implicitly typed local variable (var)
+  must be assigned
+  can't asssign with null
+  can't change it's type
+
+2.Extention Methods 
+3.Anonymous Type
+
+for Linq Quries, we have three shapes to write it
+1.Static Method , Static Class
+  Var Result=Enumerable.Where(list,x=>x>3);
+
+2.Extention Method - Fluent Syntax
+  Var Result=List.Where(x=>x>3);
+
+3.Query Syntax
+  Var Result= From i in List
+              where i>3
+              Select i 
+
+
+1-Where Filteration
+2-Select Projection
+3-OrderBy
+4-Single Values 
+  First / FirstOrDefault
+  Last /  LastOrDefault
+  Single /SingleOrDefault
+
+5-Aggragate
+ Max 
+ Min
+ Sum 
+ Avg
+ 
+6-Slicing 
+  Take(5)
+  TakeWhile()
+  TakeLast()
+  Skip(5)
+  SkipWhile()
+  SkipLast()
