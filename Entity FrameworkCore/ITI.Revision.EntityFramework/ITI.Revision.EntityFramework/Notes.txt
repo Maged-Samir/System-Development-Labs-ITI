@@ -1,0 +1,19 @@
+﻿EF - Entity Framework
+FE:- Default Data Access Technology for microsoft 
+     ORM Object Relational Mapper 
+
+     in EF we have two important approches 
+     1- Code first here we start with models and then migrate it to make refliction with database 
+     2- DataBase first here we start as traditional way with data base and erd digrams 
+our objective from EF is to transform our work from Data Driven to Domain Driven 
+
+we have 4 mapping Ways 
+ 1.ef Convinsion (Default)
+ 2.attributes (Data Anotations)
+ 3.Fluent API (OnModelCreating() Method)
+ 4.Configuration Classes 
+
+Work flow of EF 
+ 1. install packages of ef Core 
+ 2. create DbContext Class :DbContext
+ 3. in DbContext i need to create two things Connection String and Declare DbSets for every model 
