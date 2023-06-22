@@ -1,0 +1,48 @@
+﻿CSharp
+CTS common type system 
+
+we can classified data types into two classification 
+ 1.value type struct & Enum (Stack) fast
+ 2.referance type Class     (Stack & Heap)
+
+ Facts for struct 
+  we can't inherite from strcut or make it inherite another struct 
+  struct is a value type so it saved in stack in the memory 
+  before C# 11 struct must be fully assigned and also struct have default ctor (parameterless CTOR)
+    
+Enum 
+is a value data type used to represent grou of values as strings 
+help us more to take static string values from users  
+
+System.Object 
+is the base type of all types in C# , so we can save inside object any type of data (int, string , ...)
+according to inheritance cases that reference of parent point to childs 
+
+when we deal with System.Object we find concepts of Boxing And UnBoxing 
+Boxing that we can cust between value data type to referance 
+Unboxing that we can cust referance data type to value 
+
+according to Object type in C# , we can create array of object which take different data types 
+but the problem which we found the processes of boxing and unboxing 
+
+Stack Trace : C# object help us to trace orders Of Our Function when we need to see our order starting from 
+              main function and then tracing every function with stck fram
+
+
+Exception Handeling 
+help us more to handeling exception , note that every try block should followed with another block catch or finally 
+and also the general exception should be the las one after handeling every cases 
+and also we can create our custonm exception when we create New Class for exception and make it inherite from Exception class 
+
+Functions 
+in C# we get New Features for parameter functions like 
+  1.Named parameter --> we we call functions we can pass parameter for method without it's order using named 
+  2.Default Values for parameter , here we can write default values for parameter of funbctions 
+
+Pass By Value -->ReadOnly 
+Pass By Referance -->read & write must be  intialized 
+Out Parameter    --> needn't to intialized used to get it's value as an output 
+
+Indexes in C# 
+Indexes in C# help us to get Fast Access for object which Contain Collection Of Another object
+look like properties with using this keyword
