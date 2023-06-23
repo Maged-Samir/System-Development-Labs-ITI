@@ -92,5 +92,22 @@ Generic Collections is the best solution
 Dictionary is a collections help us to deal with key value pairs and note that key is a unique in Dictionary 
 
 
+Delegates
+delegate is a pointer to function 
+we use delegates in two important cases 
+   1.if we need to pass function as a parameter to another function 
+   2.if we need to call more than one function at the same time 
+
+the only condition which we have to declare delegate is that has the same signature of the function 
+
+Built-in Delegates 
+  1. Predicate<>
+     it takes one parameter and return Boolen 
+
+  2. Func<>
+     it must has one out put and for input parameter takes 17 overloading 
+ 
+  3. Action<>
+     always return Void , take different inputs 16 overloading 
 
 

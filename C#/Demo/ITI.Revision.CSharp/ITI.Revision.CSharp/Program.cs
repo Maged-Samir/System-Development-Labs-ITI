@@ -184,6 +184,35 @@ namespace ITI.Revision.CSharp
         }
     }
 
+    class TestDelegate
+    {
+        //Func Built-in Delegate
+        public static string PrintMessage()
+        {
+            return "this sentense using funC Delegate !";
+        }
+
+        public static int Sum(int x,int y)
+        {
+            return x + y;
+        }
+        //Action Built-in Delegate 
+        public static void Print (int x)
+        {
+            Console.WriteLine($"test Action Delegates ! your entered Value is {x}");
+        }
+
+
+        //Predicate Built-in Delegate
+        public static bool CheakValidity(int x)
+        {
+            if(x>100)
+                return true;
+            else
+                return false;
+        }
+
+    }
 
 
     internal class Program
@@ -402,6 +431,22 @@ namespace ITI.Revision.CSharp
             //    Console.WriteLine($"{item.Key}-{item.Value}");
             //} 
             #endregion
+
+
+            #region Built in Delegates
+            //Func<string> text = TestDelegate.PrintMessage;
+            //Console.WriteLine(text());
+
+            //Func<int, int, int> f = TestDelegate.Sum;
+            //Console.WriteLine($"Sum = {f.Invoke(2, 2)}");
+
+            //Action<int> a = TestDelegate.Print;
+            //a.Invoke(6);
+
+            //Predicate<int> p = TestDelegate.CheakValidity;
+            //Console.WriteLine(p.Invoke(1110));
+            #endregion
+
 
 
         }
