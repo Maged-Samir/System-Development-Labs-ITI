@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maged\\Desktop\\ITI.Revision.CSharp\\ITI.Revision.CSharp\\ITI.Revision.CSharp.csproj",
+      "projectUniqueName": "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\C#\\Demo\\ITI.Revision.CSharp\\ITI.Revision.CSharp\\ITI.Revision.CSharp.csproj",
       "projectName": "ITI.Revision.CSharp",
-      "projectPath": "C:\\Users\\Maged\\Desktop\\ITI.Revision.CSharp\\ITI.Revision.CSharp\\ITI.Revision.CSharp.csproj",
+      "projectPath": "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\C#\\Demo\\ITI.Revision.CSharp\\ITI.Revision.CSharp\\ITI.Revision.CSharp.csproj",
       "packagesPath": "C:\\Users\\Maged\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maged\\Desktop\\ITI.Revision.CSharp\\ITI.Revision.CSharp\\obj\\",
+      "outputPath": "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\C#\\Demo\\ITI.Revision.CSharp\\ITI.Revision.CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maged\\AppData\\Roaming\\NuGet\\NuGet.Config",

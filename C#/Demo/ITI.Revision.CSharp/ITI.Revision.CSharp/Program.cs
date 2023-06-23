@@ -93,6 +93,63 @@ namespace ITI.Revision.CSharp
                 Console.Write(pattern);
             }
         }
+
+        //Passing value type By Value -->Not Change
+        //Passing value type By Ref -->  Do Change
+        public static void Swap(ref int x,ref int y)
+        {
+            int temp = x;
+            x = y;
+            y=temp;
+        }
+        //Passing Reference Type By Value --> Change
+        //Passing Reference Type By Ref --> Change
+        public static int SumArray(ref int[] arr)
+        {
+            int sum = 0;
+            for(int i=0;i<arr.Length;i++)
+            {
+                sum += arr[i];
+            }
+            return sum;
+        }
+
+
+    }
+
+
+    internal class Employee
+    {
+        public int Id { get; set; }
+        public string? Name { get; set; }
+        public Employee()
+        {
+
+        }
+        //Copy Ctor
+        public Employee(Employee old)
+        {
+            Id = old.Id;
+            Name = old.Name;
+        }
+
+        public override string ToString()
+        {
+            return $"{Id}- {Name}";
+        }
+    }
+
+    //Static Keywords
+    internal  class Test
+    {
+        public int x { get; set; }
+        public static int y { get; set; }
+
+        public static void getNames()
+        {
+            Console.WriteLine($"{y}");
+        }
+
     }
 
     internal class Program
@@ -226,35 +283,56 @@ namespace ITI.Revision.CSharp
 
             #region Exceptions
 
-           // try
-           // {
-           //     Console.WriteLine("Enter First Number ");
-           //     int Number1 = int.Parse(Console.ReadLine());
+            // try
+            // {
+            //     Console.WriteLine("Enter First Number ");
+            //     int Number1 = int.Parse(Console.ReadLine());
 
-           //     Console.WriteLine("Enter Secoond Number ");
-           //     int Number2 = int.Parse(Console.ReadLine());
+            //     Console.WriteLine("Enter Secoond Number ");
+            //     int Number2 = int.Parse(Console.ReadLine());
 
-           //     int Result = Number1 / Number2;
-           //     Console.WriteLine($" {Number1} / {Number2} = {Result}");
+            //     int Result = Number1 / Number2;
+            //     Console.WriteLine($" {Number1} / {Number2} = {Result}");
 
-           // }
-           // catch(DivideByZeroException e)
-           // {
-           //     Console.WriteLine(e.Message);
-           // }
-           // catch(FormatException e)
-           // {
-           //     Console.WriteLine(e.Message);
-           // }
-           // catch (Exception e) 
-           // {
-           //     Console.WriteLine($"{e.Message}");
-           // }
-           //finally  // will executed in any cases after our code 
-           // {
-           //     Console.WriteLine("Thank You for using Our Application !");
-           // }
+            // }
+            // catch(DivideByZeroException e)
+            // {
+            //     Console.WriteLine(e.Message);
+            // }
+            // catch(FormatException e)
+            // {
+            //     Console.WriteLine(e.Message);
+            // }
+            // catch (Exception e) 
+            // {
+            //     Console.WriteLine($"{e.Message}");
+            // }
+            //finally  // will executed in any cases after our code 
+            // {
+            //     Console.WriteLine("Thank You for using Our Application !");
+            // }
 
+            #endregion
+
+            #region PassByValue&Ref
+            //int A = 2;
+            //int B = 3;
+            ////Helper.Swap(A,B);         //Passing By Value
+            //Helper.Swap(ref A,ref B);   //Passing By Referance
+            //Console.WriteLine(A);
+            //Console.WriteLine(B);
+
+            //int[] Arr = { 1, 2, 3, 4 };
+            //Console.WriteLine(Helper.SumArray(ref Arr)); 
+            #endregion
+
+            #region CopyCtor
+            //Employee e = new Employee() { Id = 1, Name = "Ahmed" };
+
+            //Employee employee = new Employee(e);
+
+            //Console.WriteLine(e.ToString());
+            //Console.WriteLine(employee.ToString()); 
             #endregion
 
 

@@ -46,3 +46,17 @@ Out Parameter    --> needn't to intialized used to get it's value as an output
 Indexes in C# 
 Indexes in C# help us to get Fast Access for object which Contain Collection Of Another object
 look like properties with using this keyword
+
+Copy Ctor
+create object by using another object 
+
+Static Keyword
+Static Method     method needn't obj to call - class member
+Static attribute  (Class attribute) shared members between all objects
+Static Ctor       used to intialize default values for static attributes
+Static Class      container for all static members 
+
+Operator Overloading Must be static -->static Methods 
+
+Singletone Design Pattern Lecture 05 -----------------------------------------------------------------------
+

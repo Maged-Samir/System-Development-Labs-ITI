@@ -13,3 +13,18 @@ C:\Users\Maged\Desktop\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\
 C:\Users\Maged\Desktop\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\ITI.Revision.CSharp.pdb
 C:\Users\Maged\Desktop\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\ITI.Revision.CSharp.genruntimeconfig.cache
 C:\Users\Maged\Desktop\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\ref\ITI.Revision.CSharp.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\bin\Debug\net7.0\ITI.Revision.CSharp.exe
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\bin\Debug\net7.0\ITI.Revision.CSharp.deps.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\bin\Debug\net7.0\ITI.Revision.CSharp.runtimeconfig.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\bin\Debug\net7.0\ITI.Revision.CSharp.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\bin\Debug\net7.0\ITI.Revision.CSharp.pdb
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\ITI.Revision.CSharp.csproj.AssemblyReference.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\ITI.Revision.CSharp.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\ITI.Revision.CSharp.AssemblyInfoInputs.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\ITI.Revision.CSharp.AssemblyInfo.cs
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\ITI.Revision.CSharp.csproj.CoreCompileInputs.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\ITI.Revision.CSharp.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\refint\ITI.Revision.CSharp.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\ITI.Revision.CSharp.pdb
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\ITI.Revision.CSharp.genruntimeconfig.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\C#\Demo\ITI.Revision.CSharp\ITI.Revision.CSharp\obj\Debug\net7.0\ref\ITI.Revision.CSharp.dll
