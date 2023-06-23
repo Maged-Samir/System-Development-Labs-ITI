@@ -137,6 +137,16 @@ namespace ITI.Revision.CSharp
         {
             return $"{Id}- {Name}";
         }
+
+        public override bool Equals(object? obj)
+        {
+            if(obj is Employee)
+            {
+                Employee e= (Employee)obj;
+                return e.Id == Id ;
+            }
+            return false;
+        }
     }
 
     //Static Keywords
@@ -151,6 +161,30 @@ namespace ITI.Revision.CSharp
         }
 
     }
+
+    //public interface IType
+    //{
+    //    public void SetTypeName();
+    //    public string PrintTypeName();
+    //}
+    interface IWorker
+    {
+        void Run();
+
+    }
+
+    class Worker:IWorker
+    {
+        public int Id { get; set; }
+        public string? Name { get; set; }
+
+        public void Run()
+        { 
+            Console.WriteLine( $"{Id}-{Name} is working!");
+        }
+    }
+
+
 
     internal class Program
     {
@@ -335,6 +369,39 @@ namespace ITI.Revision.CSharp
             //Console.WriteLine(employee.ToString()); 
             #endregion
 
+            #region Equality
+            //Employee e1 = new Employee() { Id = 1, Name = "Ali" };
+            //Employee e2 = new Employee() { Id = 1, Name = "Ali" };
+
+            //if(e1.Equals(e2))
+            //{ Console.WriteLine("equals true"); } 
+            #endregion
+
+
+            #region Inheritance
+            //Parent p = new Parent(2);
+            //p.show();
+
+            //Parent p1 = new Child(3, 3);
+            //p1.show();
+
+            //Parent p2 = new SubChild(4, 5, 6);
+            //p2.show(); 
+            #endregion
+
+            #region Dictionary
+            //Dictionary<int, string> PhoneBook = new();
+            //PhoneBook.Add(1, "Ahmed Mansour");
+            //PhoneBook.Add(2, "Samy Ibrahem");
+            //PhoneBook.Add(3, "Mohamed Ali");
+            ////PhoneBook.Add(3, "Mohamed Ali");      //Key Is a Unique in Dictionary
+
+
+            //foreach (KeyValuePair<int, string> item in PhoneBook)
+            //{
+            //    Console.WriteLine($"{item.Key}-{item.Value}");
+            //} 
+            #endregion
 
 
         }

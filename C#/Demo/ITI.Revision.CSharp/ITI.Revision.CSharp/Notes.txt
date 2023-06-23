@@ -60,3 +60,37 @@ Operator Overloading Must be static -->static Methods
 
 Singletone Design Pattern Lecture 05 -----------------------------------------------------------------------
 
+for equality we have 4 methods to check equality in system.object
+1 virtual ref
+2 static ref
+3 static ref 
+4 equality operator = ref 
+
+so if we need to cheak equality for userdefined type we must override equalis 
+
+interface comes to solve multipule inheritance and problem of diamond shape 
+code contract 
+between class and the inherited interface
+
+
+inheritance 
+statically binding        parent p = new child(); 
+Dynamically binding       
+
+
+Icombarable<obj>         these two interfaces help us to implemnt sorting our user definde types 
+Icombarer (obj,obj)
+
+Generics<T> Type : declare methods without specific data type during run time we will declare it 
+class and methods can support Generics Types 
+
+Collections ArrayList
+            List
+main problems in Collections are Boxing and UnBoxing
+Generic Collections is the best solution 
+
+Dictionary is a collections help us to deal with key value pairs and note that key is a unique in Dictionary 
+
+
+
+
