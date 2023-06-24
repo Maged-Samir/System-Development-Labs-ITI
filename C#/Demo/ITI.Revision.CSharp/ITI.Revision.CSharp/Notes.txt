@@ -111,3 +111,19 @@ Built-in Delegates
      always return Void , take different inputs 16 overloading 
 
 
+Hashing Table - Hash Code 
+PLINQ - Optmization Linq Queries 
+Install-Package BenchmarkDotNet 
+great package to follow our code optmization 
+
+
+Threading 
+parallel path execution
+all code that we have writen is sequential execution 
+today we need to change execution path of Program
+old days we were have only one single core for processor 
+ 
+main purpose for Threading in Gui (responsiveness) - long running process
+
+
+

@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using BenchmarkDotNet.Running;
+using System.Diagnostics;
 
 namespace ITI.Revision.CSharp
 {
@@ -318,7 +319,6 @@ namespace ITI.Revision.CSharp
             //Console.WriteLine(p.ToString()); 
             #endregion
 
-
             #region NamedParameter&DefaultParameter
             //Console.WriteLine("Enter Your Value");
             //int x = int.Parse(Console.ReadLine());
@@ -406,7 +406,6 @@ namespace ITI.Revision.CSharp
             //{ Console.WriteLine("equals true"); } 
             #endregion
 
-
             #region Inheritance
             //Parent p = new Parent(2);
             //p.show();
@@ -432,7 +431,6 @@ namespace ITI.Revision.CSharp
             //} 
             #endregion
 
-
             #region Built in Delegates
             //Func<string> text = TestDelegate.PrintMessage;
             //Console.WriteLine(text());
@@ -447,6 +445,20 @@ namespace ITI.Revision.CSharp
             //Console.WriteLine(p.Invoke(1110));
             #endregion
 
+            #region Benchmark
+            //Console.WriteLine(TestBenchmark.PrintPatternUsingString());
+            //Console.WriteLine(TestBenchmark.PrintPatternUsingStringBuilder());
+            //var summery = BenchmarkRunner.Run<TestBenchmark>(); 
+            #endregion
+
+            #region Threading
+            //Thread MyThread = new Thread(Threading.PrintX);
+            //MyThread.Start();
+
+            //Threading.PrintY();
+
+
+            #endregion
 
 
         }

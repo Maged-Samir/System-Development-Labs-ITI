@@ -1,0 +1,11 @@
+// Validating benchmarks:
+//    * Assembly ITI.Revision.CSharp which defines benchmarks is non-optimized
+Benchmark was built without optimization enabled (most probably a DEBUG configuration). Please, build it in RELEASE.
+If you want to debug the benchmarks, please see https://benchmarkdotnet.org/articles/guides/troubleshooting.html#debugging-benchmarks.
+
+// Benchmark TestBenchmark.PrintPatternUsingString: DefaultJob
+//    * Benchmarked method `PrintPatternUsingString` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+// Benchmark TestBenchmark.PrintPatternUsingStringBuilder: DefaultJob
+//    * Benchmarked method `PrintPatternUsingStringBuilder` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
