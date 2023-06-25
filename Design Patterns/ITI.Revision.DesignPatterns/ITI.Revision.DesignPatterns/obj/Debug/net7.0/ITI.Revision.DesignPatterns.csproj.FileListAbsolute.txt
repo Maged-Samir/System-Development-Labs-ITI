@@ -1,0 +1,15 @@
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\bin\Debug\net7.0\ITI.Revision.DesignPatterns.exe
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\bin\Debug\net7.0\ITI.Revision.DesignPatterns.deps.json
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\bin\Debug\net7.0\ITI.Revision.DesignPatterns.runtimeconfig.json
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\bin\Debug\net7.0\ITI.Revision.DesignPatterns.dll
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\bin\Debug\net7.0\ITI.Revision.DesignPatterns.pdb
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\obj\Debug\net7.0\ITI.Revision.DesignPatterns.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\obj\Debug\net7.0\ITI.Revision.DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\obj\Debug\net7.0\ITI.Revision.DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\obj\Debug\net7.0\ITI.Revision.DesignPatterns.AssemblyInfo.cs
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\obj\Debug\net7.0\ITI.Revision.DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\obj\Debug\net7.0\ITI.Revision.DesignPatterns.dll
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\obj\Debug\net7.0\refint\ITI.Revision.DesignPatterns.dll
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\obj\Debug\net7.0\ITI.Revision.DesignPatterns.pdb
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\obj\Debug\net7.0\ITI.Revision.DesignPatterns.genruntimeconfig.cache
+C:\Users\Maged\Desktop\ITI.Revision.DesignPatterns\ITI.Revision.DesignPatterns\obj\Debug\net7.0\ref\ITI.Revision.DesignPatterns.dll

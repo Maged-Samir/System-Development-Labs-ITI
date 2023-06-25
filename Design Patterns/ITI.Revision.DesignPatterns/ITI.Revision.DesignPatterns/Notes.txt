@@ -1,0 +1,50 @@
+﻿Design Patterns 
+Design Pattern is consider group of best solutions for common problems (specific requirments)
+the concept introduced officially by Gang of 4 in 1994 , they provided us with the most important pattern 23 pattern 
+can classified into three categories
+
+  
+  1. Behavioral patterns deal with communication patterns between objects
+     Strategy DP
+     Observer DP
+
+  2. Structural patterns provide mechanisms to organize class and objects for larger structures
+     Decorator DP
+
+  3. Creational patterns deal with object creation in a well-defined way
+  
+  ---------------------------------------------------------------------------------------------------
+  Strategy DP 
+  if i have different strategies or different ways for a class and i need to make the object have 
+  the ability to be interchangable i use this pattern 
+
+  for implementation
+  create interface for strategy as abstraction layer 
+  then make different strategies implemnt this interface 
+  after that inject the strategy in the ctor of object which i need to change his strategy 
+
+  ---------------------------------------------------------------------------------------------------
+  Observer DP 
+  the idea of observer design pattern is the same idea of events in C# 
+  i need to create notification  between objects where we have a publisher object 
+  which will notify other objects with a message 
+
+  for the implemntation 
+  at first after we create  our main objects publisher and subscripers 
+  i create the interface for observer 
+  all work will be with subscriper
+  where, we will create an array list and three methods 
+  attach observers
+  deattach observers 
+  display observers 
+
+  ---------------------------------------------------------------------------------------------------
+  Decorator DP 
+  in decrator design pattern we need to change obj to another object ( wrapper object to anoher object )
+
+  for the implementation 
+  we create interface which represent the decorator and inject the decorated object in it's ctor
+
+  ---------------------------------------------------------------------------------------------------
+
+
