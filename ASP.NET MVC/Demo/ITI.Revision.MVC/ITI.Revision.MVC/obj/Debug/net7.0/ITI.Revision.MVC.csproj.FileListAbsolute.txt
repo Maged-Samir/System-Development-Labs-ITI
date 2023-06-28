@@ -1,0 +1,62 @@
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\ITI.Revision.MVC.staticwebassets.runtime.json
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\ITI.Revision.MVC.exe
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\ITI.Revision.MVC.deps.json
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\ITI.Revision.MVC.runtimeconfig.json
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\ITI.Revision.MVC.dll
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\ITI.Revision.MVC.pdb
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.csproj.AssemblyReference.cache
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.AssemblyInfoInputs.cache
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.AssemblyInfo.cs
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.RazorAssemblyInfo.cache
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.RazorAssemblyInfo.cs
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets\msbuild.ITI.Revision.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.ITI.Revision.MVC.props
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITI.Revision.MVC.props
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITI.Revision.MVC.props
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\scopedcss\bundle\ITI.Revision.MVC.styles.css
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\scopedcss\projectbundle\ITI.Revision.MVC.bundle.scp.css
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.dll
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\refint\ITI.Revision.MVC.dll
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.pdb
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.genruntimeconfig.cache
+C:\Users\Maged\Desktop\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ref\ITI.Revision.MVC.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\appsettings.Development.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\appsettings.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\ITI.Revision.MVC.staticwebassets.runtime.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\ITI.Revision.MVC.exe
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\ITI.Revision.MVC.deps.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\ITI.Revision.MVC.runtimeconfig.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\ITI.Revision.MVC.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\ITI.Revision.MVC.pdb
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.csproj.AssemblyReference.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.AssemblyInfoInputs.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.AssemblyInfo.cs
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.csproj.CoreCompileInputs.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.MvcApplicationPartsAssemblyInfo.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.RazorAssemblyInfo.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.RazorAssemblyInfo.cs
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets\msbuild.ITI.Revision.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.ITI.Revision.MVC.props
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITI.Revision.MVC.props
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITI.Revision.MVC.props
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets.pack.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets.build.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\staticwebassets.development.json
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\scopedcss\bundle\ITI.Revision.MVC.styles.css
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\scopedcss\projectbundle\ITI.Revision.MVC.bundle.scp.css
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\refint\ITI.Revision.MVC.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.pdb
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.genruntimeconfig.cache
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ref\ITI.Revision.MVC.dll

@@ -37,7 +37,7 @@ and also we can create our custonm exception when we create New Class for except
 Functions 
 in C# we get New Features for parameter functions like 
   1.Named parameter --> we we call functions we can pass parameter for method without it's order using named 
-  2.Default Values for parameter , here we can write default values for parameter of funbctions 
+  2.Default Values for parameter , here we can write default values for parameter of functions 
 
 Pass By Value -->ReadOnly 
 Pass By Referance -->read & write must be  intialized 

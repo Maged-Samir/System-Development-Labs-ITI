@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\ASP.NET MVC\\Demo\\ITI.Revision.MVC\\ITI.Revision.MVC\\ITI.Revision.MVC.csproj": {}
+  },
+  "projects": {
+    "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\ASP.NET MVC\\Demo\\ITI.Revision.MVC\\ITI.Revision.MVC\\ITI.Revision.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\ASP.NET MVC\\Demo\\ITI.Revision.MVC\\ITI.Revision.MVC\\ITI.Revision.MVC.csproj",
+        "projectName": "ITI.Revision.MVC",
+        "projectPath": "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\ASP.NET MVC\\Demo\\ITI.Revision.MVC\\ITI.Revision.MVC\\ITI.Revision.MVC.csproj",
+        "packagesPath": "C:\\Users\\Maged\\.nuget\\packages\\",
+        "outputPath": "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\ASP.NET MVC\\Demo\\ITI.Revision.MVC\\ITI.Revision.MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Maged\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿@model List<Product>
+
+<h3> Our Products</h3>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Quantity</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.Name</td>
+                <td>@item.Qty</td>
+                <td>@item.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3>Categories By ViewData</h3>
+<select>
+    @foreach(var item in (List<string>)ViewData["Cate"])
+    {
+         <option>@item</option>
+    }
+</select>
+
+<h3>Categories By ViewBag</h3>
+<select>
+    @foreach (var item in ViewBag.Categs)
+    {
+        <option>@item</option>
+    }
+</select>
+

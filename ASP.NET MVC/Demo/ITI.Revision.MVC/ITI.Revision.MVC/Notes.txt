@@ -1,0 +1,100 @@
+﻿ASP.Net Core MVC
+is web framework, helping us more to create web apps based .Net technologies 
+History Of Web Development
+at first we started with static pages (html) it was only structured pages for displaying some documentation without any syling
+after that we saw the addition of CSS for our structure and it give us great styles but still static
+with the third step (JS) we get new generation for web development and we go in deeb with dynamic pages
+but still also need to connect with server 
+ASP.Net Active Server Pages this is the astart of .Net Framework as a web development 
+started with web forms like desktop forms but there wasn't any seperation in our work 
+
+MVC model-view-controller
+the main features which we get 
+1.Open Sourse 
+2.Cross Platform
+3.Seperation Of Consernes
+4.Powerfull Of Mapping 
+
+the flow of our work is that user will deal with views and from it he will send the request to the server 
+in the server the controller will take the rquest and handel it with models and databse 
+at the end the server will send the response for the user of system during views 
+
+web server 
+is a computer wich has a special software to make it server 
+in asp.net core mvc 
+we will observe that we have iis express server which consider local server for hosting our apps for test 
+
+
+Port/Controller/Action/Parameter
+Return Types Of Action 
+1. Simple String 
+2. JsonResult 
+3.ContentResult
+4.FileResult
+5.ViewResult
+
+--------------------------------------------------------------------------------------
+Strongly Typed View 
+
+the default behaviour of View is that a loselly type view when we deal with the model in the view by default 
+we get it as ageneric of dynamic model<dynamic> so according to dynamic if we have the error we know it during 
+run time by converting it to strong view we get main two features 
+1.type checking 
+2.intellisence support
+
+
+Middlewares 
+before we talk about middleware we need to know that all we know abour request path is that user open the browser 
+and ask the server for request, then request go to the server and then show the response 
+
+middleware is consider a block of code excuted on the request and help us more in building the request handel
+during middleware we have three methods 
+1.Use   execute then invoke the next one
+2.Map   execute specific middleware 
+3.Run   execute the middleware and tirminate 
+
+we have two shapes for middleware first one is inline middleware write as anonymous method the second is custom 
+class and inject in it's ctor request delegate to manage (Use-Map-Run)
+
+  1.inline Middleware 
+  2.Class based Middleware
+
+--------------------------------------------------------------------------------------
+Passing Data from Controller to View 
+
+request --> one action with one view (one model)
+what if i need to send extra information from controller to view 
+ 1.ViewData is a dictionay so has key&values 
+   key is string 
+   value is object 
+   ViewData Dic(string,Object)
+   need casting to it's type
+
+ 2.ViewBag the same idea of viewdata in the same place but it's dynamic properity
+   so i needn't to create type custing
+
+
+ 3.ViewModel is consider the sird way to send data between actions and views 
+   we use view model if we need customize some properties in our view 
+   or add new properties in the model 
+
+
+ 4.TempData transfer data from action to another action 
+            Dictionary(string,object)
+            stored in session not in objects of controller
+
+State Managment 
+http is stateless protocol once we refresh or send another request server can't remember us 
+we must handel and manage the state to remember us and this process called state managment 
+
+to manage our state we need to learn 
+Session
+Cookie
+
+according to stateless of http protocol we use session and cookie to save our data 
+
+
+binding data to develop Add New Form and Update form 
+--------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ITI.Revision.MVC.props" />
+</Project>
