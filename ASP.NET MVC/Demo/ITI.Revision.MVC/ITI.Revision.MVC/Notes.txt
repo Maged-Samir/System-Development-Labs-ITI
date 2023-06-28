@@ -94,7 +94,41 @@ Cookie
 according to stateless of http protocol we use session and cookie to save our data 
 
 
-binding data to develop Add New Form and Update form 
+binding data to develop Add New Form and Update form
+binding data mechanism [value provider (get data from every sources 1.form 2.qerystring) - model binder]
+--------------------------------------------------------------------------------------
+HTML Helper 
+Tag Helper
+
+two mechnism helping us more for writing HTML Syntax in simple way after rendring we get the result as native html 
+
+in our demo we applied 
+html helper in ADD New Product View 
+tag helper in Update Product View 
+
+SelectList is used like ComboBox in Desktop application 
+ValidateAntiForgeryToken
+prevent us from forgery token access / access another from port 
 --------------------------------------------------------------------------------------
 
+Layout 
+instead of creating many html pages with the same syntax we create only one page 
+and create only one method for changed contet RenderBody()
+
+note that we add our layout in shared folder for make it shared for all our pages in the website 
+
+Note that we have ONLY ONE renderbody 
+for another changed partes we create RenderSetion("section_Name")
+
+Views & Partial Views
+Views are typically used to render complete pages, while partial views are used to render smaller,
+reusable components of a page.
+
+Validation
+
+
+AJAX  is a technique used in web development to send and retrieve data from a server asynchronously
+without requiring a page refresh. It allows you to update parts of a web page dynamically,
+improving the user experience by providing seamless and interactive interactions.
+--------------------------------------------------------------------------------------
 

@@ -32,12 +32,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[G:/ITI-9 Months/00-GitHub/System-Development-Labs-ITI/ASP.NET MVC/Demo/ITI.Revision.MVC/ITI.Revision.MVC/Views/Product/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/00-GitHub/System-Development-Labs-ITI/ASP.NET MVC/Demo/ITI.Revision.MVC/ITI.Revision.MVC/Views/Product/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [G:/ITI-9 Months/00-GitHub/System-Development-Labs-ITI/ASP.NET MVC/Demo/ITI.Revision.MVC/ITI.Revision.MVC/Views/Product/GetAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [G:/ITI-9 Months/00-GitHub/System-Development-Labs-ITI/ASP.NET MVC/Demo/ITI.Revision.MVC/ITI.Revision.MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/00-GitHub/System-Development-Labs-ITI/ASP.NET MVC/Demo/ITI.Revision.MVC/ITI.Revision.MVC/Views/Shared/_SearchResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWFyY2hSZXN1bHRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [G:/ITI-9 Months/00-GitHub/System-Development-Labs-ITI/ASP.NET MVC/Demo/ITI.Revision.MVC/ITI.Revision.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]

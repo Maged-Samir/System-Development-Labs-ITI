@@ -1,0 +1,17 @@
+﻿
+@model List<Product>
+
+@if (Model.Count > 0)
+{
+    <h2>Search Results:</h2>
+    <ul>
+        @foreach (var product in Model)
+        {
+            <li>@product.Name - Qty: @product.Qty - Price: @product.Price</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No results found.</p>
+}

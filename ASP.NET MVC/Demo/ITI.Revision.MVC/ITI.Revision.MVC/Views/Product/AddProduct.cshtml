@@ -1,0 +1,23 @@
+﻿@model Product
+
+@using (Html.BeginForm("AddProduct", "Product", FormMethod.Post, new { @class = "my-form" }))
+{
+    <div>
+        @Html.LabelFor(model => model.Name)
+        @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+    </div>
+
+    <div>
+        @Html.LabelFor(model => model.Qty)
+        @Html.TextBoxFor(model => model.Qty, new { @class = "form-control" })
+    </div>
+
+    <div>
+        @Html.LabelFor(model => model.Price)
+        @Html.TextBoxFor(model => model.Price, new { @class = "form-control" })
+    </div>
+
+    <div>
+        <button type="submit" class="btn btn-primary m-2">Add Product</button>
+    </div>
+}

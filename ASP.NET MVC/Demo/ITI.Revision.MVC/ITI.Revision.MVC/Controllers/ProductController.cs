@@ -59,6 +59,68 @@ namespace ITI.Revision.MVC.Controllers
         }
 
 
+        //This is only simple example for using html Helpers
+
+        [HttpGet]
+        public IActionResult AddProduct()
+        {
+            return View("AddProduct");
+        }
+
+        [HttpPost]
+        public IActionResult AddProduct(Product product)
+        {
+            if(product.ID !=null && product.Name != null)
+            {
+                Product.products.Add(product); // Add the new product to the static list
+            }
+            return RedirectToAction("GetAll");
+        }
+
+
+        //This is only simple example for using html Helpers
+        [HttpGet]
+        public ActionResult EditProduct(int id)
+        {
+            Product product = Product.products.FirstOrDefault(p => p.ID == id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            return View(product);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult EditProduct(int id, Product updatedProduct)
+        {
+            if (ModelState.IsValid)
+            {
+                Product product = Product.products.FirstOrDefault(p => p.ID == id);
+                if (product == null)
+                {
+                    return NotFound();
+                }
+
+                // Update the product with the new values
+                product.Name = updatedProduct.Name;
+                product.Qty = updatedProduct.Qty;
+                product.Price = updatedProduct.Price;
+
+                return RedirectToAction("GetAll");
+            }
+
+            return View(updatedProduct);
+        }
+
+        //This is only simple example for using AJAX with MVC 
+        public ActionResult Search(string searchTerm)
+        {
+            var results = Product.products.Where(p => p.Name.Contains(searchTerm)).ToList();
+            return PartialView("_SearchResults", results);
+        }
+
 
     }
 }

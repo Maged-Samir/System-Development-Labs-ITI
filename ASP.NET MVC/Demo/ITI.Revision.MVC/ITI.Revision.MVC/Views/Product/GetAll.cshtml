@@ -9,6 +9,7 @@
             <th>Name</th>
             <th>Quantity</th>
             <th>Price</th>
+            <th>Operations</th>
         </tr>
     </thead>
     <tbody>
@@ -19,6 +20,7 @@
                 <td>@item.Name</td>
                 <td>@item.Qty</td>
                 <td>@item.Price</td>
+                <td><a asp-action="EditProduct" asp-controller="Product" asp-route-id="@item.ID" class="btn btn-secondary m-2">Update</a></td>
             </tr>
         }
     </tbody>
@@ -40,3 +42,36 @@
     }
 </select>
 
+<hr />
+
+@*Html Helper*@
+@Html.ActionLink("Create Product","AddProduct","Product",null,new{@class="btn btn-info m-2"})
+
+@*Tag Helper*@
+@*<a asp-action="EditProduct" asp-controller="Product"  class="btn btn-info m-2"> Update Product</a>*@
+
+<hr />
+<h1>Product Search Using AJAX</h1>
+<input type="text" id="searchTerm" placeholder="Enter a product name" />
+<button id="searchButton">Search</button>
+
+<div id="searchResults"></div>
+
+<script>
+    $(document).ready(function () {
+        $('#searchButton').click(function () {
+            var searchTerm = $('#searchTerm').val();
+            $.ajax({
+                url: '@Url.Action("Search", "Product")',
+                type: 'GET',
+                data: { searchTerm: searchTerm },
+                success: function (response) {
+                    $('#searchResults').html(response);
+                },
+                error: function () {
+                    alert('An error occurred while performing the search.');
+                }
+            });
+        });
+    });
+</script>
