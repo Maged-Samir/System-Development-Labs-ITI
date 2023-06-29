@@ -132,3 +132,14 @@ without requiring a page refresh. It allows you to update parts of a web page dy
 improving the user experience by providing seamless and interactive interactions.
 --------------------------------------------------------------------------------------
 
+Services
+Service is consider a new layer entered in our code and the main object from using it is to acheave the 
+seperation of consernse in MVC project 
+instead of declareing object from dbcontext in every controller, we create a new layer to contain this decleration 
+with helping of interfaces 
+and also we can say that using services in our work will help us more to apply SOLID principles 
+which make change of code so easy in next time 
+
+
+for test Servises We created new Model & Controller for Categories 
+builed it with Servies and applied GetAll, Create , Details 

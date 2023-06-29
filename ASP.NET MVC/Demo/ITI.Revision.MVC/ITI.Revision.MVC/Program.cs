@@ -1,6 +1,10 @@
-using ITI.Revision.MVC.CustomMiddlewares;
+﻿using ITI.Revision.MVC.CustomMiddlewares;
 using Microsoft.AspNetCore.Http.Features;
 using Microsoft.Extensions.Logging;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using ITI.Revision.MVC.Data;
+using ITI.Revision.MVC.Services;
 
 namespace ITI.Revision.MVC
 {
@@ -11,9 +15,15 @@ namespace ITI.Revision.MVC
         {
 
             var builder = WebApplication.CreateBuilder(args);
+
+            //builder.Services.AddDbContext<ITIRevisionMVCContext>(options =>
+
+            //    options.UseSqlServer(builder.Configuration.GetConnectionString("ITIRevisionMVCContext") ?? throw new InvalidOperationException("Connection string 'ITIRevisionMVCContext' not found.")));
             
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
 
             builder.Services.AddSession(s=>s.IdleTimeout=TimeSpan.FromSeconds(20));
 

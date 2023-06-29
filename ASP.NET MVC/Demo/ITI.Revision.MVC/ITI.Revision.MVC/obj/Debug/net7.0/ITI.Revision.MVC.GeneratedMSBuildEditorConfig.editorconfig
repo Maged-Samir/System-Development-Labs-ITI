@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC
 build_property._RazorSourceGeneratorDebug = 
 
+[G:/ITI-9 Months/00-GitHub/System-Development-Labs-ITI/ASP.NET MVC/Demo/ITI.Revision.MVC/ITI.Revision.MVC/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/00-GitHub/System-Development-Labs-ITI/ASP.NET MVC/Demo/ITI.Revision.MVC/ITI.Revision.MVC/Views/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/ITI-9 Months/00-GitHub/System-Development-Labs-ITI/ASP.NET MVC/Demo/ITI.Revision.MVC/ITI.Revision.MVC/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [G:/ITI-9 Months/00-GitHub/System-Development-Labs-ITI/ASP.NET MVC/Demo/ITI.Revision.MVC/ITI.Revision.MVC/Views/Demo/TestActionResult.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xUZXN0QWN0aW9uUmVzdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
