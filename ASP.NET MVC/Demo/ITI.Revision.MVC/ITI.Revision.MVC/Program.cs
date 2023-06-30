@@ -5,6 +5,10 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using ITI.Revision.MVC.Data;
 using ITI.Revision.MVC.Services;
+using ITI.Revision.MVC.Filters;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.Options;
+using System.Configuration;
 
 namespace ITI.Revision.MVC
 {
@@ -16,16 +20,18 @@ namespace ITI.Revision.MVC
 
             var builder = WebApplication.CreateBuilder(args);
 
-            //builder.Services.AddDbContext<ITIRevisionMVCContext>(options =>
+            var connectionString = builder.Configuration.GetConnectionString("ApplicationDbContextConnection") ?? throw new InvalidOperationException("Connection string 'ApplicationDbContextConnection' not found.");
 
-            //    options.UseSqlServer(builder.Configuration.GetConnectionString("ITIRevisionMVCContext") ?? throw new InvalidOperationException("Connection string 'ITIRevisionMVCContext' not found.")));
-            
+            builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionString));
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
-            builder.Services.AddScoped<ICategoryService, CategoryService>();
+            builder.Services.AddScoped<ICategoryService, CategoryService>(); //Register Custom Servoices
 
-            builder.Services.AddSession(s=>s.IdleTimeout=TimeSpan.FromSeconds(20));
+            builder.Services.AddScoped<ExecutionTimeFilter>(); //Custom filter
+
+            builder.Services.AddSession(s=>s.IdleTimeout=TimeSpan.FromSeconds(20));  // Session 
 
             var app = builder.Build();
 

@@ -143,3 +143,25 @@ which make change of code so easy in next time
 
 for test Servises We created new Model & Controller for Categories 
 builed it with Servies and applied GetAll, Create , Details 
+
+--------------------------------------------------------------------------------------
+
+Filters in MVC 
+we can define filters as customized behavior added to our code before and after controllers and actions 
+it's consider the same objective of middlewares in mvc but the difference appears in execution point where 
+filter levels can be on controller and action but middleware is helping us during request building in program pipline
+
+authentication  means that we have valied username and password this mean that i'm authenticated user
+authorization   means the role which i have , the access control for me that allow us to see pages 
+
+
+Routing in ASP.NET Core MVC refers to the mechanism that maps incoming URLs to controllers and actions,
+allowing the framework to determine which code should handle a particular request.
+Routing plays a crucial role in defining the structure and behavior of your MVC application
+
+Microsoft Identity 
+
+Install-Package Microsoft.AspNetCore.Identity.EntityFrameworkCore
+after that update DbContext
+then Check ConnectionString
+

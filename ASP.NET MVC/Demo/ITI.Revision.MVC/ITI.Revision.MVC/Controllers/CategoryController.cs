@@ -8,9 +8,13 @@ using Microsoft.EntityFrameworkCore;
 using ITI.Revision.MVC.Data;
 using ITI.Revision.MVC.Models;
 using ITI.Revision.MVC.Services;
+using Microsoft.AspNetCore.Authorization;
+using ITI.Revision.MVC.Filters;
 
 namespace ITI.Revision.MVC.Controllers
 {
+    //[Authorize]
+    [ServiceFilter(typeof(ExecutionTimeFilter))]
     public class CategoryController : Controller
     {
         ICategoryService categoryService;

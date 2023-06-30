@@ -282,3 +282,12 @@ G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revis
 G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.csproj.CopyComplete
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET MVC\Demo\ITI.Revision.MVC\ITI.Revision.MVC\obj\Debug\net7.0\ITI.Revision.MVC.MvcApplicationPartsAssemblyInfo.cs
