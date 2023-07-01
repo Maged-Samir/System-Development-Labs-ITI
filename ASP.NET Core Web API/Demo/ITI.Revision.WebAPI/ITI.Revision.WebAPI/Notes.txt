@@ -1,0 +1,34 @@
+﻿ASP.Net Core Web API 
+API- Sharing Functionality between different Clients (Angular-React-Native JS)
+Create group of End Points and make different Clients deal with them 
+the same idea of MVC pattern but here we will have only models, controller 
+and for the views each one will pick his view(technology)
+
+Http Request 
+              ---> 
+                   Server
+Http Response <---
+
+Http Request  (Method[get-post] - Header[Metadata/json,xml,langu] -Body[data])
+Http Response similler to request but we add new part Status Code(200-400-500)
+
+RestFul APis(guidelines) - SOAP API(Old Protocol based xml)
+
+Routing is different here not like MVC 
+ [Route("api/[controller]")]
+ if we have parameter changed like id
+ add  [Route("{id}")]
+
+ Don't Forget HTTP Method for every end point 
+
+ Difference between Middleware & Filter 
+ Validators attribute
+
+ ASP.Net give us group Of Services 
+ ILogger - log errors in console
+
+ record C# class - imutable once i created object i can't change it 
+ intialize it with parameter constractor 
+ equality in record is value type 
+
+ ------------------------------------------------------------------------------------------
