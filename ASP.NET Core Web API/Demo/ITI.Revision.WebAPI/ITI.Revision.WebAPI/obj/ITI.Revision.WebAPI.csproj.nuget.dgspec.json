@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maged\\Desktop\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI.csproj": {}
+    "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\ASP.NET Core Web API\\Demo\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maged\\Desktop\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI.csproj": {
+    "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\ASP.NET Core Web API\\Demo\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maged\\Desktop\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI.csproj",
+        "projectUniqueName": "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\ASP.NET Core Web API\\Demo\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI.csproj",
         "projectName": "ITI.Revision.WebAPI",
-        "projectPath": "C:\\Users\\Maged\\Desktop\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI.csproj",
+        "projectPath": "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\ASP.NET Core Web API\\Demo\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI.csproj",
         "packagesPath": "C:\\Users\\Maged\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maged\\Desktop\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI\\obj\\",
+        "outputPath": "G:\\ITI-9 Months\\00-GitHub\\System-Development-Labs-ITI\\ASP.NET Core Web API\\Demo\\ITI.Revision.WebAPI\\ITI.Revision.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maged\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,26 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.7, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

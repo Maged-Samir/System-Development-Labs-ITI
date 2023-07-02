@@ -32,3 +32,38 @@ Routing is different here not like MVC
  equality in record is value type 
 
  ------------------------------------------------------------------------------------------
+
+ Using entity frameworkCore 
+ at first we need to install our three main packages 
+ and create applicationDbContext with it's constractour & dbsets
+ and create connection string in program.cs and appsetting.json 
+ 
+ the models which we have in this project 
+ Student and Course where the relation between them many to many 
+ after we create it and start to deal with courses and start with post action , we will find that 
+ ther is problem that we need to define full object of course which contain list of students 
+ and it's not logic ,so we will disover a new consept called DTO (Data Transfer Object)
+
+ also we will see the problem of refrence loop 
+ that we will see a cyclic processes between objects like Course and Student 
+ for handeling refrence loop circular we will write some configuration in program.cs 
+ for preventing our objects inside project from this problem 
+
+if we foucsed in any action of our controllers we will see that 
+ 1.retrive data from database 
+ 2.mapping data from models to dto
+ 3.handle http response (main part of actions)
+
+ all these steps are in one action and if we followed the solid priciples , 
+ we will find that there is abig confilict between our action and single responsability principles 
+ so we need to create layered structure for our project , some times we divide it to folders 
+ and others divide it to different project 
+
+  1.Data Access Layer  (reposatories)
+  2.Bussiness Layer    (services-dto)
+  3.Presentation Layer (Controllers)
+
+
+ ------------------------------------------------------------------------------------------
+
+
