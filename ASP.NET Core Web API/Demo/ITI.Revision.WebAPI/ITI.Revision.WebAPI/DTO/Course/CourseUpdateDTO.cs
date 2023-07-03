@@ -1,8 +1,9 @@
 ﻿using ITI.Revision.WebAPI.Models;
 
-namespace ITI.Revision.WebAPI.DTO
+namespace ITI.Revision.WebAPI.DTO.Course
 {
-    public record CourseCreateDTO(
+    public record CourseUpdateDTO(
+        int Id,
         string Name,
         string Description,
         Level Level);

@@ -64,9 +64,25 @@
               "target": "Package",
               "version": "[7.0.7, )"
             },
+            "Microsoft.aspnetcore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.aspnetcore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.aspnetcore.authentication.jwtbearer": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.31.0, )"
             }
           },
           "imports": [

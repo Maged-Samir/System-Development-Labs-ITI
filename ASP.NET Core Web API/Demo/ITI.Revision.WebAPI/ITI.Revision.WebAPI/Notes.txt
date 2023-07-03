@@ -66,4 +66,23 @@ if we foucsed in any action of our controllers we will see that
 
  ------------------------------------------------------------------------------------------
 
+ Secure API & Identity 
+ we need to understand the flow of security of our APIS
+ first it's not like mvc we scaffolded some pages and controllers but here we need to write every thing manually 
+
+ at firts we need to generate token and send it to user save it in his pc
+ and every time he come with request send the token 
+
+ so now what is the token consist of 
+ token (Hashing Algorism - Claims - Hashing Result)
+
+ Claims - is group of information about user arranged as key-value pairs
+ Hashing Algorithm - is an algorithem used to hash our claims & secrit key to get hashing result
+ and note that there is a secrite key i write this key to combine it with claims of user
+
+ HashingResult=HashingAlgorithem(Claims,SecritKey)
+
+ to apply this in our project 
+ at first we will create static login to generate token and deal with it 
+ after that we will install identity in our project for test 
 

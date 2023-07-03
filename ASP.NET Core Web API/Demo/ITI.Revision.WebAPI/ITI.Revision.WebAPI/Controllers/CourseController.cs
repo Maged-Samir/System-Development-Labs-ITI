@@ -7,9 +7,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ITI.Revision.WebAPI.Data;
 using ITI.Revision.WebAPI.Models;
-using ITI.Revision.WebAPI.DTO;
 using System.Text.Json.Serialization;
 using System.Text.Json;
+using ITI.Revision.WebAPI.DTO.Course;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ITI.Revision.WebAPI.Controllers
 {
@@ -26,12 +27,14 @@ namespace ITI.Revision.WebAPI.Controllers
 
         // GET: api/Course
         [HttpGet]
+        [Authorize(Policy = "AllowManagers")]
         public async Task<ActionResult<IEnumerable<Course>>> GetCourses()
         {
           if (_context.Courses == null)
           {
               return NotFound();
           }
+
             //return await _context.Courses.ToListAsync();
             return await _context.Courses.Include(s=>s.Students).ToListAsync();
         }

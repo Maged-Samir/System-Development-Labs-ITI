@@ -1,9 +1,10 @@
 ﻿using ITI.Revision.WebAPI.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace ITI.Revision.WebAPI.Data
 {
-    public class ApplicationDbContext:DbContext
+    public class ApplicationDbContext : IdentityDbContext  //:DbContext
     {
         public ApplicationDbContext(DbContextOptions options):base(options) { }
 

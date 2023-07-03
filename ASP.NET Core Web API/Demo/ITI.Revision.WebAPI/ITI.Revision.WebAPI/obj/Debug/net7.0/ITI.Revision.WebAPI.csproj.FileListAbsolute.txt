@@ -285,3 +285,10 @@ G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET Core Web API\Demo\
 G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET Core Web API\Demo\ITI.Revision.WebAPI\ITI.Revision.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET Core Web API\Demo\ITI.Revision.WebAPI\ITI.Revision.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET Core Web API\Demo\ITI.Revision.WebAPI\ITI.Revision.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET Core Web API\Demo\ITI.Revision.WebAPI\ITI.Revision.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET Core Web API\Demo\ITI.Revision.WebAPI\ITI.Revision.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET Core Web API\Demo\ITI.Revision.WebAPI\ITI.Revision.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET Core Web API\Demo\ITI.Revision.WebAPI\ITI.Revision.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET Core Web API\Demo\ITI.Revision.WebAPI\ITI.Revision.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET Core Web API\Demo\ITI.Revision.WebAPI\ITI.Revision.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+G:\ITI-9 Months\00-GitHub\System-Development-Labs-ITI\ASP.NET Core Web API\Demo\ITI.Revision.WebAPI\ITI.Revision.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
