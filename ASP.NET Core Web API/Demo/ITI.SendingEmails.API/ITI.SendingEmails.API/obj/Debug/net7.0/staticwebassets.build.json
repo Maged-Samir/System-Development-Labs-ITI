@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "43/cNROK51AJlGmYXmcZRHDo98MOcdGBdeilvznvYB8=",
+  "Source": "ITI.SendingEmails.API",
+  "BasePath": "_content/ITI.SendingEmails.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
