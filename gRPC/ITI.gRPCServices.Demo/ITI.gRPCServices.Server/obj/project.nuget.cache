@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "zo1AD8lPrNB1ltE0xImJxVN+iZeWZ93W1Uc9IuE7c5YowJVIkeNOQm6OSwQZ153RvPD4rdnrvqE2fFK30X3gcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maged\\Desktop\\ITI.gRPCServices.Demo\\ITI.gRPCServices.Server\\ITI.gRPCServices.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maged\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\grpc.aspnetcore\\2.49.0\\grpc.aspnetcore.2.49.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\grpc.aspnetcore.server\\2.49.0\\grpc.aspnetcore.server.2.49.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.49.0\\grpc.aspnetcore.server.clientfactory.2.49.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\grpc.core.api\\2.49.0\\grpc.core.api.2.49.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\grpc.net.client\\2.49.0\\grpc.net.client.2.49.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\grpc.net.clientfactory\\2.49.0\\grpc.net.clientfactory.2.49.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\grpc.net.common\\2.49.0\\grpc.net.common.2.49.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\grpc.tools\\2.49.0\\grpc.tools.2.49.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.3\\microsoft.extensions.configuration.3.0.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.3\\microsoft.extensions.configuration.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.3\\microsoft.extensions.configuration.binder.3.0.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.3\\microsoft.extensions.dependencyinjection.3.0.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.3\\microsoft.extensions.dependencyinjection.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.http\\3.0.3\\microsoft.extensions.http.3.0.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.logging\\3.0.3\\microsoft.extensions.logging.3.0.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

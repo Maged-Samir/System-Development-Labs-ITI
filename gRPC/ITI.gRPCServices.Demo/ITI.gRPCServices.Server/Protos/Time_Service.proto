@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option csharp_namespace = "ITI.gRPCServices.Server.Protos";
+
+service TimeService {
+  rpc GetCurrentTime (Empty) returns (TimeResponse);
+}
+
+message Empty {}
+
+message TimeResponse {
+  string current_time = 1;
+}

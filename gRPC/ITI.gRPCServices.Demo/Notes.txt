@@ -1,0 +1,55 @@
+-gRPC 
+
+at first before we start we need to talk about http protocol 
+protocol is the way that handle the communication between server & client as we saw in web api (End points)
+http has different versions http1,http2...
+
+http1 appeared in 1997, text based protocol during sending information between client & server 
+and for header info should send in every request , no stream prioritization 
+
+http2 appeared in 2015, binary based protocol and have the concept of header compression info,can manage 
+prioritization during request for the content 
+
+gRPC open source platform allowing us to create remote procedure calling developed by google
+t is designed to enable efficient communication and interoperability between distributed systems,
+allowing clients to call methods or functions on remote servers as if they were local.
+
+the main idea of gRPC that it's based on http2 and concept of protobufferes (binary not text)
+Multiple Language Support which make use between in large systems 
+Code Generation- after we write our contract (protobuf compiler) generate the code base which we use it in client
+
+gRPC offers advantages such as efficient serialization, bi-directional streaming,
+language interoperability, and automatic code generation, making it suitable for building scalable,
+high-performance distributed systems, microservices architectures, and APIs.
+
+
+when to use gRPC
+Microservices Architecture
+Service-to-Service Communication
+API Development
+High-Performance Communication
+Streaming and Real-time Communication
+-----------------------------------------------------------------------------------
+XML, JSON, ProtoBufferes different data formats
+
+syntax 
+xml   nested elements - human readable
+json  javascript objects - human readable
+proto binaryformats very hard for human but solve it with proto message
+
+performance
+XML and JSON are generally slower to serialize and deserialize due to the text-based 
+Protocol Buffers are designed for high performance and efficiency. The binary format,
+along with the generated code and optimized parsing algorithms
+
+
+
+-----------------------------------------------------------------------------------
+to create your first gRPC Service 
+1.create your ASP.Net Core Grpc project 
+2.create your proto file which contain the signature (contract) for service 
+3.check proto file properties for generating base file (build action [protoCompiler])
+4.clean and build for generation file after that create your service class
+5.service class is consider the class which inherite the contract and in it override the main methods
+6.after that create project to be as aclient and don't forget to reference the service in it 
+7.write main code wich use the service 

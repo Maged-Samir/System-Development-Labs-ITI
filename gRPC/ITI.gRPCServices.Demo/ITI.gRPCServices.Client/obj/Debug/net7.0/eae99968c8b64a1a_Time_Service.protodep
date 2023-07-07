@@ -1,0 +1,2 @@
+obj\Debug\net7.0/TimeService.cs \
+obj\Debug\net7.0/TimeServiceGrpc.cs: ../ITI.gRPCServices.Server/Protos/Time_Service.proto
